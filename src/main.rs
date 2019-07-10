@@ -1,14 +1,130 @@
-#[allow(dead_code)]
-#[allow(unused_imports)]
+#![allow(dead_code)]
+#![allow(unused_imports)]
+#![allow(unused_assignments)]
+#![allow(unused_variables)]
 
 #[macro_use]
 extern crate json;
 
 
-use std::fs;
-use std::io::Write;
 use std::collections::HashMap;
+use std::cmp::Ordering;
+use std::{
+	fs,
+    fs::File,
+    io::{BufWriter, Write},
+};
 
+
+struct ScribbleSite {
+	id : String,
+	title : String,
+	desc : String,
+	t : String,
+	lat : String,
+	lon : String,
+}
+
+fn main() {
+	let address = String::from("https://www.scribblemaps.com/api/maps/NATUP/smjson");
+	println!("Downloading from {}", address);
+	let resp = reqwest::get(&address).unwrap().text().unwrap();
+
+	println!("Parsing result");
+	let data = json::parse(&resp).unwrap();
+
+    let path = String::from("scribblemaps.json");
+	println!("Writing json to {}", path);
+    write!(&mut BufWriter::new(&File::create(&path).unwrap()), "{:#}", data).unwrap();
+
+	println!("Extracting infos from json");
+    let mut site_list : Vec<ScribbleSite> = vec![];
+    for it in data["overlays"].members() {
+    	let mut desc = value_or_empty(&it["description"]);
+    	if desc.is_empty() { continue; }
+    	desc = desc.replace("<div>", "");
+    	desc = desc.replace("</div>", "");
+    	let site = ScribbleSite {
+	    	id: it["id"].to_string().trim().to_string(),
+    		desc: desc.trim().to_string(),
+	    	title: value_or_empty(&it["title"]).trim().to_string(),
+	    	t: it["type"].to_string().trim().to_string(),
+	    	lat: it["points"][0][0].to_string().trim().to_string(),
+	    	lon: it["points"][0][1].to_string().trim().to_string(),
+	    };
+	    site_list.push(site);
+    }
+
+    site_list.sort_by(|a, b| {
+    	match a.title.cmp(&b.title) {
+	    	Ordering::Equal => a.desc.cmp(&b.desc),
+	    	other => other,
+	    }
+    });
+
+    {
+		println!("Generating output");
+		let mut output = String::new();
+		let sep = String::from(" ; ");
+
+		output.push_str("id");
+		output.push_str(&sep);
+
+		output.push_str("type");
+		output.push_str(&sep);
+
+		output.push_str("latitude");
+		output.push_str(&sep);
+		output.push_str("longitude");
+		output.push_str(&sep);
+
+		output.push_str("description");
+		output.push_str(&sep);
+
+		output.push_str("title");
+		output.push_str(&sep);
+
+		output.push_str("\n");
+
+	    for it in site_list {
+			output.push_str(&it.id);
+			output.push_str(&sep);
+
+			output.push_str(&it.t);
+			output.push_str(&sep);
+
+			output.push_str(&it.lat);
+			output.push_str(&sep);
+			output.push_str(&it.lon);
+			output.push_str(&sep);
+
+			output.push_str(&it.desc);
+			output.push_str(&sep);
+
+			output.push_str(&it.title);
+			output.push_str(&sep);
+
+			output.push_str("\n");
+	    }
+
+	    let opath = String::from("scribblemaps.csv");
+		println!("Writing output to {}", opath);
+		let mut f = fs::File::create(&opath).expect("Unable to create file");
+		f.write_all(output.as_bytes()).expect("Unable to write data");
+	}
+}
+
+
+fn value_or_empty(obj: &json::JsonValue) -> String {
+	if obj.is_null() {
+		String::new()
+	} else {
+		obj.to_string()
+	}
+}
+
+
+/*
 
 struct Site {
 	id : String,
@@ -29,14 +145,6 @@ fn parse_address(obj: &json::JsonValue) -> Vec<String> {
 	return address;
 }
 
-fn value_or_empty(obj: &json::JsonValue) -> String {
-	if obj.is_null() {
-		String::from("")
-	} else {
-		obj.to_string()
-	}
-}
-
 fn get_phone(obj: &json::JsonValue) -> String {
 	if !obj["div"][1].is_array() {
 		value_or_empty(&obj["div"][1]["div"]["div"]["div"]["a"]["#text"])
@@ -49,7 +157,7 @@ fn get_email(obj: &json::JsonValue) -> String {
 	if obj["div"][1].is_array() {
 		value_or_empty(&obj["div"][1][1]["div"]["div"]["a"]["#text"])
 	} else {
-		String::from("")
+		String::new()
 	}
 }
 
@@ -159,7 +267,7 @@ fn map_id_positions(positions: &json::JsonValue) -> HashMap<String, &json::JsonV
 	return result;
 }
 
-fn main() {
+fn soufflet() {
 	let obj = json::parse(&fs::read_to_string("data\\data.json").unwrap()).unwrap();
 	let positions = json::parse(&fs::read_to_string("data\\positions.json").unwrap()).unwrap();
 	let hpos = map_id_positions(&positions);
@@ -171,3 +279,4 @@ fn main() {
 	let mut f = fs::File::create("data\\data.csv").expect("Unable to create file");
 	f.write_all(format(&site_list).as_bytes()).expect("Unable to write data");
 }
+*/
