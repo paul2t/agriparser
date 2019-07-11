@@ -1,6 +1,6 @@
 [package]
 name = "agriparser"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Paul DE TEMMERMAN <p2trman@gmail.com>"]
 edition = "2018"
 
