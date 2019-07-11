@@ -13,6 +13,7 @@ use std::{
 	fs,
     fs::File,
     io,
+    io::prelude::*,
     io::{BufWriter, Write},
     cmp::Ordering,
     collections::HashMap,
@@ -22,6 +23,7 @@ use reqwest::StatusCode;
 use byteorder::{WriteBytesExt, LittleEndian};
 use reqwest::header;
 use reqwest::header::HeaderMap;
+use std::process::Command;
 
 static DEBUG: bool = false;
 
@@ -39,11 +41,30 @@ macro_rules! tryretv {
 }
 
 fn main() {
-	axereal();
-	println!("");
-	scribble();
-	println!("");
-	soufflet();
+	let mut should_pause = false;
+	if axereal() == None { should_pause = true; }
+	println!();
+	if scribble() == None { should_pause = true; }
+	println!();
+	if soufflet() == None { should_pause = true; }
+
+	if should_pause {
+		println!();
+		println!("WARNING !!! THERE WERE SOME ERRORS !!!");
+	}
+	pause();
+}
+
+fn pause() {
+    let mut stdin = io::stdin();
+    let mut stdout = io::stdout();
+
+    // We want the cursor to stay at the end of the line, so we print without a newline and flush manually.
+    write!(stdout, "Press any key to continue...").unwrap();
+    stdout.flush().unwrap();
+
+    // Read a single byte and discard
+    let _ = stdin.read(&mut [0u8]).unwrap();
 }
 
 
