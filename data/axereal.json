@@ -202,118 +202,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.103561,
-                    46.924190000000003
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "CLERE DU BOIS",
-                "Adresse 1": "",
-                "Adresse 2": "",
-                "CP": 36700,
-                "Ville": "CLERE DU BOIS",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/999/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.420499,
-                    48.069673000000002
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "LUTZ EN DUNOIS",
-                "Adresse 1": "ROUTE D&#039;ETEAUVILLE",
-                "Adresse 2": "",
-                "CP": 28200,
-                "Ville": "LUTZ EN DUNOIS",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/967/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.88888699999999998,
-                    48.197989999999997
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "AUTHON DU PERCHE ",
-                "Adresse 1": "RUE MOISANTIERE",
-                "Adresse 2": "",
-                "CP": 28330,
-                "Ville": "AUTHON DU PERCHE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/935/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.4031479999999998,
-                    48.351168999999999
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "VILLIERS BONNEUX",
-                "Adresse 1": "3 rue des Tulipes",
-                "Adresse 2": "",
-                "CP": 89260,
-                "Ville": "PERCENEIGE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1192/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     2.1768800000000001,
                     46.758090000000003
                 ]
@@ -510,8 +398,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.9266429999999999,
-                    47.098692
+                    1.103561,
+                    46.924190000000003
                 ]
             },
             "properties": {
@@ -519,18 +407,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "PRECY",
-                "Adresse 1": "LE BOURG",
+                "Societe": "CLERE DU BOIS",
+                "Adresse 1": "",
                 "Adresse 2": "",
-                "CP": 18140,
-                "Ville": "PRECY",
+                "CP": 36700,
+                "Ville": "CLERE DU BOIS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/914/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/999/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -538,8 +426,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.762845,
-                    48.369371000000001
+                    1.420499,
+                    48.069673000000002
                 ]
             },
             "properties": {
@@ -547,18 +435,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "DANCE",
-                "Adresse 1": "LES DEUX CHAMPS",
+                "Societe": "LUTZ EN DUNOIS",
+                "Adresse 1": "ROUTE D&#039;ETEAUVILLE",
                 "Adresse 2": "",
-                "CP": 61340,
-                "Ville": "DANCE",
+                "CP": 28200,
+                "Ville": "LUTZ EN DUNOIS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1171/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/967/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -566,8 +454,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.1299329999999999,
-                    46.993434000000001
+                    0.88888699999999998,
+                    48.197989999999997
                 ]
             },
             "properties": {
@@ -575,18 +463,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CHAROST",
-                "Adresse 1": "52 AVENUE DU 8 MAI",
+                "Societe": "AUTHON DU PERCHE ",
+                "Adresse 1": "RUE MOISANTIERE",
                 "Adresse 2": "",
-                "CP": 18290,
-                "Ville": "CHAROST",
+                "CP": 28330,
+                "Ville": "AUTHON DU PERCHE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/882/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/935/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -594,8 +482,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.511244,
-                    46.976927000000003
+                    3.4031479999999998,
+                    48.351168999999999
                 ]
             },
             "properties": {
@@ -603,46 +491,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ANLEZY",
-                "Adresse 1": "Fâches",
+                "Societe": "VILLIERS BONNEUX",
+                "Adresse 1": "3 rue des Tulipes",
                 "Adresse 2": "",
-                "CP": 58270,
-                "Ville": "ANLEZY",
+                "CP": 89260,
+                "Ville": "PERCENEIGE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1138/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.66480499999999998,
-                    47.709935999999999
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "VILLEDIEU LE CHATEAU",
-                "Adresse 1": "LETOURNEAU",
-                "Adresse 2": "",
-                "CP": 41800,
-                "Ville": "VILLEDIEU LE CHATEAU",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1106/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1192/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -790,8 +650,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.6558079999999999,
-                    47.537143999999998
+                    2.9266429999999999,
+                    47.098692
                 ]
             },
             "properties": {
@@ -799,18 +659,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CERNOY EN BERRY",
-                "Adresse 1": "ROUTE DE CONCRESSAULT",
+                "Societe": "PRECY",
+                "Adresse 1": "LE BOURG",
                 "Adresse 2": "",
-                "CP": 45360,
-                "Ville": "CERNOY EN BERRY",
+                "CP": 18140,
+                "Ville": "PRECY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1117/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/914/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -818,8 +678,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.537215,
-                    47.914298000000002
+                    0.762845,
+                    48.369371000000001
                 ]
             },
             "properties": {
@@ -827,18 +687,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "OUZOUER LE MARCHE",
-                "Adresse 1": "43, AVENUE DE CHANZY",
+                "Societe": "DANCE",
+                "Adresse 1": "LES DEUX CHAMPS",
                 "Adresse 2": "",
-                "CP": 41240,
-                "Ville": "OUZOUER LE MARCHE",
+                "CP": 61340,
+                "Ville": "DANCE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1085/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1171/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -846,8 +706,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.90529000000000004,
-                    47.215971000000003
+                    2.1299329999999999,
+                    46.993434000000001
                 ]
             },
             "properties": {
@@ -855,18 +715,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MRO REIGNAC S/INDRE",
-                "Adresse 1": "5 RUE DE LA MAISON BRULEE",
+                "Societe": "CHAROST",
+                "Adresse 1": "52 AVENUE DU 8 MAI",
                 "Adresse 2": "",
-                "CP": 37310,
-                "Ville": "REIGNAC SUR INDRE",
+                "CP": 18290,
+                "Ville": "CHAROST",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1053/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/882/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -874,8 +734,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.148474,
-                    46.856026999999997
+                    3.511244,
+                    46.976927000000003
                 ]
             },
             "properties": {
@@ -883,18 +743,46 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "PAULNAY",
-                "Adresse 1": "",
+                "Societe": "ANLEZY",
+                "Adresse 1": "Fâches",
                 "Adresse 2": "",
-                "CP": 36290,
-                "Ville": "PAULNAY",
+                "CP": 58270,
+                "Ville": "ANLEZY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1021/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1138/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.66480499999999998,
+                    47.709935999999999
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "VILLEDIEU LE CHATEAU",
+                "Adresse 1": "LETOURNEAU",
+                "Adresse 2": "",
+                "CP": 41800,
+                "Ville": "VILLEDIEU LE CHATEAU",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1106/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1098,8 +986,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.2365600000000001,
-                    46.94556
+                    2.6558079999999999,
+                    47.537143999999998
                 ]
             },
             "properties": {
@@ -1107,18 +995,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CLION",
-                "Adresse 1": "LA GARE",
+                "Societe": "CERNOY EN BERRY",
+                "Adresse 1": "ROUTE DE CONCRESSAULT",
                 "Adresse 2": "",
-                "CP": 36700,
-                "Ville": "CLION",
+                "CP": 45360,
+                "Ville": "CERNOY EN BERRY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1000/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1117/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1126,8 +1014,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.840368,
-                    48.404696999999999
+                    1.537215,
+                    47.914298000000002
                 ]
             },
             "properties": {
@@ -1135,18 +1023,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MAISONS",
-                "Adresse 1": "Rue Parc",
+                "Societe": "OUZOUER LE MARCHE",
+                "Adresse 1": "43, AVENUE DE CHANZY",
                 "Adresse 2": "",
-                "CP": 28700,
-                "Ville": "MAISONS",
+                "CP": 41240,
+                "Ville": "OUZOUER LE MARCHE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/968/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1085/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1154,8 +1042,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.3234520000000001,
-                    48.364646999999998
+                    0.90529000000000004,
+                    47.215971000000003
                 ]
             },
             "properties": {
@@ -1163,18 +1051,46 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "BAILLEAU LE PIN",
-                "Adresse 1": "JARDIN D&#039;EUSTACHE",
+                "Societe": "MRO REIGNAC S/INDRE",
+                "Adresse 1": "5 RUE DE LA MAISON BRULEE",
                 "Adresse 2": "",
-                "CP": 28120,
-                "Ville": "BAILLEAU LE PIN",
+                "CP": 37310,
+                "Ville": "REIGNAC SUR INDRE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/936/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1053/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.148474,
+                    46.856026999999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "PAULNAY",
+                "Adresse 1": "",
+                "Adresse 2": "",
+                "CP": 36290,
+                "Ville": "PAULNAY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1021/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1406,8 +1322,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.684574,
-                    46.970641999999998
+                    1.2365600000000001,
+                    46.94556
                 ]
             },
             "properties": {
@@ -1415,74 +1331,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "RAYMOND",
-                "Adresse 1": "ROUTE DE JUSSY",
-                "Adresse 2": "",
-                "CP": 18130,
-                "Ville": "RAYMOND",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/915/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.69969899999999996,
-                    48.275604000000001
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "LE THEIL",
-                "Adresse 1": "RTE DE BERD&#039;HUIS",
-                "Adresse 2": "LE THEIL",
-                "CP": 61260,
-                "Ville": "LA ROUGE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1172/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.3122020000000001,
-                    46.854636999999997
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "CHATEAUNEUF",
+                "Societe": "CLION",
                 "Adresse 1": "LA GARE",
                 "Adresse 2": "",
-                "CP": 18190,
-                "Ville": "CHATEAUNEUF SUR CHER",
+                "CP": 36700,
+                "Ville": "CLION",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/883/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1000/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1490,8 +1350,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.9685069999999998,
-                    47.507812000000001
+                    1.840368,
+                    48.404696999999999
                 ]
             },
             "properties": {
@@ -1499,18 +1359,46 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ANNAY",
-                "Adresse 1": "Pierre Aigue",
+                "Societe": "MAISONS",
+                "Adresse 1": "Rue Parc",
                 "Adresse 2": "",
-                "CP": 58450,
-                "Ville": "ANNAY",
+                "CP": 28700,
+                "Ville": "MAISONS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1139/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/968/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3234520000000001,
+                    48.364646999999998
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "BAILLEAU LE PIN",
+                "Adresse 1": "JARDIN D&#039;EUSTACHE",
+                "Adresse 2": "",
+                "CP": 28120,
+                "Ville": "BAILLEAU LE PIN",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/936/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1686,8 +1574,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.5733509999999999,
-                    47.824697
+                    2.684574,
+                    46.970641999999998
                 ]
             },
             "properties": {
@@ -1695,18 +1583,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CRAVANT",
-                "Adresse 1": "Route de Villorceau",
+                "Societe": "RAYMOND",
+                "Adresse 1": "ROUTE DE JUSSY",
                 "Adresse 2": "",
-                "CP": 45190,
-                "Ville": "CRAVANT",
+                "CP": 18130,
+                "Ville": "RAYMOND",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1118/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/915/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1714,8 +1602,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.135988,
-                    47.865962000000003
+                    0.69969899999999996,
+                    48.275604000000001
                 ]
             },
             "properties": {
@@ -1723,18 +1611,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "PEZOU CENTRE",
-                "Adresse 1": "RUE DE VARENNE",
-                "Adresse 2": "",
-                "CP": 41100,
-                "Ville": "PEZOU",
+                "Societe": "LE THEIL",
+                "Adresse 1": "RTE DE BERD&#039;HUIS",
+                "Adresse 2": "LE THEIL",
+                "CP": 61260,
+                "Ville": "LA ROUGE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1086/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1172/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1742,8 +1630,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.3059179999999999,
-                    47.130422000000003
+                    2.3122020000000001,
+                    46.854636999999997
                 ]
             },
             "properties": {
@@ -1751,18 +1639,46 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "NOUANS LES FONTAINES",
-                "Adresse 1": "ROUTE D&#039;ECUEILLE",
+                "Societe": "CHATEAUNEUF",
+                "Adresse 1": "LA GARE",
                 "Adresse 2": "",
-                "CP": 37460,
-                "Ville": "NOUANS LES FONTAINES",
+                "CP": 18190,
+                "Ville": "CHATEAUNEUF SUR CHER",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1054/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/883/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9685069999999998,
+                    47.507812000000001
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "ANNAY",
+                "Adresse 1": "Pierre Aigue",
+                "Adresse 2": "",
+                "CP": 58450,
+                "Ville": "ANNAY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1139/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -1994,8 +1910,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.95871700000000004,
-                    46.736913000000001
+                    1.5733509999999999,
+                    47.824697
                 ]
             },
             "properties": {
@@ -2003,18 +1919,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "TOURNON ST MARTIN",
-                "Adresse 1": "IMPASSE DE LA GARE",
+                "Societe": "CRAVANT",
+                "Adresse 1": "Route de Villorceau",
                 "Adresse 2": "",
-                "CP": 36220,
-                "Ville": "TOURNON ST MARTIN",
+                "CP": 45190,
+                "Ville": "CRAVANT",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1033/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1118/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2022,8 +1938,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.7461390000000001,
-                    46.553189000000003
+                    1.135988,
+                    47.865962000000003
                 ]
             },
             "properties": {
@@ -2031,18 +1947,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CLUIS",
-                "Adresse 1": "LES BEARDES",
+                "Societe": "PEZOU CENTRE",
+                "Adresse 1": "RUE DE VARENNE",
                 "Adresse 2": "",
-                "CP": 36340,
-                "Ville": "CLUIS",
+                "CP": 41100,
+                "Ville": "PEZOU",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1001/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1086/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2050,8 +1966,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.516046,
-                    48.769934999999997
+                    1.3059179999999999,
+                    47.130422000000003
                 ]
             },
             "properties": {
@@ -2059,18 +1975,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MARCHEZAIS",
-                "Adresse 1": "1 COUR DE LA GARE",
+                "Societe": "NOUANS LES FONTAINES",
+                "Adresse 1": "ROUTE D&#039;ECUEILLE",
                 "Adresse 2": "",
-                "CP": 28410,
-                "Ville": "MARCHEZAIS",
+                "CP": 37460,
+                "Ville": "NOUANS LES FONTAINES",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/969/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1054/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2302,8 +2218,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.2356389999999999,
-                    48.453133999999999
+                    0.95871700000000004,
+                    46.736913000000001
                 ]
             },
             "properties": {
@@ -2311,18 +2227,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "COURVILLE",
-                "Adresse 1": "RUE DES ACQUEES",
+                "Societe": "TOURNON ST MARTIN",
+                "Adresse 1": "IMPASSE DE LA GARE",
                 "Adresse 2": "",
-                "CP": 28190,
-                "Ville": "COURVILLE SUR EURE",
+                "CP": 36220,
+                "Ville": "TOURNON ST MARTIN",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/948/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1033/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2330,8 +2246,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.807159,
-                    47.436318999999997
+                    1.7461390000000001,
+                    46.553189000000003
                 ]
             },
             "properties": {
@@ -2339,18 +2255,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "SAVIGNY EN SANCERRE",
-                "Adresse 1": "ROUTE DE STE GEMME",
+                "Societe": "CLUIS",
+                "Adresse 1": "LES BEARDES",
                 "Adresse 2": "",
-                "CP": 18240,
-                "Ville": "SAVIGNY EN SANCERRE",
+                "CP": 36340,
+                "Ville": "CLUIS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/916/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1001/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2358,8 +2274,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.93284100000000003,
-                    48.531013000000002
+                    1.516046,
+                    48.769934999999997
                 ]
             },
             "properties": {
@@ -2367,74 +2283,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LES MENUS",
-                "Adresse 1": "LES HAYES",
+                "Societe": "MARCHEZAIS",
+                "Adresse 1": "1 COUR DE LA GARE",
                 "Adresse 2": "",
-                "CP": 61290,
-                "Ville": "LES MENUS",
+                "CP": 28410,
+                "Ville": "MARCHEZAIS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1173/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.0472920000000001,
-                    47.120247999999997
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "CHERY",
-                "Adresse 1": "LE BOURG",
-                "Adresse 2": "",
-                "CP": 18120,
-                "Ville": "CHERY",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/884/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.5089869999999999,
-                    47.283836000000001
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "BRINON",
-                "Adresse 1": "LE BOURG",
-                "Adresse 2": "",
-                "CP": 58420,
-                "Ville": "MORACHES",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1140/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/969/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2582,8 +2442,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.195309,
-                    47.089346999999997
+                    1.2356389999999999,
+                    48.453133999999999
                 ]
             },
             "properties": {
@@ -2591,18 +2451,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "GUERIGNY",
-                "Adresse 1": "ZI de Villemenant",
+                "Societe": "COURVILLE",
+                "Adresse 1": "RUE DES ACQUEES",
                 "Adresse 2": "",
-                "CP": 58130,
-                "Ville": "GUERIGNY",
+                "CP": 28190,
+                "Ville": "COURVILLE SUR EURE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1151/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/948/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2610,8 +2470,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.1048740000000001,
-                    46.147908999999999
+                    2.807159,
+                    47.436318999999997
                 ]
             },
             "properties": {
@@ -2619,18 +2479,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VICQ ",
-                "Adresse 1": "LA COTE DU BECHIN",
+                "Societe": "SAVIGNY EN SANCERRE",
+                "Adresse 1": "ROUTE DE STE GEMME",
                 "Adresse 2": "",
-                "CP": 3450,
-                "Ville": "VICQ",
+                "CP": 18240,
+                "Ville": "SAVIGNY EN SANCERRE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/863/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/916/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2638,8 +2498,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.2411690000000002,
-                    48.237546999999999
+                    0.93284100000000003,
+                    48.531013000000002
                 ]
             },
             "properties": {
@@ -2647,18 +2507,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ENGENVILLE",
-                "Adresse 1": "12 RUE DU MOULIN",
+                "Societe": "LES MENUS",
+                "Adresse 1": "LES HAYES",
                 "Adresse 2": "",
-                "CP": 45300,
-                "Ville": "ENGENVILLE",
+                "CP": 61290,
+                "Ville": "LES MENUS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1119/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1173/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2666,8 +2526,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.249438,
-                    47.396861000000001
+                    2.0472920000000001,
+                    47.120247999999997
                 ]
             },
             "properties": {
@@ -2675,18 +2535,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "PONTLEVOY",
-                "Adresse 1": "ROUTE DE CANDE SUR BEUVRON",
+                "Societe": "CHERY",
+                "Adresse 1": "LE BOURG",
                 "Adresse 2": "",
-                "CP": 41400,
-                "Ville": "PONTLEVOY",
+                "CP": 18120,
+                "Ville": "CHERY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1087/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/884/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2694,8 +2554,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.2337050000000001,
-                    47.197277999999997
+                    3.5089869999999999,
+                    47.283836000000001
                 ]
             },
             "properties": {
@@ -2703,18 +2563,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ORBIGNY",
-                "Adresse 1": "TRAIN",
+                "Societe": "BRINON",
+                "Adresse 1": "LE BOURG",
                 "Adresse 2": "",
-                "CP": 37460,
-                "Ville": "ORBIGNY",
+                "CP": 58420,
+                "Ville": "MORACHES",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1055/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1140/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2890,8 +2750,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.555928,
-                    47.161223
+                    3.195309,
+                    47.089346999999997
                 ]
             },
             "properties": {
@@ -2899,18 +2759,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VALENCAY",
-                "Adresse 1": "ROUTE DE FAVEROLLES",
+                "Societe": "GUERIGNY",
+                "Adresse 1": "ZI de Villemenant",
                 "Adresse 2": "",
-                "CP": 36600,
-                "Ville": "VALENCAY",
+                "CP": 58130,
+                "Ville": "GUERIGNY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1034/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1151/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2918,8 +2778,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.357518,
-                    47.079192999999997
+                    3.1048740000000001,
+                    46.147908999999999
                 ]
             },
             "properties": {
@@ -2927,18 +2787,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ECUEILLE",
-                "Adresse 1": "ROUTE DE LEVROUX",
+                "Societe": "VICQ ",
+                "Adresse 1": "LA COTE DU BECHIN",
                 "Adresse 2": "",
-                "CP": 36240,
-                "Ville": "ECUEILLE",
+                "CP": 3450,
+                "Ville": "VICQ",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1002/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/863/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -2946,8 +2806,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.006486,
-                    48.489413999999996
+                    2.2411690000000002,
+                    48.237546999999999
                 ]
             },
             "properties": {
@@ -2955,18 +2815,74 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MEAUCE",
-                "Adresse 1": "SILO DU MOULIN",
+                "Societe": "ENGENVILLE",
+                "Adresse 1": "12 RUE DU MOULIN",
                 "Adresse 2": "",
-                "CP": 28240,
-                "Ville": "MEAUCE",
+                "CP": 45300,
+                "Ville": "ENGENVILLE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/970/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1119/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.249438,
+                    47.396861000000001
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "PONTLEVOY",
+                "Adresse 1": "ROUTE DE CANDE SUR BEUVRON",
+                "Adresse 2": "",
+                "CP": 41400,
+                "Ville": "PONTLEVOY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1087/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2337050000000001,
+                    47.197277999999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "ORBIGNY",
+                "Adresse 1": "TRAIN",
+                "Adresse 2": "",
+                "CP": 37460,
+                "Ville": "ORBIGNY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1055/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3198,8 +3114,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.1362749999999999,
-                    48.114705999999998
+                    1.555928,
+                    47.161223
                 ]
             },
             "properties": {
@@ -3207,18 +3123,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CROCHET",
-                "Adresse 1": "Lieudit CROCHET ROUTE DE BROU",
+                "Societe": "VALENCAY",
+                "Adresse 1": "ROUTE DE FAVEROLLES",
                 "Adresse 2": "",
-                "CP": 28290,
-                "Ville": "ARROU",
+                "CP": 36600,
+                "Ville": "VALENCAY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/949/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1034/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3226,8 +3142,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.2161970000000002,
-                    46.842950000000002
+                    1.357518,
+                    47.079192999999997
                 ]
             },
             "properties": {
@@ -3235,18 +3151,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ST BAUDEL",
-                "Adresse 1": "LA FOLIE",
+                "Societe": "ECUEILLE",
+                "Adresse 1": "ROUTE DE LEVROUX",
                 "Adresse 2": "",
-                "CP": 18160,
-                "Ville": "ST BAUDEL",
+                "CP": 36240,
+                "Ville": "ECUEILLE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/917/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1002/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3254,8 +3170,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.74622599999999994,
-                    48.552532999999997
+                    1.006486,
+                    48.489413999999996
                 ]
             },
             "properties": {
@@ -3263,46 +3179,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LONGNY AU PERCHE",
-                "Adresse 1": "LA BERNILLIERE",
+                "Societe": "MEAUCE",
+                "Adresse 1": "SILO DU MOULIN",
                 "Adresse 2": "",
-                "CP": 61290,
-                "Ville": "MOULICENT",
+                "CP": 28240,
+                "Ville": "MEAUCE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1174/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.3449589999999998,
-                    46.550024000000001
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "CULAN",
-                "Adresse 1": "LA GARE",
-                "Adresse 2": "",
-                "CP": 18270,
-                "Ville": "CULAN",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/885/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/970/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3478,8 +3366,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.024807,
-                    47.181378000000002
+                    1.1362749999999999,
+                    48.114705999999998
                 ]
             },
             "properties": {
@@ -3487,18 +3375,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LA CHARITE",
-                "Adresse 1": "Rue de Guérigny",
+                "Societe": "CROCHET",
+                "Adresse 1": "Lieudit CROCHET ROUTE DE BROU",
                 "Adresse 2": "",
-                "CP": 58400,
-                "Ville": "LA CHARITE SUR LOIRE",
+                "CP": 28290,
+                "Ville": "ARROU",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1152/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/949/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3506,8 +3394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.2327305000000002,
-                    44.830489399999998
+                    2.2161970000000002,
+                    46.842950000000002
                 ]
             },
             "properties": {
@@ -3515,18 +3403,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CAYROLS ",
-                "Adresse 1": "ZA de l&#039;Estancade",
+                "Societe": "ST BAUDEL",
+                "Adresse 1": "LA FOLIE",
                 "Adresse 2": "",
-                "CP": 15290,
-                "Ville": "CAYROLS",
+                "CP": 18160,
+                "Ville": "ST BAUDEL",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/864/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/917/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3534,8 +3422,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.1341199999999998,
-                    47.928471000000002
+                    0.74622599999999994,
+                    48.552532999999997
                 ]
             },
             "properties": {
@@ -3543,18 +3431,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "FAY AUX LOGES",
-                "Adresse 1": "COUR DE LA GARE",
+                "Societe": "LONGNY AU PERCHE",
+                "Adresse 1": "LA BERNILLIERE",
                 "Adresse 2": "",
-                "CP": 45450,
-                "Ville": "FAY AUX LOGES",
+                "CP": 61290,
+                "Ville": "MOULICENT",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1120/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1174/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3562,8 +3450,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.91725699999999999,
-                    47.693510000000003
+                    2.3449589999999998,
+                    46.550024000000001
                 ]
             },
             "properties": {
@@ -3571,18 +3459,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "PRUNAY CASSEREAU",
-                "Adresse 1": "LES NOUES AUX BOEUFS",
+                "Societe": "CULAN",
+                "Adresse 1": "LA GARE",
                 "Adresse 2": "",
-                "CP": 41310,
-                "Ville": "PRUNAY CASSEREAU",
+                "CP": 18270,
+                "Ville": "CULAN",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1088/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/885/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3786,8 +3674,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.032583,
-                    47.898569999999999
+                    3.024807,
+                    47.181378000000002
                 ]
             },
             "properties": {
@@ -3795,18 +3683,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "DANZE",
-                "Adresse 1": "ROUTE DE LA VILLE AUX CLERCS",
+                "Societe": "LA CHARITE",
+                "Adresse 1": "Rue de Guérigny",
                 "Adresse 2": "",
-                "CP": 41160,
-                "Ville": "DANZE",
+                "CP": 58400,
+                "Ville": "LA CHARITE SUR LOIRE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1067/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1152/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3814,8 +3702,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.810038,
-                    47.068598999999999
+                    2.2327305000000002,
+                    44.830489399999998
                 ]
             },
             "properties": {
@@ -3823,18 +3711,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VATAN",
-                "Adresse 1": "12 BIS RUE DES RECOLLETS",
+                "Societe": "CAYROLS ",
+                "Adresse 1": "ZA de l&#039;Estancade",
                 "Adresse 2": "",
-                "CP": 36150,
-                "Ville": "VATAN",
+                "CP": 15290,
+                "Ville": "CAYROLS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1035/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/864/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -3842,8 +3730,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.414194,
-                    47.168492999999998
+                    2.1341199999999998,
+                    47.928471000000002
                 ]
             },
             "properties": {
@@ -3851,18 +3739,46 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "FAVEROLLES",
-                "Adresse 1": "",
+                "Societe": "FAY AUX LOGES",
+                "Adresse 1": "COUR DE LA GARE",
                 "Adresse 2": "",
-                "CP": 36360,
-                "Ville": "FAVEROLLES",
+                "CP": 45450,
+                "Ville": "FAY AUX LOGES",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1003/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1120/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.91725699999999999,
+                    47.693510000000003
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "PRUNAY CASSEREAU",
+                "Adresse 1": "LES NOUES AUX BOEUFS",
+                "Adresse 2": "",
+                "CP": 41310,
+                "Ville": "PRUNAY CASSEREAU",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1088/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -4094,8 +4010,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.453152,
-                    48.378701999999997
+                    1.032583,
+                    47.898569999999999
                 ]
             },
             "properties": {
@@ -4103,18 +4019,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "THIVARS",
-                "Adresse 1": "34 RUE HECTOR BOUDON",
+                "Societe": "DANZE",
+                "Adresse 1": "ROUTE DE LA VILLE AUX CLERCS",
                 "Adresse 2": "",
-                "CP": 28630,
-                "Ville": "THIVARS",
+                "CP": 41160,
+                "Ville": "DANZE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/982/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1067/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -4122,8 +4038,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.2820149999999999,
-                    48.210071999999997
+                    1.810038,
+                    47.068598999999999
                 ]
             },
             "properties": {
@@ -4131,18 +4047,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "DANGEAU",
-                "Adresse 1": "36 ROUTE DE BROU",
+                "Societe": "VATAN",
+                "Adresse 1": "12 BIS RUE DES RECOLLETS",
                 "Adresse 2": "",
-                "CP": 28160,
-                "Ville": "DANGEAU",
+                "CP": 36150,
+                "Ville": "VATAN",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/950/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1035/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -4150,8 +4066,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.3491439999999999,
-                    47.145150000000001
+                    1.414194,
+                    47.168492999999998
                 ]
             },
             "properties": {
@@ -4159,46 +4075,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ST ELOY DE GY",
-                "Adresse 1": "LES DESERTS",
+                "Societe": "FAVEROLLES",
+                "Adresse 1": "",
                 "Adresse 2": "",
-                "CP": 18110,
-                "Ville": "ST ELOY DE GY",
+                "CP": 36360,
+                "Ville": "FAVEROLLES",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/918/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.58082100000000003,
-                    48.284111000000003
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "ST GERMAIN DE LA COUDRE",
-                "Adresse 1": "LA MOTHUE",
-                "Adresse 2": "",
-                "CP": 61130,
-                "Ville": "ST GERMAIN DE LA COUDRE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1175/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1003/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -4374,6 +4262,258 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    1.453152,
+                    48.378701999999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "THIVARS",
+                "Adresse 1": "34 RUE HECTOR BOUDON",
+                "Adresse 2": "",
+                "CP": 28630,
+                "Ville": "THIVARS",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/982/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2820149999999999,
+                    48.210071999999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "DANGEAU",
+                "Adresse 1": "36 ROUTE DE BROU",
+                "Adresse 2": "",
+                "CP": 28160,
+                "Ville": "DANGEAU",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/950/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3491439999999999,
+                    47.145150000000001
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "ST ELOY DE GY",
+                "Adresse 1": "LES DESERTS",
+                "Adresse 2": "",
+                "CP": 18110,
+                "Ville": "ST ELOY DE GY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/918/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.58082100000000003,
+                    48.284111000000003
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "ST GERMAIN DE LA COUDRE",
+                "Adresse 1": "LA MOTHUE",
+                "Adresse 2": "",
+                "CP": 61130,
+                "Ville": "ST GERMAIN DE LA COUDRE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1175/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.89816700000000005,
+                    47.650109
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "AUTHON",
+                "Adresse 1": "37 RUE DE LA GARE",
+                "Adresse 2": "",
+                "CP": 41310,
+                "Ville": "AUTHON",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1057/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0423817999999301,
+                    47.084859199999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "REUILLY ",
+                "Adresse 1": "ZONE INDUSTRIELLE",
+                "Adresse 2": "",
+                "CP": 36260,
+                "Ville": "REUILLY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1025/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7291589999999999,
+                    46.955329999999996
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "BRION",
+                "Adresse 1": "3 RUE RINGOUAIRE",
+                "Adresse 2": "",
+                "CP": 36110,
+                "Ville": "BRION",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/993/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.882968,
+                    48.204256000000001
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "JANVILLE",
+                "Adresse 1": "6 CHEMIN DU BOEL    BP 10",
+                "Adresse 2": "",
+                "CP": 28310,
+                "Ville": "JANVILLE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/961/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4571130000000001,
+                    46.942096999999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "VORLY",
+                "Adresse 1": "ROUTE DE LEVET",
+                "Adresse 2": "",
+                "CP": 18340,
+                "Ville": "VORLY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/929/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     3.704466,
                     48.139940000000003
                 ]
@@ -4535,258 +4675,6 @@
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
                 "EditLink": "<a href=\"/node/1089/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.89816700000000005,
-                    47.650109
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "AUTHON",
-                "Adresse 1": "37 RUE DE LA GARE",
-                "Adresse 2": "",
-                "CP": 41310,
-                "Ville": "AUTHON",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1057/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.0423817999999301,
-                    47.084859199999997
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "REUILLY ",
-                "Adresse 1": "ZONE INDUSTRIELLE",
-                "Adresse 2": "",
-                "CP": 36260,
-                "Ville": "REUILLY",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1025/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.7291589999999999,
-                    46.955329999999996
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "BRION",
-                "Adresse 1": "3 RUE RINGOUAIRE",
-                "Adresse 2": "",
-                "CP": 36110,
-                "Ville": "BRION",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/993/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.882968,
-                    48.204256000000001
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "JANVILLE",
-                "Adresse 1": "6 CHEMIN DU BOEL    BP 10",
-                "Adresse 2": "",
-                "CP": 28310,
-                "Ville": "JANVILLE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/961/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.4571130000000001,
-                    46.942096999999997
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "VORLY",
-                "Adresse 1": "ROUTE DE LEVET",
-                "Adresse 2": "",
-                "CP": 18340,
-                "Ville": "VORLY",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/929/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.80294399999999999,
-                    47.719723000000002
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "ST MARTIN DES BOIS",
-                "Adresse 1": "LA FOSSE AUX CANES",
-                "Adresse 2": "",
-                "CP": 41800,
-                "Ville": "ST MARTIN DES BOIS",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1100/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.075215,
-                    48.044556
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "DROUE",
-                "Adresse 1": "14 RUE DU CHEMIN DE FER",
-                "Adresse 2": "",
-                "CP": 41270,
-                "Ville": "DROUE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1068/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.8123579999999999,
-                    47.077838999999997
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "VATAN",
-                "Adresse 1": "3 AV DE LA GARE",
-                "Adresse 2": "",
-                "CP": 36150,
-                "Ville": "VATAN",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1036/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.104352,
-                    47.025297999999999
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "FLERE LA RIVIERE ",
-                "Adresse 1": "L&#039;AIGUILLON",
-                "Adresse 2": "",
-                "CP": 36700,
-                "Ville": "FLERE LA RIVIERE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1004/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -4990,8 +4878,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.9312830000000001,
-                    48.184438
+                    0.80294399999999999,
+                    47.719723000000002
                 ]
             },
             "properties": {
@@ -4999,18 +4887,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "TOURY",
-                "Adresse 1": "ZA DE LA HAUTE BORNE",
+                "Societe": "ST MARTIN DES BOIS",
+                "Adresse 1": "LA FOSSE AUX CANES",
                 "Adresse 2": "",
-                "CP": 28310,
-                "Ville": "TOURY",
+                "CP": 41800,
+                "Ville": "ST MARTIN DES BOIS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/983/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1100/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5018,8 +4906,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.9312180000000001,
-                    48.184463000000001
+                    1.075215,
+                    48.044556
                 ]
             },
             "properties": {
@@ -5027,18 +4915,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ECHIVARD CEREALES",
-                "Adresse 1": "ZA de la Haute Borne",
+                "Societe": "DROUE",
+                "Adresse 1": "14 RUE DU CHEMIN DE FER",
                 "Adresse 2": "",
-                "CP": 28310,
-                "Ville": "TOURY",
+                "CP": 41270,
+                "Ville": "DROUE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/951/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1068/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5046,8 +4934,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.5055529999999999,
-                    47.097810000000003
+                    1.8123579999999999,
+                    47.077838999999997
                 ]
             },
             "properties": {
@@ -5055,18 +4943,46 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ST GERMAIN DU PUY BUREAU",
-                "Adresse 1": "Route de Moulins/Yèvre",
+                "Societe": "VATAN",
+                "Adresse 1": "3 AV DE LA GARE",
                 "Adresse 2": "",
-                "CP": 18390,
-                "Ville": "ST GERMAIN DU PUY",
+                "CP": 36150,
+                "Ville": "VATAN",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/919/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1036/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.104352,
+                    47.025297999999999
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "FLERE LA RIVIERE ",
+                "Adresse 1": "L&#039;AIGUILLON",
+                "Adresse 2": "",
+                "CP": 36700,
+                "Ville": "FLERE LA RIVIERE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1004/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5270,8 +5186,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.5833249999999999,
-                    48.159131000000002
+                    1.9312830000000001,
+                    48.184438
                 ]
             },
             "properties": {
@@ -5279,18 +5195,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "COULOURS",
-                "Adresse 1": "1 route de Vaudeurs",
+                "Societe": "TOURY",
+                "Adresse 1": "ZA DE LA HAUTE BORNE",
                 "Adresse 2": "",
-                "CP": 89320,
-                "Ville": "COULOURS",
+                "CP": 28310,
+                "Ville": "TOURY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1187/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/983/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5298,8 +5214,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.0679470000000002,
-                    47.071900999999997
+                    1.9312180000000001,
+                    48.184463000000001
                 ]
             },
             "properties": {
@@ -5307,18 +5223,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LAZENAY",
-                "Adresse 1": "ROUTE DE LIMEUX",
+                "Societe": "ECHIVARD CEREALES",
+                "Adresse 1": "ZA de la Haute Borne",
                 "Adresse 2": "",
-                "CP": 18120,
-                "Ville": "LAZENAY",
+                "CP": 28310,
+                "Ville": "TOURY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/898/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/951/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5326,8 +5242,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.8036189999999999,
-                    46.980038
+                    2.5055529999999999,
+                    47.097810000000003
                 ]
             },
             "properties": {
@@ -5335,74 +5251,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MOULINS ENGILBERT",
-                "Adresse 1": "16 route de Decize",
+                "Societe": "ST GERMAIN DU PUY BUREAU",
+                "Adresse 1": "Route de Moulins/Yèvre",
                 "Adresse 2": "",
-                "CP": 58290,
-                "Ville": "MOULINS ENGILBERT",
+                "CP": 18390,
+                "Ville": "ST GERMAIN DU PUY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1154/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.2185066999999998,
-                    45.135309999999997
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "PLEAUX ",
-                "Adresse 1": "LES YOLES BASSES",
-                "Adresse 2": "Route du stade - Direction Spontour",
-                "CP": 15700,
-                "Ville": "PLEAUX",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/866/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.5438209999999999,
-                    48.003836
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "LADON ",
-                "Adresse 1": "180 RUE DU MOULIN ROUTHION",
-                "Adresse 2": "",
-                "CP": 45270,
-                "Ville": "LADON",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1122/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/919/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5578,8 +5438,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.3648149999999999,
-                    47.294998999999997
+                    3.5833249999999999,
+                    48.159131000000002
                 ]
             },
             "properties": {
@@ -5587,18 +5447,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ST ROMAIN SUR CHER",
-                "Adresse 1": "RN 76 ROUTE DE TOURS (L&#039;AUBRIERE)",
-                "Adresse 2": "SILO DE L&#039;ORMELET",
-                "CP": 41140,
-                "Ville": "ST ROMAIN SUR CHER",
+                "Societe": "COULOURS",
+                "Adresse 1": "1 route de Vaudeurs",
+                "Adresse 2": "",
+                "CP": 89320,
+                "Ville": "COULOURS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1101/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1187/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5606,8 +5466,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.92580899999999999,
-                    47.898696999999999
+                    2.0679470000000002,
+                    47.071900999999997
                 ]
             },
             "properties": {
@@ -5615,18 +5475,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "EPUISAY",
-                "Adresse 1": "LA METAIRIE",
+                "Societe": "LAZENAY",
+                "Adresse 1": "ROUTE DE LIMEUX",
                 "Adresse 2": "",
-                "CP": 41360,
-                "Ville": "EPUISAY",
+                "CP": 18120,
+                "Ville": "LAZENAY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1069/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/898/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5634,8 +5494,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.5389060000000001,
-                    46.831417999999999
+                    3.8036189999999999,
+                    46.980038
                 ]
             },
             "properties": {
@@ -5643,18 +5503,74 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VILLEDIEU/INDRE",
-                "Adresse 1": "MOULIN MIREBEAU",
+                "Societe": "MOULINS ENGILBERT",
+                "Adresse 1": "16 route de Decize",
                 "Adresse 2": "",
-                "CP": 36320,
-                "Ville": "VILLEDIEU SUR INDRE",
+                "CP": 58290,
+                "Ville": "MOULINS ENGILBERT",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1037/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1154/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2185066999999998,
+                    45.135309999999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "PLEAUX ",
+                "Adresse 1": "LES YOLES BASSES",
+                "Adresse 2": "Route du stade - Direction Spontour",
+                "CP": 15700,
+                "Ville": "PLEAUX",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/866/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5438209999999999,
+                    48.003836
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "LADON ",
+                "Adresse 1": "180 RUE DU MOULIN ROUTHION",
+                "Adresse 2": "",
+                "CP": 45270,
+                "Ville": "LADON",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1122/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5886,8 +5802,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.92885200000000001,
-                    46.636363000000003
+                    1.3648149999999999,
+                    47.294998999999997
                 ]
             },
             "properties": {
@@ -5895,18 +5811,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MERIGNY",
-                "Adresse 1": "ROUTE DE TILLOUX",
-                "Adresse 2": "",
-                "CP": 36220,
-                "Ville": "MERIGNY",
+                "Societe": "ST ROMAIN SUR CHER",
+                "Adresse 1": "RN 76 ROUTE DE TOURS (L&#039;AUBRIERE)",
+                "Adresse 2": "SILO DE L&#039;ORMELET",
+                "CP": 41140,
+                "Ville": "ST ROMAIN SUR CHER",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1016/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1101/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5914,8 +5830,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.0989420000000001,
-                    48.195669000000002
+                    0.92580899999999999,
+                    47.898696999999999
                 ]
             },
             "properties": {
@@ -5923,18 +5839,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "UNVERRE",
-                "Adresse 1": "LES MOULINS DES DEUX CHAMPS",
+                "Societe": "EPUISAY",
+                "Adresse 1": "LA METAIRIE",
                 "Adresse 2": "",
-                "CP": 28160,
-                "Ville": "UNVERRE",
+                "CP": 41360,
+                "Ville": "EPUISAY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/984/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1069/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -5942,8 +5858,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.646784,
-                    48.222647000000002
+                    1.5389060000000001,
+                    46.831417999999999
                 ]
             },
             "properties": {
@@ -5951,18 +5867,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "FAINS LA FOLIE",
-                "Adresse 1": "13 VOIX ROMAINE",
+                "Societe": "VILLEDIEU/INDRE",
+                "Adresse 1": "MOULIN MIREBEAU",
                 "Adresse 2": "",
-                "CP": 28150,
-                "Ville": "FAINS LA FOLIE",
+                "CP": 36320,
+                "Ville": "VILLEDIEU SUR INDRE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/952/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1037/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -6166,6 +6082,230 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    0.92885200000000001,
+                    46.636363000000003
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "MERIGNY",
+                "Adresse 1": "ROUTE DE TILLOUX",
+                "Adresse 2": "",
+                "CP": 36220,
+                "Ville": "MERIGNY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1016/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.0989420000000001,
+                    48.195669000000002
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "UNVERRE",
+                "Adresse 1": "LES MOULINS DES DEUX CHAMPS",
+                "Adresse 2": "",
+                "CP": 28160,
+                "Ville": "UNVERRE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/984/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.646784,
+                    48.222647000000002
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "FAINS LA FOLIE",
+                "Adresse 1": "13 VOIX ROMAINE",
+                "Adresse 2": "",
+                "CP": 28150,
+                "Ville": "FAINS LA FOLIE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/952/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1939489999999999,
+                    47.750593000000002
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "SELOMMES",
+                "Adresse 1": "5 AVENUE DE LA GARE",
+                "Adresse 2": "",
+                "CP": 41100,
+                "Ville": "SELOMMES",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1091/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.99177000000000004,
+                    47.846446999999998
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "AZE",
+                "Adresse 1": "ZONE ARTISANALE",
+                "Adresse 2": "",
+                "CP": 41100,
+                "Ville": "AZE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1059/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.99129699999999998,
+                    46.633988000000002
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "ST AIGNY",
+                "Adresse 1": "",
+                "Adresse 2": "",
+                "CP": 36300,
+                "Ville": "ST AIGNY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1027/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.804082,
+                    46.938673999999999
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "CHAMPENOISE",
+                "Adresse 1": "LA GUENETTERIE",
+                "Adresse 2": "",
+                "CP": 36100,
+                "Ville": "LA CHAMPENOISE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/995/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3435589999999999,
+                    47.984158000000001
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "LA FERTE VILLENEUIL",
+                "Adresse 1": "1 RUE DU SILO",
+                "Adresse 2": "",
+                "CP": 28220,
+                "Ville": "LA FERTE VILLENEUIL",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/963/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     1.8052159999999999,
                     46.411594999999998
                 ]
@@ -6327,258 +6467,6 @@
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
                 "EditLink": "<a href=\"/node/1123/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.1939489999999999,
-                    47.750593000000002
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "SELOMMES",
-                "Adresse 1": "5 AVENUE DE LA GARE",
-                "Adresse 2": "",
-                "CP": 41100,
-                "Ville": "SELOMMES",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1091/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.99177000000000004,
-                    47.846446999999998
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "AZE",
-                "Adresse 1": "ZONE ARTISANALE",
-                "Adresse 2": "",
-                "CP": 41100,
-                "Ville": "AZE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1059/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    0.99129699999999998,
-                    46.633988000000002
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "ST AIGNY",
-                "Adresse 1": "",
-                "Adresse 2": "",
-                "CP": 36300,
-                "Ville": "ST AIGNY",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1027/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.804082,
-                    46.938673999999999
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "CHAMPENOISE",
-                "Adresse 1": "LA GUENETTERIE",
-                "Adresse 2": "",
-                "CP": 36100,
-                "Ville": "LA CHAMPENOISE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/995/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.3435589999999999,
-                    47.984158000000001
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "LA FERTE VILLENEUIL",
-                "Adresse 1": "1 RUE DU SILO",
-                "Adresse 2": "",
-                "CP": 28220,
-                "Ville": "LA FERTE VILLENEUIL",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/963/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.3932579999999999,
-                    47.726374999999997
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "SULLY SUR LOIRE",
-                "Adresse 1": "LES FRAPPIERS",
-                "Adresse 2": "",
-                "CP": 45600,
-                "Ville": "SULLY SUR LOIRE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1134/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.4552020000000001,
-                    47.679774999999999
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "SUEVRES GARE",
-                "Adresse 1": "DIZIERS",
-                "Adresse 2": "",
-                "CP": 41500,
-                "Ville": "SUEVRES",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1102/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.378992,
-                    47.903396999999998
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "LA COLOMBE",
-                "Adresse 1": "LE MOULIN",
-                "Adresse 2": "",
-                "CP": 41160,
-                "Ville": "LA COLOMBE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1070/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    1.3685719999999999,
-                    46.968617999999999
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "VILLEGOUIN",
-                "Adresse 1": "LE BOURG",
-                "Adresse 2": "",
-                "CP": 36500,
-                "Ville": "VILLEGOUIN",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1038/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -6782,8 +6670,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.204663,
-                    46.815626000000002
+                    2.3932579999999999,
+                    47.726374999999997
                 ]
             },
             "properties": {
@@ -6791,18 +6679,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MEZIERES",
-                "Adresse 1": "22 AVENUE DE VERDUN",
+                "Societe": "SULLY SUR LOIRE",
+                "Adresse 1": "LES FRAPPIERS",
                 "Adresse 2": "",
-                "CP": 36290,
-                "Ville": "MEZIERES EN BRENNE",
+                "CP": 45600,
+                "Ville": "SULLY SUR LOIRE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1017/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1134/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -6810,8 +6698,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.1963490000000001,
-                    48.265729999999998
+                    1.4552020000000001,
+                    47.679774999999999
                 ]
             },
             "properties": {
@@ -6819,18 +6707,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VIEUVICQ",
-                "Adresse 1": "LA GARE - BOUCHETTERIE",
+                "Societe": "SUEVRES GARE",
+                "Adresse 1": "DIZIERS",
                 "Adresse 2": "",
-                "CP": 28120,
-                "Ville": "VIEUVICQ",
+                "CP": 41500,
+                "Ville": "SUEVRES",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/985/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1102/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -6838,8 +6726,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.0537970000000001,
-                    48.706054000000002
+                    1.378992,
+                    47.903396999999998
                 ]
             },
             "properties": {
@@ -6847,18 +6735,46 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "FESSANVILLIERS",
-                "Adresse 1": "LE BOIS GRASSET",
+                "Societe": "LA COLOMBE",
+                "Adresse 1": "LE MOULIN",
                 "Adresse 2": "",
-                "CP": 28270,
-                "Ville": "FESSANVILLIERS MATTANVILLIER",
+                "CP": 41160,
+                "Ville": "LA COLOMBE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/953/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1070/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3685719999999999,
+                    46.968617999999999
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "VILLEGOUIN",
+                "Adresse 1": "LE BOURG",
+                "Adresse 2": "",
+                "CP": 36500,
+                "Ville": "VILLEGOUIN",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1038/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7090,8 +7006,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.2454610000000002,
-                    46.411586
+                    1.204663,
+                    46.815626000000002
                 ]
             },
             "properties": {
@@ -7099,18 +7015,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ST PIERRE LE BOST",
-                "Adresse 1": "LE PETIT JURIGNY",
+                "Societe": "MEZIERES",
+                "Adresse 1": "22 AVENUE DE VERDUN",
                 "Adresse 2": "",
-                "CP": 23600,
-                "Ville": "ST PIERRE LE BOST",
+                "CP": 36290,
+                "Ville": "MEZIERES EN BRENNE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/932/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1017/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7118,8 +7034,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.4474339999999999,
-                    48.278016999999998
+                    1.1963490000000001,
+                    48.265729999999998
                 ]
             },
             "properties": {
@@ -7127,18 +7043,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LA POSTOLLE",
-                "Adresse 1": "56 grande rue",
+                "Societe": "VIEUVICQ",
+                "Adresse 1": "LA GARE - BOUCHETTERIE",
                 "Adresse 2": "",
-                "CP": 89260,
-                "Ville": "LA POSTOLLE",
+                "CP": 28120,
+                "Ville": "VIEUVICQ",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1189/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/985/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7146,8 +7062,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.8749310000000001,
-                    47.474392999999999
+                    1.0537970000000001,
+                    48.706054000000002
                 ]
             },
             "properties": {
@@ -7155,74 +7071,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LERE",
-                "Adresse 1": "LE PORT DU CANAL",
+                "Societe": "FESSANVILLIERS",
+                "Adresse 1": "LE BOIS GRASSET",
                 "Adresse 2": "",
-                "CP": 18240,
-                "Ville": "LERE",
+                "CP": 28270,
+                "Ville": "FESSANVILLIERS MATTANVILLIER",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/900/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.0595340000000002,
-                    47.376246000000002
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "POUGNY",
-                "Adresse 1": "ROUTE DE DONZY",
-                "Adresse 2": "",
-                "CP": 58200,
-                "Ville": "POUGNY",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1156/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.3501180000000002,
-                    46.959707000000002
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "ARCAY ",
-                "Adresse 1": "LE TRONC",
-                "Adresse 2": "",
-                "CP": 18340,
-                "Ville": "ARCAY",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/868/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/953/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7398,8 +7258,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.1667429999999999,
-                    47.816302999999998
+                    2.2454610000000002,
+                    46.411586
                 ]
             },
             "properties": {
@@ -7407,18 +7267,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "TIGY",
-                "Adresse 1": "LE PETIT FORCELLE RTE DE JARGEAU",
+                "Societe": "ST PIERRE LE BOST",
+                "Adresse 1": "LE PETIT JURIGNY",
                 "Adresse 2": "",
-                "CP": 45510,
-                "Ville": "TIGY",
+                "CP": 23600,
+                "Ville": "ST PIERRE LE BOST",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1135/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/932/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7426,8 +7286,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.153492,
-                    47.682808999999999
+                    3.4474339999999999,
+                    48.278016999999998
                 ]
             },
             "properties": {
@@ -7435,18 +7295,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "TOURAILLES",
-                "Adresse 1": "15 RUE DU PRIEURE",
+                "Societe": "LA POSTOLLE",
+                "Adresse 1": "56 grande rue",
                 "Adresse 2": "",
-                "CP": 41190,
-                "Ville": "TOURAILLES",
+                "CP": 89260,
+                "Ville": "LA POSTOLLE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1103/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1189/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7454,8 +7314,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.3950659999999999,
-                    47.783135999999999
+                    2.8749310000000001,
+                    47.474392999999999
                 ]
             },
             "properties": {
@@ -7463,18 +7323,74 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LA MADELEINE",
-                "Adresse 1": "Auteuil",
+                "Societe": "LERE",
+                "Adresse 1": "LE PORT DU CANAL",
                 "Adresse 2": "",
-                "CP": 41370,
-                "Ville": "LA MADELEINE VILLEFROUIN",
+                "CP": 18240,
+                "Ville": "LERE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1071/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/900/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0595340000000002,
+                    47.376246000000002
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "POUGNY",
+                "Adresse 1": "ROUTE DE DONZY",
+                "Adresse 2": "",
+                "CP": 58200,
+                "Ville": "POUGNY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1156/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3501180000000002,
+                    46.959707000000002
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "ARCAY ",
+                "Adresse 1": "LE TRONC",
+                "Adresse 2": "",
+                "CP": 18340,
+                "Ville": "ARCAY",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/868/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7706,8 +7622,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.0138609999999999,
-                    47.565798000000001
+                    2.1667429999999999,
+                    47.816302999999998
                 ]
             },
             "properties": {
@@ -7715,18 +7631,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MORAND",
-                "Adresse 1": "LA MINE D&#039;OR",
+                "Societe": "TIGY",
+                "Adresse 1": "LE PETIT FORCELLE RTE DE JARGEAU",
                 "Adresse 2": "",
-                "CP": 37110,
-                "Ville": "MORAND",
+                "CP": 45510,
+                "Ville": "TIGY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1050/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1135/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7734,8 +7650,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.9793339999999999,
-                    46.595346999999997
+                    1.153492,
+                    47.682808999999999
                 ]
             },
             "properties": {
@@ -7743,18 +7659,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MONTGIVRAY",
-                "Adresse 1": "ZONE INDUSTRIELLE",
+                "Societe": "TOURAILLES",
+                "Adresse 1": "15 RUE DU PRIEURE",
                 "Adresse 2": "",
-                "CP": 36400,
-                "Ville": "MONTGIVRAY",
+                "CP": 41190,
+                "Ville": "TOURAILLES",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1018/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1103/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -7762,8 +7678,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.5622149999999999,
-                    48.289273000000001
+                    1.3950659999999999,
+                    47.783135999999999
                 ]
             },
             "properties": {
@@ -7771,18 +7687,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VILLENEUVE ST. NICOLAS",
-                "Adresse 1": "ROUTE BONCE",
+                "Societe": "LA MADELEINE",
+                "Adresse 1": "Auteuil",
                 "Adresse 2": "",
-                "CP": 28150,
-                "Ville": "VILLENEUVE ST NICOLAS",
+                "CP": 41370,
+                "Ville": "LA MADELEINE VILLEFROUIN",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/986/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1071/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8014,8 +7930,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.4963249999999999,
-                    48.234298000000003
+                    1.0138609999999999,
+                    47.565798000000001
                 ]
             },
             "properties": {
@@ -8023,18 +7939,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LE GAULT ST DENIS",
-                "Adresse 1": "LA GARE RTE DE CHAUFFOURS",
+                "Societe": "MORAND",
+                "Adresse 1": "LA MINE D&#039;OR",
                 "Adresse 2": "",
-                "CP": 28800,
-                "Ville": "LE GAULT ST DENIS",
+                "CP": 37110,
+                "Ville": "MORAND",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/965/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1050/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8042,8 +7958,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.1286149999999999,
-                    48.101180999999997
+                    1.9793339999999999,
+                    46.595346999999997
                 ]
             },
             "properties": {
@@ -8051,18 +7967,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ARROU",
-                "Adresse 1": "30 AVENUE DE LA GARE",
+                "Societe": "MONTGIVRAY",
+                "Adresse 1": "ZONE INDUSTRIELLE",
                 "Adresse 2": "",
-                "CP": 28290,
-                "Ville": "ARROU",
+                "CP": 36400,
+                "Ville": "MONTGIVRAY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/933/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1018/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8070,8 +7986,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.4455279999999999,
-                    48.185161999999998
+                    1.5622149999999999,
+                    48.289273000000001
                 ]
             },
             "properties": {
@@ -8079,74 +7995,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LE PETIT VILLIERS",
-                "Adresse 1": "Petit Villiers",
+                "Societe": "VILLENEUVE ST. NICOLAS",
+                "Adresse 1": "ROUTE BONCE",
                 "Adresse 2": "",
-                "CP": 89190,
-                "Ville": "PONT SUR VANNE",
+                "CP": 28150,
+                "Ville": "VILLENEUVE ST NICOLAS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1190/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.5784549999999999,
-                    47.198489000000002
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "LES AIX",
-                "Adresse 1": "16 ROUTE DE LA GARE",
-                "Adresse 2": "",
-                "CP": 18220,
-                "Ville": "LES AIX D ANGILLON",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/901/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.993071,
-                    47.269241999999998
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "POUILLY SUR LOIRE",
-                "Adresse 1": "LES RICHINES CAILLOTTES",
-                "Adresse 2": "",
-                "CP": 58150,
-                "Ville": "POUILLY SUR LOIRE",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1157/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/986/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8322,8 +8182,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.75960099999999997,
-                    48.221271000000002
+                    1.4963249999999999,
+                    48.234298000000003
                 ]
             },
             "properties": {
@@ -8331,18 +8191,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CETON",
-                "Adresse 1": "VAL MARTIN CHEM.DES GOUTTIERS",
+                "Societe": "LE GAULT ST DENIS",
+                "Adresse 1": "LA GARE RTE DE CHAUFFOURS",
                 "Adresse 2": "",
-                "CP": 61260,
-                "Ville": "CETON",
+                "CP": 28800,
+                "Ville": "LE GAULT ST DENIS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1169/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/965/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8350,8 +8210,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.9929899999999998,
-                    47.166516999999999
+                    1.1286149999999999,
+                    48.101180999999997
                 ]
             },
             "properties": {
@@ -8359,18 +8219,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CHAPELLE MONTLINARD",
-                "Adresse 1": "AVENUE J. COEUR",
+                "Societe": "ARROU",
+                "Adresse 1": "30 AVENUE DE LA GARE",
                 "Adresse 2": "",
-                "CP": 18140,
-                "Ville": "LA CHAPELLE MONTLINARD",
+                "CP": 28290,
+                "Ville": "ARROU",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/880/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/933/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8378,8 +8238,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.0479500000000002,
-                    47.943606000000003
+                    3.4455279999999999,
+                    48.185161999999998
                 ]
             },
             "properties": {
@@ -8387,18 +8247,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VENNECY",
-                "Adresse 1": "35 RUE DE LA GARE",
+                "Societe": "LE PETIT VILLIERS",
+                "Adresse 1": "Petit Villiers",
                 "Adresse 2": "",
-                "CP": 45760,
-                "Ville": "VENNECY",
+                "CP": 89190,
+                "Ville": "PONT SUR VANNE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1136/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1190/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8406,8 +8266,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.1453979999999999,
-                    47.425553000000001
+                    2.5784549999999999,
+                    47.198489000000002
                 ]
             },
             "properties": {
@@ -8415,18 +8275,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VALLIERES LES GRANDES",
-                "Adresse 1": "LES VIGNES DU CAULT",
+                "Societe": "LES AIX",
+                "Adresse 1": "16 ROUTE DE LA GARE",
                 "Adresse 2": "",
-                "CP": 41400,
-                "Ville": "VALLIERES LES GRANDES",
+                "CP": 18220,
+                "Ville": "LES AIX D ANGILLON",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1104/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/901/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8434,8 +8294,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.96339399999999997,
-                    48.076386999999997
+                    2.993071,
+                    47.269241999999998
                 ]
             },
             "properties": {
@@ -8443,18 +8303,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LE GAULT DU PERCHE",
-                "Adresse 1": "LA GARE D&#039;ARVILLE",
+                "Societe": "POUILLY SUR LOIRE",
+                "Adresse 1": "LES RICHINES CAILLOTTES",
                 "Adresse 2": "",
-                "CP": 41270,
-                "Ville": "LE GAULT PERCHE",
+                "CP": 58150,
+                "Ville": "POUILLY SUR LOIRE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1072/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1157/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8602,8 +8462,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.76626399999999995,
-                    47.390604000000003
+                    0.75960099999999997,
+                    48.221271000000002
                 ]
             },
             "properties": {
@@ -8611,18 +8471,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MRO LA VILLE AUX DAMES",
-                "Adresse 1": "RUE CHAMPMESLE",
+                "Societe": "CETON",
+                "Adresse 1": "VAL MARTIN CHEM.DES GOUTTIERS",
                 "Adresse 2": "",
-                "CP": 37700,
-                "Ville": "LA VILLE AUX DAMES",
+                "CP": 61260,
+                "Ville": "CETON",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1051/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1169/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8630,8 +8490,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.7928120000000001,
-                    46.849767999999997
+                    2.9929899999999998,
+                    47.166516999999999
                 ]
             },
             "properties": {
@@ -8639,18 +8499,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MONTIERCHAUME ",
-                "Adresse 1": "LA GARE",
+                "Societe": "CHAPELLE MONTLINARD",
+                "Adresse 1": "AVENUE J. COEUR",
                 "Adresse 2": "",
-                "CP": 36130,
-                "Ville": "MONTIERCHAUME",
+                "CP": 18140,
+                "Ville": "LA CHAPELLE MONTLINARD",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1019/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/880/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8658,8 +8518,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.487018,
-                    48.140613000000002
+                    2.0479500000000002,
+                    47.943606000000003
                 ]
             },
             "properties": {
@@ -8667,18 +8527,74 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VILLIERS ST ORIEN",
-                "Adresse 1": "23 RUE D&#039;ALLUYES",
-                "Adresse 2": "BP 18",
-                "CP": 28800,
-                "Ville": "VILLIERS ST ORIEN",
+                "Societe": "VENNECY",
+                "Adresse 1": "35 RUE DE LA GARE",
+                "Adresse 2": "",
+                "CP": 45760,
+                "Ville": "VENNECY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/987/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1136/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1453979999999999,
+                    47.425553000000001
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "VALLIERES LES GRANDES",
+                "Adresse 1": "LES VIGNES DU CAULT",
+                "Adresse 2": "",
+                "CP": 41400,
+                "Ville": "VALLIERES LES GRANDES",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1104/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.96339399999999997,
+                    48.076386999999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "LE GAULT DU PERCHE",
+                "Adresse 1": "LA GARE D&#039;ARVILLE",
+                "Adresse 2": "",
+                "CP": 41270,
+                "Ville": "LE GAULT PERCHE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1072/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8910,8 +8826,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.268197,
-                    48.143647999999999
+                    0.76626399999999995,
+                    47.390604000000003
                 ]
             },
             "properties": {
@@ -8919,18 +8835,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "LOGRON",
-                "Adresse 1": "AUTELOUP",
+                "Societe": "MRO LA VILLE AUX DAMES",
+                "Adresse 1": "RUE CHAMPMESLE",
                 "Adresse 2": "",
-                "CP": 28200,
-                "Ville": "LOGRON",
+                "CP": 37700,
+                "Ville": "LA VILLE AUX DAMES",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/966/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1051/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8938,8 +8854,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.7739130000000001,
-                    48.457627000000002
+                    1.7928120000000001,
+                    46.849767999999997
                 ]
             },
             "properties": {
@@ -8947,18 +8863,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "AUNEAU",
-                "Adresse 1": "57 RUE DE LA RESISTANCE",
+                "Societe": "MONTIERCHAUME ",
+                "Adresse 1": "LA GARE",
                 "Adresse 2": "",
-                "CP": 28700,
-                "Ville": "AUNEAU",
+                "CP": 36130,
+                "Ville": "MONTIERCHAUME",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/934/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1019/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -8966,8 +8882,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.5488710000000001,
-                    48.237577999999999
+                    1.487018,
+                    48.140613000000002
                 ]
             },
             "properties": {
@@ -8975,46 +8891,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MOLINONS",
-                "Adresse 1": "RN 60",
-                "Adresse 2": "",
-                "CP": 89190,
-                "Ville": "MOLINONS",
+                "Societe": "VILLIERS ST ORIEN",
+                "Adresse 1": "23 RUE D&#039;ALLUYES",
+                "Adresse 2": "BP 18",
+                "CP": 28800,
+                "Ville": "VILLIERS ST ORIEN",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1191/edit/\" target=\"_blank\">modifier</a>"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.9276490000000002,
-                    46.841752
-                ]
-            },
-            "properties": {
-                "name": "Métiers du grain",
-                "description": "Métiers du grain",
-                "Type_site": "SILOS FRANCE",
-                "Picto": "",
-                "Societe": "LES GRIVELLES",
-                "Adresse 1": "LES GRIVELLES",
-                "Adresse 2": "",
-                "CP": 18600,
-                "Ville": "SANCOINS",
-                "Pays": "France",
-                "Tel": "",
-                "Tid": 109,
-                "Tid_parent": 106,
-                "Picto_parent": "",
-                "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/902/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/987/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -9218,8 +9106,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.90805400000000003,
-                    48.393050000000002
+                    1.268197,
+                    48.143647999999999
                 ]
             },
             "properties": {
@@ -9227,18 +9115,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "COULONGES",
-                "Adresse 1": "LA BRULARDIERE",
+                "Societe": "LOGRON",
+                "Adresse 1": "AUTELOUP",
                 "Adresse 2": "",
-                "CP": 61110,
-                "Ville": "COULONGES LES SABLONS",
+                "CP": 28200,
+                "Ville": "LOGRON",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1170/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/966/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -9246,8 +9134,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    2.8657180000000002,
-                    47.150039
+                    1.7739130000000001,
+                    48.457627000000002
                 ]
             },
             "properties": {
@@ -9255,18 +9143,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "CHARENTONNAY",
-                "Adresse 1": "LA VIEILLE POSTE",
+                "Societe": "AUNEAU",
+                "Adresse 1": "57 RUE DE LA RESISTANCE",
                 "Adresse 2": "",
-                "CP": 18140,
-                "Ville": "CHARENTONNAY",
+                "CP": 28700,
+                "Ville": "AUNEAU",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/881/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/934/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -9274,8 +9162,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    3.0355110000000001,
-                    47.442428999999997
+                    3.5488710000000001,
+                    48.237577999999999
                 ]
             },
             "properties": {
@@ -9283,18 +9171,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "ALLIGNY-COSNE",
-                "Adresse 1": "SUCHET",
+                "Societe": "MOLINONS",
+                "Adresse 1": "RN 60",
                 "Adresse 2": "",
-                "CP": 58200,
-                "Ville": "ALLIGNY COSNE",
+                "CP": 89190,
+                "Ville": "MOLINONS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1137/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1191/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -9302,8 +9190,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.423651,
-                    47.962572999999999
+                    2.9276490000000002,
+                    46.841752
                 ]
             },
             "properties": {
@@ -9311,18 +9199,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "VERDES",
-                "Adresse 1": "54 RUE DUNOIS",
+                "Societe": "LES GRIVELLES",
+                "Adresse 1": "LES GRIVELLES",
                 "Adresse 2": "",
-                "CP": 41240,
-                "Ville": "VERDES",
+                "CP": 18600,
+                "Ville": "SANCOINS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1105/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/902/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -9498,8 +9386,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.338738,
-                    47.939458000000002
+                    0.90805400000000003,
+                    48.393050000000002
                 ]
             },
             "properties": {
@@ -9507,18 +9395,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "OUZOUER LE DOYEN",
-                "Adresse 1": "1 RUE DU CHATEAU",
+                "Societe": "COULONGES",
+                "Adresse 1": "LA BRULARDIERE",
                 "Adresse 2": "",
-                "CP": 41160,
-                "Ville": "OUZOUER LE DOYEN",
+                "CP": 61110,
+                "Ville": "COULONGES LES SABLONS",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1084/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1170/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -9526,8 +9414,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.56875699999999996,
-                    47.555968
+                    2.8657180000000002,
+                    47.150039
                 ]
             },
             "properties": {
@@ -9535,18 +9423,18 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "MRO NEUILLE PONT PIERRE",
-                "Adresse 1": "La Gare",
+                "Societe": "CHARENTONNAY",
+                "Adresse 1": "LA VIEILLE POSTE",
                 "Adresse 2": "",
-                "CP": 37360,
-                "Ville": "NEUILLE PONT PIERRE",
+                "CP": 18140,
+                "Ville": "CHARENTONNAY",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1052/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/881/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -9554,8 +9442,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    1.8713599999999999,
-                    46.887110999999997
+                    3.0355110000000001,
+                    47.442428999999997
                 ]
             },
             "properties": {
@@ -9563,18 +9451,46 @@
                 "description": "Métiers du grain",
                 "Type_site": "SILOS FRANCE",
                 "Picto": "",
-                "Societe": "NEUVY_PAILLOUX ",
-                "Adresse 1": "LES GRANDS MARAIS",
+                "Societe": "ALLIGNY-COSNE",
+                "Adresse 1": "SUCHET",
                 "Adresse 2": "",
-                "CP": 36100,
-                "Ville": "NEUVY PAILLOUX",
+                "CP": 58200,
+                "Ville": "ALLIGNY COSNE",
                 "Pays": "France",
                 "Tel": "",
                 "Tid": 109,
                 "Tid_parent": 106,
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
-                "EditLink": "<a href=\"/node/1020/edit/\" target=\"_blank\">modifier</a>"
+                "EditLink": "<a href=\"/node/1137/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.423651,
+                    47.962572999999999
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "VERDES",
+                "Adresse 1": "54 RUE DUNOIS",
+                "Adresse 2": "",
+                "CP": 41240,
+                "Ville": "VERDES",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1105/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {
@@ -9799,6 +9715,90 @@
                 "Picto_parent": "",
                 "Type_parent": "Agricole",
                 "EditLink": "<a href=\"/node/1116/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.338738,
+                    47.939458000000002
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "OUZOUER LE DOYEN",
+                "Adresse 1": "1 RUE DU CHATEAU",
+                "Adresse 2": "",
+                "CP": 41160,
+                "Ville": "OUZOUER LE DOYEN",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1084/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.56875699999999996,
+                    47.555968
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "MRO NEUILLE PONT PIERRE",
+                "Adresse 1": "La Gare",
+                "Adresse 2": "",
+                "CP": 37360,
+                "Ville": "NEUILLE PONT PIERRE",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1052/edit/\" target=\"_blank\">modifier</a>"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8713599999999999,
+                    46.887110999999997
+                ]
+            },
+            "properties": {
+                "name": "Métiers du grain",
+                "description": "Métiers du grain",
+                "Type_site": "SILOS FRANCE",
+                "Picto": "",
+                "Societe": "NEUVY_PAILLOUX ",
+                "Adresse 1": "LES GRANDS MARAIS",
+                "Adresse 2": "",
+                "CP": 36100,
+                "Ville": "NEUVY PAILLOUX",
+                "Pays": "France",
+                "Tel": "",
+                "Tid": 109,
+                "Tid_parent": 106,
+                "Picto_parent": "",
+                "Type_parent": "Agricole",
+                "EditLink": "<a href=\"/node/1020/edit/\" target=\"_blank\">modifier</a>"
             }
         },
         {

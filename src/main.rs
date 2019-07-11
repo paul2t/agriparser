@@ -7,6 +7,7 @@
 #[macro_use]
 extern crate json;
 extern crate byteorder;
+extern crate roxmltree;
 
 use std::{
 	fs,
@@ -19,6 +20,8 @@ use std::{
 
 use reqwest::StatusCode;
 use byteorder::{WriteBytesExt, LittleEndian};
+use reqwest::header;
+use reqwest::header::HeaderMap;
 
 
 macro_rules! trynone {
@@ -35,9 +38,11 @@ macro_rules! tryretv {
 }
 
 fn main() {
-	scribblemaps();
-	println!("");
 	axereal();
+	println!("");
+	soufflet();
+	println!("");
+	scribblemaps();
 }
 
 
@@ -79,7 +84,17 @@ fn json_parse_array(data: &json::JsonValue, len: i32, out: &mut Vec<String>) {
 	}
 }
 
-
+fn json_str(obj: &json::JsonValue) -> &str {
+	// if obj.is_null() {
+		// ""
+	// } else {
+		// println!("{:?}", obj.as_str());
+		match obj.as_str() {
+			Some(s) => s,
+			None => "",
+		}
+	// }
+}
 fn json_get_value(obj: &json::JsonValue) -> String {
 	if obj.is_null() {
 		String::new()
@@ -97,8 +112,8 @@ fn json_get_value(obj: &json::JsonValue) -> String {
 	}
 }
 
-fn format(data: Vec<Vec<String>>, keys: Vec<&str>) -> String {
-	let sep = ";";
+fn format(data: Vec<Vec<String>>, keys: &[&str]) -> String {
+	let sep = "\t";
 
 	println!("Generating output");
 	let mut result = String::new();
@@ -132,8 +147,8 @@ fn output(data: &str, name: &str) -> Option<()> {
 	println!("Writing output to {}", path);
 	let mut f = trynone!(fs::File::create(path));
 
-	let mut data_utf16: Vec<u16> = data.encode_utf16().collect();
-    data_utf16.push(0);
+	let data_utf16: Vec<u16> = data.encode_utf16().collect();
+    // data_utf16.push(0);
 
     let mut result: Vec<u8> = Vec::new();
     for it in data_utf16 {
@@ -147,7 +162,7 @@ fn output(data: &str, name: &str) -> Option<()> {
 
 fn axereal() -> Option<()> {
 	let name = "axereal";
-	println!("{}", name);
+	println!("=> {}", name);
 
 	let data = download_json("https://www.axereal.com/geojsoncarte.json", &name)?;
 
@@ -160,19 +175,19 @@ fn axereal() -> Option<()> {
 	keys.extend_from_slice(&custom_keys);
 	keys.extend_from_slice(&prop_keys);
 
-	let mut valist: Vec<Vec<String>> = vec![];
+	let mut site_list: Vec<Vec<String>> = vec![];
 
 	for it in data["features"].members() {
 		let mut values: Vec<String> = vec![];
 		json_parse_array(&it["geometry"]["coordinates"], 2, &mut values);
 		json_parse_names(&it["properties"], &prop_keys, &mut values);
-		valist.push(values);
+		site_list.push(values);
 	}
 
-	output(&format(valist, keys), &name)?;
+	output(&format(site_list, &keys), &name)?;
 
     println!("Done.");
-    Some(())
+	return Some(());
 }
 
 
@@ -187,7 +202,7 @@ fn get_type(obj : &json::JsonValue, legend : &HashMap<String, String>) -> String
 
 fn scribblemaps() -> Option<()> {
 	let name = "scribblemaps";
-	println!("{}", name);
+	println!("=> {}", name);
 
 	let data = download_json("https://www.scribblemaps.com/api/maps/NATUP/smjson", &name)?;
 
@@ -206,7 +221,7 @@ fn scribblemaps() -> Option<()> {
 	keys.extend_from_slice(&custom_keys);
 	keys.extend_from_slice(&prop_keys);
 
-	let mut valist: Vec<Vec<String>> = vec![];
+	let mut site_list: Vec<Vec<String>> = vec![];
 
     for it in data["overlays"].members() {
 		let mut values: Vec<String> = vec![];
@@ -215,178 +230,254 @@ fn scribblemaps() -> Option<()> {
     	json_parse_array(&it["points"][0], 2, &mut values);
 	    values.push(get_type(&it["styleId"], &legend));
 		json_parse_names(&it, &prop_keys, &mut values);
-		valist.push(values);
+		site_list.push(values);
     }
 
     let description_index = keys.iter().position(|&r| r == "description").unwrap();
     let title_index = keys.iter().position(|&r| r == "title").unwrap();
 
-    valist.sort_by(|a, b| {
+    site_list.sort_by(|a, b| {
     	match a[title_index].cmp(&b[title_index]) { // title
 	    	Ordering::Equal => a[description_index].cmp(&b[description_index]), // description
 	    	other => other,
 	    }
     });
 
-	output(&format(valist, keys), &name)?;
+	output(&format(site_list, &keys), &name)?;
 
 	println!("Done.");
-	Some(())
+	return Some(());
 }
 
-/*
 
-struct Site {
-	id : String,
-	name : String,
-	phone : String,
-	email : String,
-	href : String,
-	lat : String,
-	lon : String,
-	address: Vec<String>,
+fn json_write_to_file(path: &str, data: &json::JsonValue) -> Option<()> {
+	println!("Writing json to {}", path);
+	trynone!(write!(&mut BufWriter::new(&trynone!(File::create(&path))), "{:#}", data));
+	return Some(());
 }
 
-fn parse_address(obj: &json::JsonValue) -> Vec<String> {
-	let mut address : Vec<String> = vec![];
-	for i in 0..obj.len() {
-		address.push(obj[i].to_string());
+fn write_to_file(path: &str, content: &str) -> Option<()> {
+	println!("Writing to {}", path);
+	trynone!(write!(&mut BufWriter::new(&trynone!(File::create(&path))), "{}", content));
+	return Some(());
+}
+
+
+fn soufflet() -> Option<()> {
+	let name = "soufflet";
+	println!("=> {}", name);
+
+	let url = "https://www.soufflet.com/fr/nos-implantations";
+	let content = download(url)?;
+	write_to_file(&format!("{}.html", name), &content);
+
+	println!("Parsing result");
+	let settings_key = "drupal-settings-json";
+	let settings_index = match content.find(&settings_key) { Some(n) => n + settings_key.len(), None => { println!("ERROR: Could not find '{}' in {}.html", settings_key, name); return None; }, };
+	let mut content = &content[settings_index..];
+	while !content.starts_with('{') { content = &content[1..]; }
+
+	let end_index = match content.find("</script>") { Some(n) => n, None => { println!("ERROR: Could not find '</script>' after {} in {}.html", settings_key, name); return None; }, };
+	content = &content[..end_index];
+	let data = trynone!(json::parse(&content));
+	json_write_to_file(&format!("{}.json", name), &data);
+
+	println!("Listing sites");
+	let mut ids : Vec<&str> = Vec::new();
+	let mut positions : HashMap<&str, &json::JsonValue> = HashMap::new();
+	for it in data["leaflet"]["leaflet-map"]["features"].members() {
+		let s = json_str(&it["id"]);
+		if !s.is_empty() {
+			ids.push(s);
+			positions.insert(s, &it);
+			// println!("id => '{}'", s);
+		}
 	}
-	return address;
-}
+	println!("Found {} sites", ids.len());
+	assert!(ids.len() == positions.len());
+	// println!("{:?}", positions);
 
-fn get_phone(obj: &json::JsonValue) -> String {
-	if !obj["div"][1].is_array() {
-		json_get_value(&obj["div"][1]["div"]["div"]["div"]["a"]["#text"])
+	let view_args = ids.join("+");
+
+	let disable_download = false;
+	let text = if !disable_download {
+
+		let url = "https://www.soufflet.com/fr/views/ajax?_wrapper_format=drupal_ajax";
+
+		let mut headers = HeaderMap::new();
+		headers.insert(header::ACCEPT, "application/json, text/javascript, */*; q=0.01".parse().unwrap());
+		headers.insert(header::ORIGIN, "https://www.soufflet.com".parse().unwrap());
+		headers.insert("X-Requested-With", "XMLHttpRequest".parse().unwrap());
+		headers.insert(header::DNT, "1".parse().unwrap());
+		headers.insert(header::CONTENT_TYPE, "application/x-www-form-urlencoded; charset=UTF-8".parse().unwrap());
+
+		let params = [
+			("ajax_page_state[libraries]", "blazy/load,captcha/base,core/html5shiv,facets/drupal.facets.checkbox-widget,facets/drupal.facets.views-ajax,gdpr_compliance/popup,google_analytics/google_analytics,gs_azure_app_insights/gs_azure_app_insights.tracker,gs_theme/global-scripts,gs_theme/global-styling,gs_theme/newsletter-scripts,leaflet/leaflet-drupal,leaflet_more_maps/leaflet-more-maps,recaptcha/google.recaptcha_fr,recaptcha/recaptcha,system/base,views/views.ajax,views/views.module"),
+			("ajax_page_state[theme]", "gs_theme"),
+			("ajax_page_state[theme_token]", ""),
+			("_drupal_ajax", "1"),
+			("pager_element", "0"),
+			("view_args", &view_args),
+			("view_base_path", "our-locations"),
+			("view_display_id", "block_list_result"),
+			("view_dom_id", "1cbfb4bd57c4e48be38803d3d613b621fa944d0a7809ded947643bba3bc08408"),
+			("view_name", "locations_map"),
+			("view_path", "/fr/nos-implantations"),
+		];
+
+
+		println!("Downloading {}", url);
+		let client = reqwest::Client::new();
+		let mut resp = trynone!(client.post(url).form(&params).headers(headers).send());
+		trynone!(resp.text())
 	} else {
-		json_get_value(&obj["div"][1][0]["div"]["div"]["a"]["#text"])
-	}
-}
-
-fn get_email(obj: &json::JsonValue) -> String {
-	if obj["div"][1].is_array() {
-		json_get_value(&obj["div"][1][1]["div"]["div"]["a"]["#text"])
-	} else {
-		String::new()
-	}
-}
-
-fn handle(site_list: &mut Vec<Site>, positions : &HashMap<String, &json::JsonValue>, obj : &json::JsonValue) {
-	let id = json_get_value(&obj["@data-entity-id"]);
-	let pos = positions.get(&id);
-	let site = Site {
-		id: 	id,
-		name: 	json_get_value(&obj["div"][0]["a"]["span"]),
-		phone: 	get_phone(&obj),
-		email: 	get_email(&obj),
-		lat: 	json_get_value(&pos["lat"]),
-		lon: 	json_get_value(&pos["lon"]),
-		href: 	json_get_value(&obj["div"][0]["a"]["@href"]),
-		address: parse_address(&obj["span"]["div"]["div"]["p"]["span"]),
+		let path = format!("{}_xml.json", name);
+		println!("reading from file {}", path);
+		trynone!(fs::read_to_string(&path))
 	};
-	// println!("{}: {}", site_list.len(), site.name);
-	site_list.push(site);
+
+	println!("Parsing result");
+	let data = trynone!(json::parse(&text));
+
+	if name.len() > 0 && !disable_download {
+		json_write_to_file(&format!("{}_xml.json", name), &data);
+	}
+
+	println!("Extracting infos from json");
+	let xmls = &data[2]["data"].as_str()?;
+	// println!("{}", xmls.len());
+	let xmld = xmls.replace(" class=\"blocImplantation\"\"", " class=\"blocImplantation\"").replace("<br>", "<br/>");
+	// write_to_file(&format!("{}.xml", name), &xmld);
+
+	let keys = [ "lat", "lon", "name", "address", "postcode", "city", "admin_area", "country", "phone", "email", "ID", "href", ];
+	let addr_keys = ["address-line1", "postal-code", "locality", "administrative-area", "country" ];
+
+	let doc = trynone!(roxmltree::Document::parse(&xmld));
+	// write_to_file(&format!("{}_formatted.xml", name), &format!("{:?}", &doc));
+
+	let mut site_list : Vec<Vec<String>> = Vec::new();
+	for node in doc.root_element().children() {
+		if !node.is_element() { continue; }
+		if node.tag_name().name() != "div" { continue; }
+
+		let country = xml_select_child_text(&node, &[("p", &[("class", Some("nomPays"))])]).trim();
+		// println!(">>>>>>>>>>>>>>> country: {} <<<<<<<<<<<<<<<<<<<", country);
+
+		
+		for node_group in node.children() {
+			if !node_group.is_element() { continue; }
+			if node_group.tag_name().name() != "div" { continue; }
+			if node_group.attribute("class") != Some("listeImplantations") { continue; }
+
+
+			for mut node_site in node_group.children() {
+				if !node_site.is_element() { continue; }
+				if node_site.tag_name().name() != "div" { continue; }
+				node_site = match xml_select_child(&node_site, &[("div", &[])]) { Some(n) => n, None => continue, };
+
+				let mut values : Vec<String> = vec![];
+
+				let id = node_site.attribute("data-entity-id").unwrap_or("");
+				let text = xml_select_child_text(&node_site, &[("div", &[("class", Some("nomImplantation"))]), ("a", &[]), ("span", &[])]).trim();
+				// if text.len() > 0 {println!("{}", text); }
+				let href = xml_select_child_attribute(&node_site, &[("div", &[("class", Some("nomImplantation"))]), ("a", &[])], "href").trim();
+				// if href.len() > 0 {println!("{}", href); }
+
+				let lat = "";
+				let lon = "";
+
+				fn format_text(s: &str) -> String {
+					s	.replace("\t", "    ") // To avoid inserting a separator
+						.replace("–", "-") // Character not supported by Excel
+						.trim().to_string()
+				}
+
+				// println!("{}", id);
+				let mut lat = String::new();
+				let mut lon = String::new();
+				if let Some(pos) = positions.get(&id) {
+					// println!("- {}", json_str(&pos["lat"]));
+					lat = pos["lat"].to_string();
+					lon = pos["lon"].to_string();
+					// println!("=> '{}' '{}' <=", lat, lon);
+				}
+				
+				values.push(lat.to_string());
+				values.push(lon.to_string());
+				values.push(format_text(text));
+
+				if let Some(node_address) = xml_select_child(&node_site, &[("span", &[("class", Some("adresseImplantation"))]), ("div", &[]), ("div", &[]), ("p", &[("class", Some("address"))])]) {
+					for k in addr_keys.iter() {
+						values.push(format_text(xml_select_child_text(&node_address, &[("span", &[("class", Some(k))])]).trim()));
+					}
+				} else {
+					for k in addr_keys.iter() {
+						values.push(String::new());
+					}
+				}
+
+
+				let phone = xml_select_child_text(&node_site, &[("div", &[("class", Some("coordonneesImplantation"))]), ("div", &[]), ("div", &[]), ("div", &[]), ("a", &[("class", Some("phone-link"))])]);
+				let email = xml_select_child_text(&node_site, &[("div", &[("class", Some("coordonneesImplantation"))]), ("div", &[]), ("div", &[]), ("div", &[]), ("a", &[("class", None), ("title", None)])]);
+				// println!("phone: {} / email: {}", phone, email);
+				values.push(phone.to_string());
+				values.push(email.to_string());
+
+				values.push(id.to_string());
+				values.push(href.to_string());
+				
+				site_list.push(values);
+			}
+
+		}
+	}
+
+	output(&format(site_list, &keys), &name)?;
+
+	println!("Done.");
+	return Some(());
 }
 
-fn parse_list(obj : &json::JsonValue, positions : &HashMap<String, &json::JsonValue>) -> Vec<Site> {
-	let mut site_list: Vec<Site> = vec![];
-	for x in 0..obj.len()
-	{
-		if obj[x].is_array() {
-			for y in 0..obj[x].len() {
-				handle(&mut site_list, &positions, &obj[x][y]);
+
+
+fn xml_select_child<'a, 'b>(node: &'a roxmltree::Node<'b, 'b>, selector: &[(&str, &[(&str, Option<&str>)])]) -> Option<roxmltree::Node<'b, 'b>> {
+	if selector.len() <= 0 {
+		return Some(*node);
+	}
+
+	let param = selector[0];
+	for child in node.children() {
+		if child.is_element() && child.tag_name().name() == param.0 {
+			let mut found = true;
+			for (att, val) in param.1 {
+				if child.attribute(*att) != *val {
+					found = false;
+				}
+			}
+			if found {
+				let result = xml_select_child(&child, &selector[1..]);
+				if result != None {
+					return result;
+				}
 			}
 		}
-		else {
-			handle(&mut site_list, &positions, &obj[x]["div"]);
-		}
-	}
-	return site_list;
-}
-
-fn format(site_list: &Vec<Site>) -> String {
-	let mut data = String::new();
-	let sep = String::from(" ; ");
-
-	data.push_str("ID");
-	data.push_str(&sep);
-
-	data.push_str("latitude");
-	data.push_str(&sep);
-	data.push_str("longitude");
-	data.push_str(&sep);
-
-	data.push_str("name");
-	data.push_str(&sep);
-
-	data.push_str("phone");
-	data.push_str(&sep);
-
-	data.push_str("email");
-	data.push_str(&sep);
-
-	for _i in 0..5 {
-		data.push_str("address");
-		data.push_str(&sep);
 	}
 
-	data.push_str("href");
-	data.push_str(&sep);
+	return None;
+}
 
-	data.push('\n');
-
-	for it in site_list {
-		data.push_str(&it.id);
-		data.push_str(&sep);
-
-		data.push_str(&it.lat);
-		data.push_str(&sep);
-		data.push_str(&it.lon);
-		data.push_str(&sep);
-
-		data.push_str(&it.name);
-		data.push_str(&sep);
-
-		data.push_str(&it.phone);
-		data.push_str(&sep);
-
-		data.push_str(&it.email);
-		data.push_str(&sep);
-
-		for i in 0..5 {
-			if it.address.len() > i {
-				data.push_str(&it.address[i]);
-			}
-			data.push_str(&sep);
-		}
-
-		data.push_str(&it.href);
-		data.push_str(&sep);
-
-		data.push('\n');
+fn xml_select_child_text<'a>(node: &'a roxmltree::Node, selector: &[(&str, &[(&str, Option<&str>)])]) -> &'a str {
+	if let Some(selected) = xml_select_child(node, selector) {
+		selected.text().unwrap_or("")
+	} else {
+		""
 	}
-	return data;
 }
 
-fn map_id_positions(positions: &json::JsonValue) -> HashMap<String, &json::JsonValue> {
-	let mut result : HashMap<String, &json::JsonValue> = HashMap::new();
-	let list = &positions["leaflet"]["leaflet-map"]["features"];
-	for i in 0..list.len() {
-		result.insert(list[i]["id"].to_string(), &list[i]);
+fn xml_select_child_attribute<'a>(node: &'a roxmltree::Node, selector: &[(&str, &[(&str, Option<&str>)])], name: &'a str) -> &'a str {
+	if let Some(selected) = xml_select_child(node, selector) {
+		selected.attribute(name).unwrap_or("")
+	} else {
+		""
 	}
-	return result;
 }
-
-fn soufflet() {
-	let obj = json::parse(&fs::read_to_string("data\\data.json").unwrap()).unwrap();
-	let positions = json::parse(&fs::read_to_string("data\\positions.json").unwrap()).unwrap();
-	let hpos = map_id_positions(&positions);
-	// println!("{:#}", obj[482]["div"]);
-	
-	let site_list = parse_list(&obj, &hpos);
-	println!("count: {}", site_list.len());
-
-	let mut f = fs::File::create("data\\data.csv").expect("Unable to create file");
-	f.write_all(format(&site_list).as_bytes()).expect("Unable to write data");
-}
-*/
