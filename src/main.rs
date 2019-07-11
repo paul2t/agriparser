@@ -23,6 +23,7 @@ use byteorder::{WriteBytesExt, LittleEndian};
 use reqwest::header;
 use reqwest::header::HeaderMap;
 
+static DEBUG: bool = false;
 
 macro_rules! trynone {
     ($e:expr) => (match $e {
@@ -40,9 +41,9 @@ macro_rules! tryretv {
 fn main() {
 	axereal();
 	println!("");
-	soufflet();
+	scribble();
 	println!("");
-	scribblemaps();
+	soufflet();
 }
 
 
@@ -60,7 +61,7 @@ fn download_json(url: &str, name: &str) -> Option<json::JsonValue> {
 	println!("Parsing result");
 	let data = trynone!(json::parse(&resp));
 
-	if name.len() > 0 {
+	if DEBUG && name.len() > 0 {
 		let mut path = String::from(name);
 		path.push_str(".json");
 		println!("Writing json to {}", path);
@@ -200,8 +201,8 @@ fn get_type(obj : &json::JsonValue, legend : &HashMap<String, String>) -> String
 	}
 }
 
-fn scribblemaps() -> Option<()> {
-	let name = "scribblemaps";
+fn scribble() -> Option<()> {
+	let name = "scribble";
 	println!("=> {}", name);
 
 	let data = download_json("https://www.scribblemaps.com/api/maps/NATUP/smjson", &name)?;
@@ -269,7 +270,7 @@ fn soufflet() -> Option<()> {
 
 	let url = "https://www.soufflet.com/fr/nos-implantations";
 	let content = download(url)?;
-	write_to_file(&format!("{}.html", name), &content);
+	if DEBUG { write_to_file(&format!("{}.html", name), &content); }
 
 	println!("Parsing result");
 	let settings_key = "drupal-settings-json";
@@ -280,7 +281,7 @@ fn soufflet() -> Option<()> {
 	let end_index = match content.find("</script>") { Some(n) => n, None => { println!("ERROR: Could not find '</script>' after {} in {}.html", settings_key, name); return None; }, };
 	content = &content[..end_index];
 	let data = trynone!(json::parse(&content));
-	json_write_to_file(&format!("{}.json", name), &data);
+	if DEBUG { json_write_to_file(&format!("{}.json", name), &data); }
 
 	println!("Listing sites");
 	let mut ids : Vec<&str> = Vec::new();
@@ -299,7 +300,7 @@ fn soufflet() -> Option<()> {
 
 	let view_args = ids.join("+");
 
-	let disable_download = false;
+	let disable_download = DEBUG && false;
 	let text = if !disable_download {
 
 		let url = "https://www.soufflet.com/fr/views/ajax?_wrapper_format=drupal_ajax";
@@ -339,7 +340,7 @@ fn soufflet() -> Option<()> {
 	println!("Parsing result");
 	let data = trynone!(json::parse(&text));
 
-	if name.len() > 0 && !disable_download {
+	if DEBUG && name.len() > 0 && !disable_download {
 		json_write_to_file(&format!("{}_xml.json", name), &data);
 	}
 
