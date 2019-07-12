@@ -1,3 +1,4 @@
+#![recursion_limit = "1024"]
 #![allow(dead_code)]
 #![allow(unused_imports)]
 #![allow(unused_assignments)]
@@ -18,12 +19,22 @@ use std::{
     cmp::Ordering,
     collections::HashMap,
 };
+use errors::Error;
 
 use reqwest::StatusCode;
 use byteorder::{WriteBytesExt, LittleEndian};
 use reqwest::header;
 use reqwest::header::HeaderMap;
 use std::process::Command;
+
+
+#[macro_use]
+extern crate error_chain;
+mod errors {
+    error_chain!{}
+}
+use errors::*;
+
 
 static DEBUG: bool = false;
 
@@ -40,9 +51,23 @@ macro_rules! tryretv {
     });
 }
 
+pub fn print_compat_err(err: Error) {
+    let mut fail: &Fail = err.cause();
+    println!("{}", fail);
+
+    while let Some(cause) = fail.cause() {
+        println!("caused by: {}", cause);
+        if let Some(compat) = cause.downcast_ref::<Compat<Error>>() {
+            fail = compat.inner_ref().cause();
+        } else {
+            fail = cause;
+        }
+    }
+}
+
 fn main() {
 	let mut should_pause = false;
-	if axereal() == None { should_pause = true; }
+	if axereal().is_err() { should_pause = true; }
 	println!();
 	if scribble() == None { should_pause = true; }
 	println!();
@@ -68,28 +93,29 @@ fn pause() {
 }
 
 
-fn download(url: &str) -> Option<String> {
+fn download(url: &str) -> Result<String> {
 	println!("Downloading from {}", url);
-	let mut req = trynone!(reqwest::get(url));
-	if req.status() != StatusCode::OK { println!("FAILED: {}", req.status()); return None; };
-	let resp = trynone!(req.text());
-	if resp.is_empty() { println!("FAILED: Data is empty"); return None; }
-	return Some(resp);
+	let mut req = reqwest::get(url).chain_err(|| "request failed")?;
+	if req.status() != StatusCode::OK { return Err(Error::from(format!("{}", req.status()))); }
+	let resp = req.text().chain_err(|| "failed to retrieve downloaded text")?;
+	if resp.is_empty() { return Err(Error::from("Data is empty")); }
+	return Ok(resp);
 }
 
-fn download_json(url: &str, name: &str) -> Option<json::JsonValue> {
-	let resp = download(url)?;
+fn download_json(url: &str, name: &str) -> Result<json::JsonValue> {
+	let resp = download(url).chain_err(|| format!("failed to download {}", url))?;
 	println!("Parsing result");
-	let data = trynone!(json::parse(&resp));
+	let data = json::parse(&resp).chain_err(|| format!("failed to parse as json"))?;
 
 	if DEBUG && name.len() > 0 {
 		let mut path = String::from(name);
 		path.push_str(".json");
 		println!("Writing json to {}", path);
-	    trynone!(write!(&mut BufWriter::new(&trynone!(File::create(&path))), "{:#}", data));
+		let file = File::create(&path).chain_err(|| format!("failed to create file {}", path))?;
+	    write!(&mut BufWriter::new(&file), "{:#}", data).chain_err(|| format!("failed to write to file"))?;
 	}
 
-	return Some(data);
+	return Ok(data);
 }
 
 
@@ -182,7 +208,7 @@ fn output(data: &str, name: &str) -> Option<()> {
 	return Some(());
 }
 
-fn axereal() -> Option<()> {
+fn axereal() -> Result<()> {
 	let name = "axereal";
 	println!("=> {}", name);
 
