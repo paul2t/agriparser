@@ -1,0 +1,2264 @@
+[
+    {
+        "categories": [
+            41
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Terranimo ​Vannes</strong><br><p>Zone de Luscanen<br />\n24 Avenue Louis de Cadoudal</p>\n56880 PLOEREN<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/terranimo-%e2%80%8bvannes/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.6640252",
+        "lng": "-2.8000727999999526"
+    },
+    {
+        "categories": [
+            41
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Terranimo Lorient</strong><br><p>Zone de Keryado<br />\nRue Pierre Mendes France<br />\nFace Carrefour</p>\n56100 LORIENT<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/terranimo-lorient/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.7652654",
+        "lng": "-3.3939156999999796"
+    },
+    {
+        "categories": [
+            34
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>LES JARDINS DU LEGUER</strong><br><p>Saint-Marc</p>\n22300 LANNION<br>Téléphone : 02.96.14.10.60<br>Fax : 02.96.37.48.14<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/les-jardins-du-leguer/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.73510964907869",
+        "lng": "-3.4353862184937043"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>POINT VERT MONTAUBAN DE BRETAGNE</strong><br><p>56, route de Rennes</p>\n35360 MONTAUBAN DE BRETAGNE<br>Téléphone : 02.99.06.66.97<br>Fax : 02.99.06.66.98<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/maison-point-vert-montauban-de-bretagne/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.1982125",
+        "lng": "-2.0463153000000602"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin CARHAIX</strong><br><p>La rocade</p>\n29270 CARHAIX<br>Téléphone : 02.98.93.30.12<br>Fax : 02.98.93.00.59<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-carhaix-2/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.27171129427519",
+        "lng": "-3.572359085083008"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia VIEUX BOURG</strong><br><p>Rue St Gilles</p>\n22800 LE VIEUX BOURG<br>Téléphone : 02.96.32.40.17<br>Fax : 02.96.92.74.34<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-vieux-bourg/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.3899908",
+        "lng": "-3.00931479999997"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia UZEL</strong><br><p>La Gare  St Hervé</p>\n22460 UZEL<br>Téléphone : 02.96.28.81.91<br>Fax : 02.96.28.86.98<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-uzel/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.2805431",
+        "lng": "-2.836535300000037"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia TRINITE PORHOET</strong><br><p>9 rue Mme de Sévigné</p>\n56490 LA TRINITE PORHOET<br>Téléphone : 02.97.93.90.68<br>Fax : 02.97.74.00.82<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-trinite-porhoet/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.0942471",
+        "lng": "-2.5452397999999903"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia TREFFENDEL</strong><br><p>Gare </p>\n35380 TREFFENDEL<br>Téléphone : 02.99.61.00.75<br>Fax : 02.99.61.04.04<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-treffendel/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.026703",
+        "lng": "-2.015742899999964"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia TAULE</strong><br><p>Gare</p>\n29670  TAULE<br>Téléphone : 02.98.67.11.01<br>Fax : 02.98.79.00.73<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-taule/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.6185986",
+        "lng": "-3.9022979999999734"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia TADEN</strong><br><p>12  La Mettrie</p>\n22100 TADEN<br>Téléphone : 02.96.85.16.27<br>Fax : 02.96.87.02.96<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-taden/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.4892897",
+        "lng": "-2.0676191999999673"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia STE SEVE</strong><br><p>Z.A. de Coat Conval</p>\n29600 STE SEVE<br>Téléphone : 02.98.88.04.83<br>Fax : 02.98.63.42.61<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-ste-seve/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.5494782",
+        "lng": "-3.8766792000000123"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia ST POL HORTALIS</strong><br><p>Z.I. de kerannou</p>\n29250 ST POL DE LEON<br>Téléphone : 02.98.69.02.78<br>Fax : 02.98.69.17.28<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-st-pol-hortalis/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.672174",
+        "lng": "-4.007047999999941"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia ST JUVAT</strong><br><p>La Landelle</p>\n22630 SAINT JUVAT<br>Téléphone : 02.96.83.46.80<br>Fax : 02.96.83.49.52<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-st-juvat/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.3710364",
+        "lng": "-2.044636399999945"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia ST JEAN BREVELAY</strong><br><p>Rue Croix des Victimes</p>\n56660 SAINT JEAN BREVELAY<br>Téléphone : 02.97.60.30.30<br>Fax : 02.97.60.46.93<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-st-jean-brevelay/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.8503783",
+        "lng": "-2.7270029000000022"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia ST GERAND</strong><br><p>Le Bois</p>\n56920 ST GERAND<br>Téléphone : 02.97.51.40.25<br>Fax : 02.97.51.45.00<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-st-gerand/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.11057",
+        "lng": "-2.891397600000005"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia ST ETIENNE DU GUE-DE-L'ISLE</strong><br><p>Route de Josselin</p>\n22210 SAINT ETIENNE DU GUE-DE-L'ISLE<br>Téléphone : 02.96.25.51.51<br>Fax : 02.96.25.50.40<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-st-etienne-gue-de-lisle/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.0994934",
+        "lng": "-2.64988029999995"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia SIZUN</strong><br><p>Pont d'Elorn</p>\n29450 SIZUN<br>Téléphone : 02.98.68.80.30<br>Fax : 02.98.24.13.18<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-sizun/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.4047189",
+        "lng": "-4.081439499999988"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia SERENT</strong><br><p>Z.A. de la Magdeleine</p>\n56460 SERENT<br>Téléphone : 02.97.75.96.78<br>Fax : 02.97.70.23.02<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-serent/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.8208042",
+        "lng": "-2.503960300000017"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia SCRIGNAC</strong><br><p>Route de la Gare</p>\n29640 SCRIGNAC<br>Téléphone : 02.98.78.20.32<br>Fax : 02.98.78.20.73<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-scrignac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.4270147",
+        "lng": "-3.6830664000000297"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia ROZ COUESNON</strong><br><p>2 La Poultière</p>\n35610 ROZ S/COUESNON<br>Téléphone : 02.99.48.02.36<br>Fax : 02.99.80.31.71<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-roz-couesnon/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.5959245",
+        "lng": "-1.6119099999999662"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PRIZIAC</strong><br><p>14 Ter rue du Midi</p>\n56320 PRIZIAC<br>Téléphone : 02.97.23.00.55<br>Fax : 02.97.34.05.83<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-priziac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.0622477",
+        "lng": "-3.407950700000015"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PRAT</strong><br><p>Confort</p>\n22140 PRAT<br>Téléphone : 02.96.35.95.00<br>Fax : 02.96.54.64.07<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-prat/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.6952949",
+        "lng": "-3.3168596000000434"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia POULLAOUEN</strong><br><p>Z.I. Croix Neuve</p>\n29246 POULLAOUEN<br>Téléphone : 02.98.93.50.80<br>Fax : 02.98.73.76.44<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-poullaouen/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.33922940000001",
+        "lng": "-3.6395502000000306"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLUMELIAU</strong><br><p>Route de Baud</p>\n56930 PLUMELIAU<br>Téléphone : 02.97.51.80.24<br>Fax : 02.97.25.33.64<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plumeliau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.9577773",
+        "lng": "-2.973733100000004"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLUGUFFAN</strong><br><p>Kerguébet</p>\n29700 PLUGUFFAN<br>Téléphone : 02.98.94.07.91<br>Fax : 02.98.94.00.06<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-pluguffan/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.97897829999999",
+        "lng": "-4.192097399999966"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOUVORN</strong><br><p>Z.I. de Kérarbellec</p>\n29420 PLOUVORN<br>Téléphone : 02.98.61.30.04<br>Fax : 02.98.61.02.84<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plouvorn/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.58098039999999",
+        "lng": "-4.026896699999952"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOURIN LES MORLAIX</strong><br><p>Z.A. de Kersody</p>\n29600 PLOURIN LES MORLAIX<br>Téléphone : 02.98.72.54.08<br>Fax : 02.98.72.62.14<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plourin-morlaix/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.5372474",
+        "lng": "-3.799714799999947"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOURAY</strong><br><p>Kerguzul</p>\n56770 PLOURAY<br>Téléphone : 02.97.34.83.20<br>Fax : 02.97.34.83.20<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plouray/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.1370239",
+        "lng": "-3.3464050000000043"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOUNEOUR TREZ</strong><br><p>Lanveur</p>\n29890 PLOUNEOUR TREZ<br>Téléphone : 02.98.83.91.22<br>Fax : 02.98.83.95.75<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plouneour-trez/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.6441982",
+        "lng": "-4.34006009999996"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOUMOGUER</strong><br><p>Cohars</p>\n29810 PLOUMOGUER<br>Téléphone : 02.98.89.33.76<br>Fax : 02.98.89.63.85<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-ploumoguer/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.4008751",
+        "lng": "-4.7104214999999385"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOUMILIAU</strong><br><p>Le Clandy</p>\n22300 PLOUMILLIAU<br>Téléphone : 02.96.35.49.06<br>Fax : 02.96.35.48.07<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plouha/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.67547",
+        "lng": "-3.5047955"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOUGUIEL</strong><br><p>La Croix Braban</p>\n22220 PLOUGUIEL<br>Téléphone : 02.96.92.78.45<br>Fax : 02.96.92.85.33<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plouguiel/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.7969252",
+        "lng": "-3.239474599999994"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOUGUERNEVEL</strong><br><p>Route de Rostrenen</p>\n22110 PLOUGUERNEVEL<br>Téléphone : 02.96.29.00.40<br>Fax : 02.96.29.38.47<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plouguernevel/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.23978417234801",
+        "lng": "-3.2525646686553955"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOUGUENAST</strong><br><p>ZA Ville Neuve</p>\n22150 PLOUGUENAST<br>Téléphone : 02.96.28.74.59<br>Fax : 02.96.26.84.55<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plouguenast/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.281572203971415",
+        "lng": "-2.711530923843384"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOUBEZRE MARGUERITE</strong><br><p>Kerauzern</p>\n22300 PLOUBEZRE<br>Téléphone : 02.96.38.91.41<br>Fax : 02.96.38.63.74<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-ploubezre-marguerite/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.6593145",
+        "lng": "-3.447251700000038"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLONEVEZ</strong><br><p>Zone Artisanale de Kerdaniou</p>\n29530 PLONEVEZ DU FAOU<br>Téléphone : 02.98.86.95.95.<br>Fax : 02.98.86.98.07<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plonevez/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.2419305",
+        "lng": "-3.8156523000000107"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLONEOUR LANVERN</strong><br><p>Kerlavar</p>\n29720 PLONEOUR LANVERN<br>Téléphone : 02.98.87.62.80<br>Fax : 02.98.82.64.91<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-ploneour-lanvern/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.8975343",
+        "lng": "-4.269271600000025"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLOERMEL</strong><br><p>La Gare</p>\n56800 PLOERMEL<br>Téléphone : 02.97.74.01.57<br>Fax : 02.97.74.23.57<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-ploermel/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.93256155052241",
+        "lng": "-2.3998475074768066"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLEYBEN</strong><br><p>Ty Guen</p>\n29190 PLEYBEN<br>Téléphone : 02.98.26.60.73.<br>Fax : 02.98.26.79.25.<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-pleyben/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.2485538",
+        "lng": "-3.957331100000033"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLEUBIAN</strong><br><p>Mez Bronnec</p>\n22610 PLEUBIAN<br>Téléphone : 02.96.22.91.03<br>Fax : 02.96.16.57.14<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-pleubian/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.842068060454054",
+        "lng": "-3.138871192932129"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLEMET</strong><br><p>Rue de la Gare</p>\n22210 PLEMET<br>Téléphone : 02.96.25.60.86<br>Fax : 02.96.25.61.32<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plemet/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.17733796308446",
+        "lng": "-2.598535349243093"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLELAN LE PETIT</strong><br><p>24, Rue de la Vallée</p>\n22980 PLELAN LE PETIT<br>Téléphone : 02.96.27.60.18<br>Fax : 02.96.27.68.44<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plelan-petit/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.4323203",
+        "lng": "-2.2272739"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PLANCOET</strong><br><p>Rue de Dinard</p>\n22130 ST LORMEL<br>Téléphone : 02.96.84.10.26<br>Fax : 02.96.84.32.93<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-plancoet/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.53110017277512",
+        "lng": "-2.2245383262634277"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PIRE SUR SEICHE</strong><br><p>53 Rte de Vitré</p>\n35150 PIRE S/SEICHE<br>Téléphone : 02.90.02.39.78<br>Fax : 02.99.44.58.31<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-pire-seiche/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.0113423",
+        "lng": "-1.4248901999999362"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PENGUILY</strong><br><p>Bourg</p>\n22510 PENGUILY<br>Téléphone : 02.96.30.26.23<br>Fax : 02.96.30.24.27<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-penguily/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.3722512704524",
+        "lng": "-2.4933876904601675"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia PAIMPOL AGRI</strong><br><p>Zone de conditionnement</p>\n22500 PAIMPOL<br>Téléphone : 02.96.20.76.95<br>Fax : 02.96.55.05.48.<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-paimpol-agri/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.779551",
+        "lng": "-3.049052599999982"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia NOYAL PONTIVY</strong><br><p>La Ville Neuve Tranlé</p>\n56920 NOYAL PONTIVY<br>Téléphone : 02.97.39.86.36<br>Fax : 02.97.27.38.13<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-noyal-pontivy/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.0285695",
+        "lng": "-2.915676299999973"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia NIVILLAC</strong><br><p>Z.A. des Métairies</p>\n56130 NIVILLAC<br>Téléphone : 02.90.99.58.31<br>Fax : 02.99.90.81.00<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-nivillac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.5208275",
+        "lng": "-2.2858631999999943"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia MUR DE BRETAGNE</strong><br><p>Pont quémer</p>\n22530 MUR DE BRETAGNE<br>Téléphone : 02.96.28.51.39<br>Fax : 02.96.26.30.40<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-mur-de-bretagne/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.2114336",
+        "lng": "-2.988591000000042"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia MOREAC</strong><br><p>Le Barderff</p>\n56500 MOREAC<br>Téléphone : 02.97.44.29.81.<br>Fax : 02.97.44.29.89.<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-moreac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.9048658",
+        "lng": "-2.7953350000000228"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia MONTREUIL SUR ILE</strong><br><p>ZA du Stand</p>\n35440 MONTREUIL S/ILLE<br>Téléphone : 02.99.69.73.79<br>Fax : 02.99.69.79.48<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-montreuil-ile/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.304523",
+        "lng": "-1.681583000000046"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia MISSIRIAC</strong><br><p>La Pointe</p>\n56140 MISSIRIAC<br>Téléphone : 02.97.75.15.24<br>Fax : 02.97.75.14.99<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-missiriac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.837694",
+        "lng": "-2.348786"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia MILIZAC</strong><br><p>Bel Air</p>\n29290 MILIZAC<br>Téléphone : 02.98.07.90.86<br>Fax : 02.98.07.99.48<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-milizac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.462424",
+        "lng": "-4.579502"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia METAIRIE NEUVE</strong><br><p>La Métairie Neuve</p>\n29270 CARHAIX<br>Téléphone : 02.98.93.18.97<br>Fax : 02.98.93.79.73<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-metairie-neuve/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.268659",
+        "lng": "-3.567984"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia MENEAC</strong><br><p>Bourg</p>\n56490 MENEAC<br>Téléphone : 02.97.93.30.13<br>Fax : 02.97.93.31.22<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-meneac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.140833",
+        "lng": "-2.459022"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia MAEL CARHAIX</strong><br><p>Bourg</p>\n22340 MAEL CARHAIX<br>Téléphone : 02.96.24.62.95<br>Fax : 02.96.24.68.02<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-mael-carhaix/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.284827",
+        "lng": "-3.420979"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LOUDEAC</strong><br><p>ZI Monplaisir</p>\n22600 LOUDEAC<br>Téléphone : 02.96.28.12.40<br>Fax : 02.96.66.01.92<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-loudeac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.166364",
+        "lng": "-2.762607"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LOUARGAT</strong><br><p>Z.A. Pors Diouris</p>\n22540 LOUARGAT<br>Téléphone : 02.96.43.12.74<br>Fax : 02.96.43.52.37<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-louargat/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.564951",
+        "lng": "-3.347936"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LOCUNOLE</strong><br><p>Rosgodec</p>\n29310 LOCUNOLE<br>Téléphone : 02.98.71.33.36<br>Fax : 02.98.71.41.81<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-locunole/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.939136",
+        "lng": "-3.508608"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LANOUEE</strong><br><p>Le Poteau</p>\n56120 LANOUEE<br>Téléphone : 02.97.22.22.26<br>Fax : 02.97.70.26.27<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-lanouee/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.956108",
+        "lng": "-2.567674"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LANNION</strong><br><p>Z.A. de Buhulien</p>\n22300 LANNION<br>Téléphone : 02.96.14.15.15<br>Fax : 02.96.14.11.11<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-lannion/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.7345",
+        "lng": "-3.443446"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LANISCAT</strong><br><p>Zone Artisanale</p>\n22570 LANISCAT<br>Téléphone : 02.96.36.91.27<br>Fax : 02.96.36.97.83<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-laniscat/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.235888",
+        "lng": "-3.13206"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LANHOUARNEAU</strong><br><p>Allée des Jonquilles</p>\n29430 LANHOUARNEAU<br>Téléphone : 02.98.61.60.65<br>Fax : 02.98.61.49.84<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-lanhouarneau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.58075",
+        "lng": "-4.211746"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LANDIVISIAU</strong><br><p>Z.A. du Fromeur</p>\n29403 LANDIVISIAU<br>Téléphone : 02.98.68.27.63<br>Fax : 02.98.24.90.29<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-landivisiau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.50005",
+        "lng": "-4.069532"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LANDEVANT</strong><br><p>44  bis rue de la Gare</p>\n56690 LANDEVANT<br>Téléphone : 02.97.59.95.26<br>Fax : 02.97.59.95.25<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-landevant/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.759205",
+        "lng": "-3.129499"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LANDERNEAU</strong><br><p>Rue Jean Mermoz - ZI St Eloi</p>\n29260 PLOUDANIEL<br>Téléphone : 02.98.21.33.66<br>Fax : 02.98.21.76.61<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-landerneau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.487694",
+        "lng": "-4.273974"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia LA CHEZE</strong><br><p>Rue Lanthénac</p>\n22210 LA CHEZE<br>Téléphone : 02.96.26.71.07<br>Fax : 02.96.26.66.17<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-la-cheze/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.1339054",
+        "lng": "-2.6525229999999738"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia KERMARIA SULARD</strong><br><p>Zone artisanale</p>\n22450 KERMARIA SULARD<br>Téléphone : 02.96.38.07.93<br>Fax : 02.96.38.43.68<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-kermaria-sulard/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.771567",
+        "lng": "-3.366089"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia KERIEN</strong><br><p>Bourg</p>\n22480 KERIEN<br>Téléphone : 02.96.45.72.71<br>Fax : 02.96.45.75.09<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-kerien/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.407337",
+        "lng": "-3.230471"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia IRVILLAC</strong><br><p>Cosquer</p>\n29460 IRVILLAC<br>Téléphone : 02.98.25.83.57<br>Fax : 02.98.25.92.35<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-irvillac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.368024",
+        "lng": "-4.222093"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia IFFENDIC</strong><br><p>Route de St Gonlay</p>\n35750 IFFENDIC<br>Téléphone : 02.99.09.70.14<br>Fax : 02.99.09.78.97<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-iffendic/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.121945",
+        "lng": "-2.040557"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia HENON</strong><br><p>La Clôture</p>\n22150 HENON<br>Téléphone : 02.96.73.50.54<br>Fax : 02.96.73.44.97<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-henon/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.387963",
+        "lng": "-2.67481"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia HENANBIHEN</strong><br><p>Les Bruyères</p>\n22550 HENANBIHEN<br>Téléphone : 02.96.31.52.56<br>Fax : 02.96.31.50.90<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-henanbihen/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.298434",
+        "lng": "-1.72281"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia GUINGAMP</strong><br><p>18 route de Kerbost   ZI Grâces</p>\n22200 GUINGAMP<br>Téléphone : 02.96.43.97.28<br>Fax : 02.96.43.91.26<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-guingamp/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.560363",
+        "lng": "-3.147737"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia GUILLIERS</strong><br><p>Le Bouix</p>\n56490 GUILLIERS<br>Téléphone : 02.97.74.40.74<br>Fax : 02.97.22.57.84<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-guilliers/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.024811",
+        "lng": "-2.432681"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia GUICHEN</strong><br><p>6  rue Joliot Curie</p>\n35580 GUICHEN<br>Téléphone : 02.99.57.05.19<br>Fax : 02.99.05.91.15<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-guichen/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.969026",
+        "lng": "-1.811305"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia GUENIN</strong><br><p>Z.I. de Kermartin</p>\n56150 GUENIN<br>Téléphone : 02.97.51.05.33<br>Fax : 02.97.39.06.81<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-guenin/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.918519",
+        "lng": "-2.994719"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia GRANDCHAMP</strong><br><p>Z.I. de Kérovel - 23 RUE DU 8 Mai 1946</p>\n56390 GRANDCHAMP<br>Téléphone : 02.97.66.78.54<br>Fax : 02.97.63.06.19<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-grandchamp/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.75879",
+        "lng": "-2.845577"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia GOUDELIN</strong><br><p>Rangare</p>\n22290 GOUDELIN<br>Téléphone : 02.96.70.02.37<br>Fax : 02.96.65.37.54<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-goudelin/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.615416",
+        "lng": "-3.04189"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia GLOMEL</strong><br><p>Z.A. de Copéren</p>\n22110 GLOMEL<br>Téléphone : 02.96.29.31.89<br>Fax : 02.96.29.40.84<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-glomel/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.255928",
+        "lng": "-3.386995"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia DOLO</strong><br><p>Les Vallées</p>\n22270 DOLO<br>Téléphone : 02.96.31.73.40<br>Fax : 02.96.31.66.25<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-dolo/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.384117",
+        "lng": "-2.3287279999999555"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia CROIX MENEZ BRIS</strong><br><p>Croix Ménez Bris</p>\n29370 ELLIANT<br>Téléphone : 02.98.59.74.40<br>Fax : 02.98.59.18.49<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-croix-menez-bris/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.04353099999999",
+        "lng": "-3.9137610000000222"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia CLEDEN POHER</strong><br><p>Pont Triffen (SPEZET)</p>\n29270 CLEDEN POHER<br>Téléphone : 02.98.93.82.08<br>Fax : 02.98.93.94.49<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-cleden-poher/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.219487",
+        "lng": "-3.703065"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia CHAPELLE NEUVE</strong><br><p>8  Hent ar Illiz</p>\n22160 LA CHAPELLE NEUVE<br>Téléphone : 02.96.21.65.86<br>Fax : 02.96.15.39.36<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-chapelle-neuve/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.461765",
+        "lng": "-3.42079"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia CAST</strong><br><p>Le Ménic</p>\n29150 CAST<br>Téléphone : 02.98.73.62.52<br>Fax : 02.98.73.62.73<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-cast/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.151901",
+        "lng": "-4.133612"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia CARNOET</strong><br><p>4  Pont Lochrist</p>\n22160 CARNOET<br>Téléphone : 02.96.21.51.21<br>Fax : 02.96.21.58.19<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-carnoet/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.342998",
+        "lng": "-3.491878"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia CARENTOIR</strong><br><p>Z.A. de l'Epine</p>\n56910 CARENTOIR<br>Téléphone : 02.90.99.58.30<br>Fax : 02.99.08.81.80<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-carentoir/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.809608",
+        "lng": "-2.132604"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia CADEN</strong><br><p>Z.A. de Penhouët</p>\n56220 CADEN<br>Téléphone : 02.97.67.80.20<br>Fax : 02.97.67.82.72<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-caden/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.644458",
+        "lng": "-2.29785"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia BUBRY</strong><br><p>Route de Plouay</p>\n56310 BUBRY<br>Téléphone : 02.97.51.36.88<br>Fax : 02.97.27.14.27<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-bubry/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.95877400000001",
+        "lng": "-3.1841002999999546"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia BRIEC</strong><br><p>8, Rue C. de Gaulle</p>\n29510 BRIEC<br>Téléphone : 02.98.57.93.43<br>Fax : 02.98.57.58.65<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-briec/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.0976338",
+        "lng": "-4.001182800000038"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia BREHAND MONC.</strong><br><p>Bourg, Moncontour</p>\n22510 BREHAND<br>Téléphone : 02.96.42.78.38<br>Fax : 02.96.52.13.73<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-brehand-monc/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.958938",
+        "lng": "-3.182983"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia BRASPARTS</strong><br><p>71  rue Saint Michel</p>\n29190 BRASPARTS<br>Téléphone : 02.98.81.42.88<br>Fax : 02.98.81.42.93<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-brasparts/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.30583",
+        "lng": "-3.953525"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia BAZOUGES LA PEROUSE</strong><br><p>Rue d'Antrain</p>\n35560 BAZOUGES<br>Téléphone : 02.99.97.41.59<br>Fax : 02.99.97.42.95<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-bazouges-perouse/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.426468",
+        "lng": "-1.568552"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia BAINS SUR OUST</strong><br><p>35 Grande Rue LE BOURG</p>\n35600 BAINS SUR OUST<br>Téléphone : 02.90.02.39.77<br>Fax : 02.99.91.77.53<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-bains-oust/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.70493",
+        "lng": "-2.070562"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia AUGAN</strong><br><p>Z.I. de Beaurepaire</p>\n56800 AUGAN<br>Téléphone : 02.97.93.48.96<br>Fax : 02.97.93.14.50<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-augan/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.931699",
+        "lng": "-2.282763"
+    },
+    {
+        "categories": [
+            31
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Triskalia AMBON</strong><br><p>Z.A. de Sainte Julitte</p>\n56190 AMBON<br>Téléphone : 02.97.41.16.80<br>Fax : 02.97.41.27.31<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/triskalia-ambon/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.584238",
+        "lng": "-2.552961"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert TINTENIAC</strong><br><p>Z.A. Les Vairies</p>\n35190 TINTENIAC<br>Téléphone : 02.99.68.15.70<br>Fax : 02.99.68.00.23<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-tinteniac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.326725",
+        "lng": "-1.847241"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert TELGRUC</strong><br><p>Croas  Méno</p>\n29560 TELGRUC<br>Téléphone : 02.98.27.71.87<br>Fax : 02.98.27.35.51<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-telgruc/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.235433",
+        "lng": "-4.330151"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert ST RENAN</strong><br><p>Route de Plouarzel</p>\n29290 SAINT RENAN<br>Téléphone : 02.98.84.24.30<br>Fax : 02.98.84.21.72<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-ste-renan/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.549602",
+        "lng": "-3.876731"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert ST NICOLAS DU PELEM</strong><br><p>ZA du Ruellou</p>\n22480 ST NICOLAS DU PELEM<br>Téléphone : 02.96.29.51.64<br>Fax : 02.96.29.73.07<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-st-nicolas-pelem/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.304084",
+        "lng": "-3.1540039999999863"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert ST MEEN LE GRAND</strong><br><p>74 Rue de Merdrignac</p>\n35290 ST MEEN LE GRAND<br>Téléphone : 02.99.09.61.06<br>Fax : 02.99.09.46.48<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-st-meen-grand/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.188551",
+        "lng": "-2.198831"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert SCAER</strong><br><p>Z.I. de Miné Rulan</p>\n29390 SCAER<br>Téléphone : 02.98.59.42.09<br>Fax : 02.98.57.67.74<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-scaer/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.021069",
+        "lng": "-3.714083"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert SAINT MELOIR</strong><br><p>57 Rue Clos Poulet</p>\n35350 SAINT MELOIR DES ONDES<br>Téléphone : 02.99.89.10.32<br>Fax : 02.99.89.17.84<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-saint-meloir/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.64057",
+        "lng": "-1.909694"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert SAINT ALBAN</strong><br><p>Au Poirier</p>\n22400 SAINT ALBAN<br>Téléphone : 02.96.32.90.36<br>Fax : 02.96.32.97.33<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-saint-alban/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.554587",
+        "lng": "-2.538552"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert REGUINY</strong><br><p>La Croix Guillard</p>\n56500 REGUINY<br>Téléphone : 02.97.38.65.52<br>Fax : 02.97.38.63.48<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-reguiny/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.981388",
+        "lng": "-2.730794"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert QUINTIN - LE FOEIL</strong><br><p>Rond Point Volozen</p>\n22800 LE FOEIL<br>Téléphone : 02.96.74.87.21<br>Fax : 02.96.79.64.85<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-quintin-foeil/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.428626",
+        "lng": "-2.915550199999984"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert POULDREUZIC</strong><br><p>Pencleuziou</p>\n29720 PLOVAN<br>Téléphone : 02.98.54.36.37<br>Fax : 02.98.51.55.87<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-pouldreuzic/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.951124",
+        "lng": "-4.356462"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PORDIC</strong><br><p>27  Rue Connen de Prépéan</p>\n22590 PORDIC<br>Téléphone : 02.96.79.04.63<br>Fax : 02.96.79.40.38<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-pordic/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.5709883",
+        "lng": "-2.8253929999999627"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PONTRIEUX</strong><br><p>Zone industrielle</p>\n22260 PONTRIEUX<br>Téléphone : 02.96.95.69.21<br>Fax : 02.96.95.14.82<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-pontrieux/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.69741905364435",
+        "lng": "-3.159513473510742"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOUNEVEZ MOEDEC</strong><br><p>Beg Ar Ch'a</p>\n22810 PLOUNEVEZ MOEDEC<br>Téléphone : 02.96.38.66.67<br>Fax : 02.96.54.71.56<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plounevez-moedec/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.562045",
+        "lng": "-3.4998199999999997"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOUGONVEN</strong><br><p>1  rue Ker Etienne</p>\n29640 PLOUGONVEN<br>Téléphone : 02.98.78.61.21<br>Fax : 02.98.78.65.46<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plougonven/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.523460570208364",
+        "lng": "-3.717052042358432"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOUGASNOU</strong><br><p>L'Oratoire</p>\n29630 PLOUGASNOU<br>Téléphone : 02.98.67.30.10<br>Fax : 02.98.67.84.87<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plougasnou/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.6957957",
+        "lng": "-3.7890625999999656"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOUFRAGAN</strong><br><p>Les Châtelets</p>\n22440 PLOUFRAGAN<br>Téléphone : 02.96.94.18.63<br>Fax : 02.96.94.31.46<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-ploufragan/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.472704",
+        "lng": "-2.819307999999978"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOUESCAT</strong><br><p>La Rocade</p>\n29430 PLOUESCAT<br>Téléphone : 02.98.69.62.34<br>Fax : 02.98.69.88.74<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plouescat/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.652063433784015",
+        "lng": "-4.184718132019043"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert MAURE DE BRETAGNE</strong><br><p>7 bis Av. de L'HIppodrome</p>\n35330 MAURE DE BRETAGNE<br>Téléphone : 02.99.34.92.11<br>Fax : 02.99.34.81.23<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-maure-de-bretagne/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.8903497",
+        "lng": "-1.9936658999999963"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert LOCMARIA PLOUZANE</strong><br><p>Rte de Plouzané</p>\n29280 LOCMARIA PLOUZANE<br>Téléphone : 02.98.48.41.05<br>Fax : 02.98.48.93.91<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-locmaria-plouzane/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.3775501",
+        "lng": "-4.639486300000044"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin TREGUNC</strong><br><p>Beg Postillon</p>\n29910 TREGUNC<br>Téléphone : 02.98.97.62.32<br>Fax : 02.98.50.24.76<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-tregunc/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.85297145560066",
+        "lng": "-3.8112576928100452"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert ST POL DE LEON</strong><br><p>Kervent</p>\n29250 ST POL DE LEON<br>Téléphone : 02.98.69.00.31<br>Fax : 02.98.29.12.15<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-st-pol-de-leon/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.67627599999999",
+        "lng": "-4.000817999999981"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin SAINT AVE</strong><br><p>Rue Marcel Dassault</p>\n56890 SAINT AVE<br>Téléphone : 02.97.44.44.44<br>Fax : 02.97.44.53.69<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-saint-ave/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.6796195",
+        "lng": "-2.7352094000000307"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin ROSTRENEN</strong><br><p>2  Rue de Chateaubriand</p>\n22110 ROSTRENEN<br>Téléphone : 02.96.29.00.49<br>Fax : 02.96.29.10.67<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-rostrenen/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.237390720795986",
+        "lng": "-3.3124050727080885"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin ROSPORDEN</strong><br><p>Rue E. Renan</p>\n29140 ROSPORDEN<br>Téléphone : 02.98.59.20.59<br>Fax : 02.98.66.90.03<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-rosporden/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.961105882316616",
+        "lng": "-3.833279013633728"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin RIEUX</strong><br><p>ZA Aucfer</p>\n56350 RIEUX<br>Téléphone : 02.99.72.38.23<br>Fax : 02.99.72.46.95<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-rieux/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.633073",
+        "lng": "-2.1059890000000223"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin QUEVEN</strong><br><p>9, Kercoat - Le Ménéguen</p>\n56530 QUEVEN<br>Téléphone : 02.97.05.32.41<br>Fax : 02.97.80.15.65<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-queven/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.78155899999999",
+        "lng": "-3.440810000000056"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin QUESTEMBERT</strong><br><p>1  rue des Pavots   PA des Hibiscus</p>\n56230 QUESTEMBERT<br>Téléphone : 02.97.26.62.85<br>Fax : 02.97.26.53.79<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-questembert/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.661789",
+        "lng": "-2.450218"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin PONT CROIX</strong><br><p>BP 28  Z.A. de Lannéon</p>\n29790 PONT CROIX<br>Téléphone : 02.98.70.45.77<br>Fax : 02.98.70.57.41<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-pont-croix/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.041391",
+        "lng": "-4.502221999999961"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin PLOUDALMEZEAU</strong><br><p>ZA.de St Roch</p>\n29830 PLOUDALMEZEAU<br>Téléphone : 02.98.48.14.53<br>Fax : 02.98.48.15.53<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-ploudalmezeau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.531547",
+        "lng": "-4.658769"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin PLESTIN LES GREVES</strong><br><p>Avenue des Frères Le Gall</p>\n22310 PLESTIN LES GREVES<br>Téléphone : 02.96.35.62.01<br>Fax : 02.96.35.69.76<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-plestin-greves/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.6652327",
+        "lng": "-3.623960000000011"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin PLANCOËT</strong><br><p>ZC de l'Arguenon</p>\n22130 PLANCOET<br>Téléphone : 02.96.80.47.50<br>Fax : 02.96.80.47.51<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-plancoet/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.522853",
+        "lng": "-2.233326"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin MATIGNON</strong><br><p>Espace com. Les Promenandes</p>\n22550 MATIGNON<br>Téléphone : 02.96.41.02.17<br>Fax : 02.96.41.14.06<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-matignon/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.597798486544995",
+        "lng": "-2.2869372367858887"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin MALESTROIT</strong><br><p>Rue E. Entremont</p>\n56140 MALESTROIT<br>Téléphone : 02.97.75.15.54<br>Fax : 02.97.75.26.27<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-malestroit/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.808805",
+        "lng": "-2.370833"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert le Jardin LOUDEAC</strong><br><p>Bvd Penthièvre</p>\n22600 LOUDEAC<br>Téléphone : 02.96.66.86.46<br>Fax : 02.96.66.86.59<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-loudeac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.1880027",
+        "lng": "-2.756238499999995"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin LOCMINE</strong><br><p>Rue du Pont Person</p>\n56500 LOCMINE<br>Téléphone : 02.97.60.02.21<br>Fax : 02.97.46.70.67<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-locmine/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.8880251",
+        "lng": "-2.832531700000004"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin LE FAOU</strong><br><p>Ty Névez Penanvoas</p>\n29460 HANVEC (LE FAOU)<br>Téléphone : 02.98.81.90.33<br>Fax : 02.98.81.90.97<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-faou/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.30538809999999",
+        "lng": "-4.191712199999984"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin LANVOLLON</strong><br><p>Rue des Fontaines</p>\n22290 LANVOLLON<br>Téléphone : 02.96.70.23.99<br>Fax : 02.96.70.24.74<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-lanvollon/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.63227639999999",
+        "lng": "-2.9813050000000203"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin LANNILIS</strong><br><p>La Gare</p>\n29870 LANNILIS<br>Téléphone : 02.98.04.06.36<br>Fax : 02.98.04.47.80<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-lannilis/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.569398",
+        "lng": "-4.511689"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin LAMBALLE</strong><br><p>25, Av G. Clémenceau</p>\n22400 LAMBALLE<br>Téléphone : 02.96.31.35.53<br>Fax : 02.96.50.93.93<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-lamballe/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.4617031",
+        "lng": "-2.5033665999999357"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin HENNEBONT</strong><br><p>Z.A. du Parco</p>\n56700 HENNEBONT<br>Téléphone : 02.97.89.47.20<br>Fax : 02.97.89.47.29<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-hennebont/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.79276769911531",
+        "lng": "-3.26543927192688"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin GUINGAMP</strong><br><p>Rond Point  de Pont Ezer</p>\n22200 GUINGAMP<br>Téléphone : 02.96.40.68.40<br>Fax : 02.96.44.40.93<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-guingamp/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.569202967128824",
+        "lng": "-3.1599050760269165"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin GUER</strong><br><p>Z.A. de la Dabonnière</p>\n56380 GUER<br>Téléphone : 02.97.22.03.57.<br>Fax : 02.97.22.06.71.<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-guer/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.9110844",
+        "lng": "-2.1271573999999873"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOUBALAY</strong><br><p>Rue du Colonel Pleven</p>\n22650 PLOUBALAY<br>Téléphone : 02.96.27.21.73<br>Fax : 02.96.27.33.32<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-ploubalay/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.580468",
+        "lng": "-2.143006"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOUAGAT</strong><br><p>Route de Quintin</p>\n22170 PLOUAGAT<br>Téléphone : 02.96.74.10.37<br>Fax : 02.96.79.51.00<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plouagat/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.53422929999999",
+        "lng": "-2.9728731000000153"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOMODIERN</strong><br><p>Rte de Ploven</p>\n29127 PLOMODIERN<br>Téléphone : 02.98.81.52.14<br>Fax : 02.98.81.27.63<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plomodiern/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.1700066752264",
+        "lng": "-4.231023788452148"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOGONNEC</strong><br><p>ZA de Peronic</p>\n29180 PLOGONNEC<br>Téléphone : 02.98.91.72.47<br>Fax : 02.98.51.82.46<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plogonnec/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.07625104024314",
+        "lng": "-4.189363718032837"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLOEUC / LIE</strong><br><p>Rue des Ecoles</p>\n22150 PLOEUC / LIE<br>Téléphone : 02.96.42.11.83<br>Fax : 02.96.42.15.21<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-ploeuc-lie/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.347022906286",
+        "lng": "-2.769284248352051"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLEYBER CHRIST</strong><br><p>La Gare</p>\n29410 PLEYBER CHRIST<br>Téléphone : 02.98.78.52.47<br>Fax : 02.98.78.57.32<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-pleyber-christ/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.508138",
+        "lng": "-3.882380000000012"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLEYBEN</strong><br><p>Zone Artisanale du Drevers</p>\n29190 PLEYBEN<br>Téléphone : 02.98.26.60.10<br>Fax : 02.98.26.70.09<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-pleyben/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.220827057138784",
+        "lng": "-3.9773619174957275"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLEUDANIEL</strong><br><p>Kerantour</p>\n22740 PLEUDANIEL<br>Téléphone : 02.96.22.91.03<br>Fax : 02.96.16.57.14<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-pleudaniel/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.78073300000001",
+        "lng": "-3.1453950000000077"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLESSALA</strong><br><p>Rte de St Gouéno</p>\n22330 PLESSALA<br>Téléphone : 02.96.26.13.09<br>Fax : 02.96.26.19.05<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plessala/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.274196",
+        "lng": "-2.613082"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLAINTEL</strong><br><p>Bourg</p>\n22940 PLAINTEL<br>Téléphone : 02.96.32.16.20<br>Fax : 02.96.32.06.78<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plaintel/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.40794",
+        "lng": "-2.8177070000000413"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert PLABENNEC</strong><br><p>ZA Callac 2</p>\n29860 PLABENNEC<br>Téléphone : 02.98.40.41.48<br>Fax : 02.98.40.72.97<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-plabennec/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.50977650000001",
+        "lng": "-4.4160167"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert MERDRIGNAC</strong><br><p>Av du Capitaine Legrand</p>\n22230 MERDRIGNAC<br>Téléphone : 02.96.28.41.42<br>Fax : 02.96.28.43.49<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-merdrignac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.18946183134749",
+        "lng": "-2.4002444744110107"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert MAURON</strong><br><p>Z.A. de Brocéliande</p>\n56430 MAURON<br>Téléphone : 02.97.22.61.71<br>Fax : 02.97.22.92.82<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-mauron/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.07286028695832",
+        "lng": "-2.2818946838378906"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin DOUARNENEZ</strong><br><p>Rte de Kerhuel  ZI Ste Croix</p>\n29100 DOUARNENEZ<br>Téléphone : 02.98.92.01.16<br>Fax : 02.98.92.02.60<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-douarnenez/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.086256",
+        "lng": "-4.316177"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin CROZON</strong><br><p>12 Bd Mendes France</p>\n29160 CROZON<br>Téléphone : 02.98.27.10.49<br>Fax : 02.98.27.23.58<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-crozon/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.24966219999999",
+        "lng": "-4.471650199999999"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin COMBOURG</strong><br><p>ZAC Moulin Madame</p>\n35270 COMBOURG<br>Téléphone : 02.23.15.03.03<br>Fax : 02.99.73.38.49.<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-combourg/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.41645889999999",
+        "lng": "-1.749057300000004"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin CLEGUER PLOUAY</strong><br><p>Kerchopine</p>\n56620 PLOUAY CLEGUER<br>Téléphone : 02.97.33.31.07<br>Fax : 02.97.33.19.72<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-cleguer-plouay/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.887381",
+        "lng": "-3.33631390000005"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin CARHAIX</strong><br><p>ZA Pont Herbot Rte de Callac</p>\n29270 CARHAIX<br>Téléphone : 02.98.93.30.12<br>Fax : 02.98.93.00.59<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-carhaix/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.27913750025522",
+        "lng": "-3.565782308578491"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin CALLAC</strong><br><p>Z.A. de Kerguiniou</p>\n22160 CALLAC<br>Téléphone : 02.96.45.51.68<br>Fax : 02.96.45.97.25<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-callac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.40741154521299",
+        "lng": "-3.4040558338165283"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin BROONS</strong><br><p>ZA Le Pilaga</p>\n22250 BROONS<br>Téléphone : 02.96.84.61.44<br>Fax : 02.96.84.70.74<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-broons/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.31613104732067",
+        "lng": "-2.247873544692993"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin BEGARD</strong><br><p>La barrière Rouge</p>\n22140 BEGARD<br>Téléphone : 02.96.45.20.48<br>Fax : 02.96.45.32.70<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-begard/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.624516301358135",
+        "lng": "-3.2993799448013306"
+    },
+    {
+        "categories": [
+            7
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert Le Jardin AURAY</strong><br><p>Z.A. Porte Océane</p>\n56400 AURAY<br>Téléphone : 02.97.56.35.37<br>Fax : 02.97.56.25.55<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-jardin-auray/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.666215",
+        "lng": "-2.982504"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert LANVALLAY</strong><br><p>Les Ormeaux</p>\n22100 LANVALLAY<br>Téléphone : 02.96.85.10.72<br>Fax : 02.96.85.30.62<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-lanvallay/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.44562870292091",
+        "lng": "-2.0204544067382812"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert LANMEUR</strong><br><p>31 Rue La Madeleine</p>\n29620 LANMEUR<br>Téléphone : 02.98.67.51.35<br>Fax : 02.98.67.63.69<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-lanmeur/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.6404427",
+        "lng": "-3.707988900000032"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert SAINT GILLES</strong><br><p>1 rue des aulnes</p>\n35590 Saint-Gilles<br>Téléphone : 02.99.64.12.21<br>Fax : 02.99.78.60.84<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-lhermitage/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.155206",
+        "lng": "-1.8204279999999926"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert JOSSELIN</strong><br><p>Bellevue</p>\n56120 JOSSELIN<br>Téléphone : 02.97.22.23.59<br>Fax : 02.97.75.68.65<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-josselin/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.96559953111912",
+        "lng": "-2.547304630279541"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert HILLION</strong><br><p>Bel Air</p>\n22120 HILLION<br>Téléphone : 02.96.72.60.41<br>Fax : 02.96.63.92.45<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-hillion/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.485505",
+        "lng": "-2.656976"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert GUEMENE / SCORFF</strong><br><p>5, La Gare</p>\n56160 LOCMALO<br>Téléphone : 02.97.51.21.29<br>Fax : 02.97.39.37.15<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-guemene-scorff/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.065447",
+        "lng": "-3.20589"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert GOURIN</strong><br><p>La Gare</p>\n56110 GOURIN<br>Téléphone : 02.97.23.40.46<br>Fax : 02.97.23.69.14<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-gourin/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.141841036508346",
+        "lng": "-3.6027082800865173"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert ELVEN</strong><br><p>12 Avenue des Martyrs</p>\n56250 ELVEN<br>Téléphone : 02.97.53.51.87<br>Fax : 02.97.63.44.46<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-elven/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.7367837",
+        "lng": "-2.5835270999999693"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert DOL DE BRETAGNE</strong><br><p>Rue Pierre Sémard</p>\n35120 DOL DE BRETAGNE<br>Téléphone : 02.99.48.07.40<br>Fax : 02.99.48.25.60<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-dol-de-bretagne/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.5427097",
+        "lng": "-1.7492154000000255"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert DAOULAS</strong><br><p>1 Rue Jacques Dubois</p>\n29460 DAOULAS<br>Téléphone : 02.98.25.80.30<br>Fax : 02.98.25.90.69<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-daoulas/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.3583868",
+        "lng": "-4.258951600000046"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert CORLAY</strong><br><p>Le Poteau</p>\n22320 CORLAY<br>Téléphone : 02.96.29.40.25<br>Fax : 02.96.29.90.14<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-corlay/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.317944",
+        "lng": "-3.057477"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert COATREVEN</strong><br><p>Pont Losquet</p>\n22450 COATREVEN<br>Téléphone : 02.96.92.75.98<br>Fax : 02.96.92.74.31<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-coatreven/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.7626183",
+        "lng": "-3.296530100000041"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert CLEGUEREC</strong><br><p>Z.I. Bann Er Lann</p>\n56480 CLEGUEREC<br>Téléphone : 02.97.38.11.84<br>Fax : 02.97.38.11.84<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-cleguerec/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.127802",
+        "lng": "-3.055266999999958"
+    },
+    {
+        "categories": [],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert CHATEAUNEUF</strong><br><p>ZI de Kroas Lesneven</p>\n29520 CHATEAUNEUF<br>Téléphone : 02.98.81.70.21<br>Fax : 02.98.73.25.03<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-chateauneuf/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.20277607418721",
+        "lng": "-3.8217535106506375"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert BREHAN LOUDEAC</strong><br><p>La Croix Blanche</p>\n56580 BREHAN LOUDEAC<br>Téléphone : 02.97.38.85.98<br>Fax : 02.97.38.88.75<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-brehan-loudeac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.059763",
+        "lng": "-2.697216"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert BOURBRIAC</strong><br><p>1, Rue de Tournemine</p>\n22390 BOURBRIAC<br>Téléphone : 02.96.43.40.47<br>Fax : 02.96.43.46.83<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-bourbriac/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.478062",
+        "lng": "-3.1862724999999728"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert BELLE ILE</strong><br><p>Z.A. de Mérézelle LE PALAIS</p>\n56360 BELLE ILE<br>Téléphone : 02.97.31.83.00<br>Fax : 02.97.31.30.94<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-belle-ile/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.3298212",
+        "lng": "-3.165894699999967"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert BAUD</strong><br><p>Z.A. de Kermestre</p>\n56150 BAUD<br>Téléphone : 02.97.51.05.94<br>Fax : 02.97.39.08.40.<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-baud/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.8865665",
+        "lng": "-3.0139431999999715"
+    },
+    {
+        "categories": [
+            6
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Point Vert BANNALEC</strong><br><p>ZAC de Moustoulgoat</p>\n29380 BANNALEC<br>Téléphone : 02.98.39.56.57<br>Fax : 02.98.35.40.60<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/point-vert-bannalec/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.936528",
+        "lng": "-3.697836000000052"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert ST MARTIN</strong><br><p>Parc d'Activité du Launay</p>\n29600 ST MART.DES CHAMPS<br>Téléphone : 02.98.15.24.00<br>Fax : 02.98.88.47.29<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-st-martin/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.57933925234736",
+        "lng": "-3.864411415496761"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert QUIMPERLE</strong><br><p>2, rue Albert Schweitzer</p>\n29300 QUIMPERLE<br>Téléphone : 02.98.96.18.24<br>Fax : 02.98.39.24.29<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-quimperle/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.868417744900874",
+        "lng": "-3.583686826705957"
+    },
+    {
+        "categories": [],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert QUIMPER</strong><br><p>Z.I. de L'Hippodrome</p>\n29000 QUIMPER<br>Téléphone : 02.98.98.49.90.<br>Fax : 02.98.98.49.91<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-quimper/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.996453618281826",
+        "lng": "-4.0785616636276245"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert PONTIVY</strong><br><p>Rue Colbert, ZI.de Signan</p>\n56300 PONTIVY<br>Téléphone : 02.97.25.27.05<br>Fax : 02.97.25.47.81<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-pontivy/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.0422572",
+        "lng": "-2.960687099999973"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert PONT L'ABBE</strong><br><p>Rd Point Kerganet   Lieu dit  Le Hellen</p>\n29120 PONT L'ABBE<br>Téléphone : 02.98.87.21.22<br>Fax : 02.98.82.35.80<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-pont-labbe/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.87006381768463",
+        "lng": "-4.239208552887021"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert PLERIN</strong><br><p>Esp. Com. du Chêne Vert</p>\n22190 PLERIN<br>Téléphone : 02.96.74.47.75<br>Fax : 02.96.74.73.93<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-plerin/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.53371150342067",
+        "lng": "-2.753391186785848"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert PAIMPOL</strong><br><p>Rue Raymond Pellier</p>\n22500 PAIMPOL<br>Téléphone : 02.96.20.74.55<br>Fax : 02.96.20.88.21<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-paimpol/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.7729629",
+        "lng": "-3.0398056000000224"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert LESNEVEN</strong><br><p>Bd des Frères Lumières</p>\n29260 LESNEVEN<br>Téléphone : 02.98.83.13.55<br>Fax : 02.98.83.31.05<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-lesneven/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.57553000961465",
+        "lng": "-4.31570249465949"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert LANNION RUSQUET</strong><br><p>ZA du Rusquet Sud</p>\n22300 LANNION<br>Téléphone : 02.96.14.15.16.<br>Fax : 02.96.48.13.06<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-lannion-rusquet/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.74984789999999",
+        "lng": "-3.45114030000002"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert LANDIVISIAU</strong><br><p>Kérivoal</p>\n29400 LANDIVISIAU<br>Téléphone : 02.98.68.11.49<br>Fax : 02.98.68.44.84<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-landivisiau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.51635250228703",
+        "lng": "-4.0531733502930365"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert LANDERNEAU</strong><br><p>Rue du Maréchal Leclerc</p>\n29800 LANDERNEAU<br>Téléphone : 02.98.85.18.15<br>Fax : 02.98.21.79.85<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-landerneau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.4625337",
+        "lng": "-4.268989000000033"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert FOUESNANT</strong><br><p>16 Toul An Ael, Rte Quimper - Centre Commercial Quai 29</p>\n29170 FOUESNANT<br>Téléphone : 02.98.56.01.99<br>Fax : 02.98.56.53.89<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-fouesnant/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.8961441",
+        "lng": "-4.0171878999999535"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert DINAN</strong><br><p>Cap Rance Ouest   17, rue Bois Didais</p>\n22100 TADEN<br>Téléphone : 02.96.39.00.61<br>Fax : 02.96.27.54.67<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-dinan/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.47578835539169",
+        "lng": "-2.045471041247538"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert CONCARNEAU</strong><br><p>9 rue Jacques Noël Sané</p>\n29900 CONCARNEAU<br>Téléphone : 02.98.50.54.55<br>Fax : 02.98.50.83.13<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-concarneau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.9025568",
+        "lng": "-3.9109657999999854"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert BREST</strong><br><p>Route du Conquet</p>\n29200 BREST<br>Téléphone : 02.98.05.04.75<br>Fax : 02.98.49.45.28<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-brest/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.3797515",
+        "lng": "-4.540837900000042"
+    },
+    {
+        "categories": [
+            8
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Magasin Vert BETTON</strong><br><p>ZAC de Pluvignon</p>\n35830 BETTON<br>Téléphone : 02.23.27.40.00<br>Fax : 02.23.27.40.01<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/magasin-vert-betton/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.1623905",
+        "lng": "-1.6389421000000084"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert QUIMPERLE</strong><br><p>Kervidanou 1</p>\n29397 QUIMPERLE<br>Téléphone : 02.98.96.19.48<br>Fax : 02.98.96.09.92<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cultivert-quimperle/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.864747",
+        "lng": "-3.5855000000000246"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert QUIMPER</strong><br><p>Z.I. de L'Hippodrome</p>\n29000 QUIMPER<br>Téléphone : 02.98.98.49.16<br>Fax : 02.98.98.49.18<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cultivert-quimper/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "47.997667",
+        "lng": "-4.079207999999994"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert PONTIVY</strong><br><p>Rue Colbert, Z.I. du Signan</p>\n56300 PONTIVY<br>Téléphone : 02.97.25.38.07<br>Fax : 02.97.25.03.55<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cultivert-pontivy/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.0422572",
+        "lng": "-2.960687099999973"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert MUR DE BRETAGNE</strong><br><p>Carrefour de Garla</p>\n22530 MUR DE BRETAGNE<br>Téléphone : 02.96.26.39.49<br>Fax : 02.96.26.39.48<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cultivert-mur-de-bretagne/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.207241",
+        "lng": "-2.9927410000000236"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert LANDERNEAU</strong><br><p>Rue Jean Mermoz - ZI St Eloi</p>\n29260 PLOUDANIEL<br>Téléphone : 02.98.83.09.02<br>Fax : 02.98.83.03.81<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cultivert-landerneau/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.479743",
+        "lng": "-4.28811799999994"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert LAMBALLE</strong><br><p>Rue de la Saudraie</p>\n22400 LAMBALLE<br>Téléphone : 02.96.50.01.38<br>Fax : 02.96.50.04.62<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cultivert-lamballe/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.47814879999999",
+        "lng": "-2.4946884999999384"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert GUINGAMP</strong><br><p>11, route de Kerbost - ZI de Grâces </p>\n22200 GUINGAMP<br>Téléphone : 02.56.14.11.10<br>Fax : 02.56.14.11.11<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cultivert-guingamp/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.5474624",
+        "lng": "-3.1577151000000185"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert COMBOURG</strong><br><p>Avenue du Général de Gaulle</p>\n35270 COMBOURG<br>Téléphone : 02.99.73.03.57<br>Fax : 02.99.73.23.87<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cultivert-combourg/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.41307560000001",
+        "lng": "-1.7549756999999317"
+    },
+    {
+        "categories": [
+            21
+        ],
+        "icon": "https://www.triskalia.fr/wp-content/themes/triskalia/images/map-marker.png",
+        "infoWindow": {
+            "content": "<strong>Cultivert CARHAIX</strong><br><p>Rue de Callac</p>\n29270 CARHAIX<br>Téléphone : 02.98.93.72.00<br>Fax : 02.98.93.79.24<br><a href=\"https://www.triskalia.fr/nos-enseignes-et-magasins/cv-carhaix/\" class=\"btn btn-primary btn-block\">Voir la fiche</a>"
+        },
+        "lat": "48.2809076",
+        "lng": "-3.564942500000029"
+    }
+]
