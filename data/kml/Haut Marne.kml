@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Haut Marne</name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-DB4436-nodesc-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-503-DB4436-nodesc-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Haut-Marne</name>
+      <Placemark>
+        <name>Avrecourt
+</name>
+        <description>rue de la Gare</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.53827100000001,47.962553,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bologne 
+</name>
+        <description><![CDATA[52310 BOLOGNE – GARE <br>Route de Briaucourt — tél. 03 25 01 08 59/fax. 03 25 01 16 03<br><br>52310 BOLOGNE – GARE<br>Rue de la Gare — tél. 03 25 01 08 62/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.13576999999998,48.19928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chambroncourt
+</name>
+        <description><![CDATA[52700 CHAMBRONCOURT<br>Route de Leurville — tél. 03 25 02 23 65/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.35480499999994,48.3754564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goncourt
+</name>
+        <description><![CDATA[52150 GONCOURT<br>Route d'Harréville — tél. 03 25 03 88 43/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.60789999999997,48.240373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Juzennecourt
+</name>
+        <description><![CDATA[52330 JUZENNECOURT <br>Route d'Andelot — tél. 03 25 02 01 24/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.980727,48.1853108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laneuville à Bayard
+</name>
+        <description><![CDATA[52170 LANEUVILLE A BAYARD<br>Route d'Avrainville — tél. 03 25 55 52 66 fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.07191699999998,48.547289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandres-la-Côte
+</name>
+        <description><![CDATA[52800 MANDRES-LA-CÔTE<br>Route de Provence — tél. 03 25 31 98 64/fax 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.34016900000006,48.059811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Richebourg
+</name>
+        <description><![CDATA[52120 RICHEBOURG<br>Route de Chaumont — tél. 03 25 31 05 98/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.05980099999999,48.024518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Vallier-sur-Marne
+</name>
+        <description><![CDATA[52200 SAINT-VALLIER-SUR-MARNE<br>Route de Chalindrey — tél. 03 25 90 15 18/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.39268100000004,47.837928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vesaignes-Sous-Lafauche
+</name>
+        <description><![CDATA[52700 VESAIGNES-SOUS-LAFAUCHE<br>tél. 03 25 02 21 82/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.43432600000006,48.280597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Champcourt
+</name>
+        <description><![CDATA[52330 CHAMPCOURT<br>Route de Blaise — tél. 03 25 01 51 01/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.95065199999999,48.27564,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Latrecey
+</name>
+        <description><![CDATA[52120 LATRECEY<br>Lieu-dit Gare — tél. 03 25 32 99 33/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.85639200000003,47.982877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perrogney-les-Fontaines
+</name>
+        <description><![CDATA[52160 PERROGNEY-LES-FONTAINES<br>Route départementale 143 — tél. 03 25 84 41 74/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.19875300000001,47.811617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rimaucourt
+</name>
+        <description><![CDATA[52700 RIMAUCOURT<br>Zone industrielle — tél. 03 25 01 36 06/fax. 03 25 02 10 49]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.33047899999997,48.251477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Ciergues
+</name>
+        <description><![CDATA[52200 SAINT-CIERGUES<br>2, route du Château d'Eau — tél. 03 25 90 10 69/fax. 03 25 88 27 30]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.25481300000001,47.884062,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ville-en-Blaisois
+</name>
+        <description><![CDATA[52130 VILLE-EN-BLAISOIS<br>Rue du Petit Mont — tél. 03 25 55 62 60/fax. 03 25 01 49 99]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.95976500000006,48.43989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isomes
+</name>
+        <description>52190 ISOMES, chemin du Paradis</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.30398600000001,47.645849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massoult
+</name>
+        <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.44876799999997,47.789079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

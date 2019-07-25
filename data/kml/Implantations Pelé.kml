@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Implantations Pelé</name>
+    <description/>
+    <Style id="icon-503-009D57-normal">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-009D57-highlight">
+      <IconStyle>
+        <color>ff579d00</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-009D57">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-009D57-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-009D57-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-503-795046-normal">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-795046-highlight">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-795046">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-795046-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-795046-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>sites Pelé.xlsx</name>
+      <Placemark>
+        <name>Candé</name>
+        <address>Candé rue André Bru 02.41.92.73.24</address>
+        <description><![CDATA[Adresse: rue André Bru<br>Tél.: 02.41.92.73.24]]></description>
+        <styleUrl>#icon-503-009D57</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>rue André Bru</value>
+          </Data>
+          <Data name="Tél.">
+            <value>02.41.92.73.24</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Aviré</name>
+        <address>Aviré Rte de la Ferrière de Flée 02.41.94.10.32</address>
+        <description><![CDATA[Adresse: Rte de la Ferrière de Flée<br>Tél.: 02.41.94.10.32]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rte de la Ferrière de Flée</value>
+          </Data>
+          <Data name="Tél.">
+            <value>02.41.94.10.32</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Combrée</name>
+        <address>Combrée Rte de Bourg L’Evèque 02.41.94.23.74</address>
+        <description><![CDATA[Adresse: Rte de Bourg L’Evèque<br>Tél.: 02.41.94.23.74]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rte de Bourg L’Evèque</value>
+          </Data>
+          <Data name="Tél.">
+            <value>02.41.94.23.74</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Challain-la-Potherie</name>
+        <address>Challain-la-Potherie La Bornaie 02.41.94.13.11</address>
+        <description><![CDATA[Adresse: La Bornaie<br>Tél.: 02.41.94.13.11]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>La Bornaie</value>
+          </Data>
+          <Data name="Tél.">
+            <value>02.41.94.13.11</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>La Chapelle St Sauveur</name>
+        <address>La Chapelle St Sauveur Les Trois Moulins 02.40.98.62.52</address>
+        <description><![CDATA[Adresse: Les Trois Moulins<br>Tél.: 02.40.98.62.52]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Les Trois Moulins</value>
+          </Data>
+          <Data name="Tél.">
+            <value>02.40.98.62.52</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Noëllet</name>
+        <address>Noëllet Le Pajubert 02.41.92.73.24</address>
+        <description><![CDATA[Adresse: Le Pajubert<br>Tél.: 02.41.92.73.24]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Le Pajubert</value>
+          </Data>
+          <Data name="Tél.">
+            <value>02.41.92.73.24</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>St Pierre Montlimart</name>
+        <address>St Pierre Montlimart Z.A. La Paganne  02.41.75.77.08</address>
+        <description><![CDATA[Adresse: Z.A. La Paganne <br>Tél.: 02.41.75.77.08]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Z.A. La Paganne </value>
+          </Data>
+          <Data name="Tél.">
+            <value>02.41.75.77.08</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Freigné</name>
+        <address>Freigné Rue du Recteur Morin 02.41.92.73.24</address>
+        <description><![CDATA[Adresse: Rue du Recteur Morin<br>Tél.: 02.41.92.73.24]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rue du Recteur Morin</value>
+          </Data>
+          <Data name="Tél.">
+            <value>02.41.92.73.24</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mazé</name>
+        <address>Mazé Route de la Grenouillerie</address>
+        <description><![CDATA[Adresse: Route de la Grenouillerie <br>Tél.: ]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Route de la Grenouillerie </value>
+          </Data>
+          <Data name="Tél.">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Vihiers</name>
+        <address>Vihiers Rue Robert Schuman</address>
+        <description><![CDATA[Adresse: Rue Robert Schuman<br>Tél.: ]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rue Robert Schuman</value>
+          </Data>
+          <Data name="Tél.">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Descartes</name>
+        <address>Descartes Rue Paul Langevin</address>
+        <description><![CDATA[Adresse: Rue Paul Langevin<br>Tél.: ]]></description>
+        <styleUrl>#icon-503-795046</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Rue Paul Langevin</value>
+          </Data>
+          <Data name="Tél.">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

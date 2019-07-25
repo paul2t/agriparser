@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>110 Bourgogne coopérative</name>
+    <description>Carte des implantations de la coopérative 110 Bourgogne</description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-FFCC00-3000-51-nodesc-normal">
+      <LineStyle>
+        <color>ff00ccff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>3300ccff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-FFCC00-3000-51-nodesc-highlight">
+      <LineStyle>
+        <color>ff00ccff</color>
+        <width>4.5</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>3300ccff</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-FFCC00-3000-51-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-FFCC00-3000-51-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-FFCC00-3000-51-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Calque sans titre</name>
+      <Placemark>
+        <name>Région Bassée Gâtinais</name>
+        <styleUrl>#poly-FFCC00-3000-51-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                2.922935,48.424325,0
+                2.922249,48.407919,0
+                2.918129,48.400625,0
+                2.900963,48.393787,0
+                2.887917,48.382843,0
+                2.867317,48.376002,0
+                2.844658,48.368704,0
+                2.819252,48.365967,0
+                2.806892,48.364142,0
+                2.793846,48.351823,0
+                2.746468,48.330828,0
+                2.734108,48.316675,0
+                2.757454,48.307541,0
+                2.785606,48.295666,0
+                2.816505,48.290183,0
+                2.821426,48.279994,0
+                2.801514,48.271768,0
+                2.755394,48.266421,0
+                2.76432,48.257736,0
+                2.7911,48.25225,0
+                2.821312,48.247677,0
+                2.848778,48.243562,0
+                2.88105,48.251792,0
+                2.89341,48.256364,0
+                2.92408,48.247769,0
+                2.949829,48.247769,0
+                2.952576,48.23748,0
+                2.964249,48.229247,0
+                2.991028,48.224673,0
+                3.000641,48.230162,0
+                3.01918,48.216895,0
+                3.050079,48.21415,0
+                3.077545,48.170665,0
+                3.118057,48.169749,0
+                3.108444,48.199049,0
+                3.156509,48.232906,0
+                3.234787,48.293244,0
+                3.243713,48.331148,0
+                3.212128,48.336625,0
+                3.189468,48.348948,0
+                3.174362,48.366286,0
+                3.151703,48.396385,0
+                3.112564,48.4251,0
+                3.010254,48.441045,0
+                2.959442,48.43649,0
+                2.922935,48.424325,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Régions Tonnerrois-Puisaye-Auxerrois-Châtillonnais</name>
+        <styleUrl>#poly-FFCC00-3000-51-nodesc</styleUrl>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                3.3514,48.0672,0
+                3.32805,48.06078,0
+                3.30608,48.04793,0
+                3.28136,48.04288,0
+                3.25939,48.04012,0
+                3.23673,48.03553,0
+                3.20652,48.02405,0
+                3.18523,48.02221,0
+                3.15502,48.02129,0
+                3.14884,48.01395,0
+                3.16051,48.0066,0
+                3.14209,47.98532,0
+                3.11943,47.96785,0
+                3.09471,47.93704,0
+                3.08303,47.92278,0
+                3.05213,47.90943,0
+                2.9869,47.89516,0
+                3.05282,47.82329,0
+                3.0439,47.78871,0
+                2.93884,47.70098,0
+                2.97111,47.64411,0
+                3.03909,47.60431,0
+                3.12423,47.5969,0
+                3.13934,47.55706,0
+                3.15719,47.53667,0
+                3.18964,47.522533,0
+                3.2547,47.5107,0
+                3.30688,47.49308,0
+                3.41949,47.50235,0
+                3.46756,47.57467,0
+                3.49365,47.58764,0
+                3.49502,47.51441,0
+                3.6145,47.47591,0
+                3.71063,47.44945,0
+                3.75595,47.42622,0
+                3.77996497079429,47.3868728146754,0
+                3.78204,47.38347,0
+                3.8562,47.37975,0
+                3.95664441090141,47.380920174913,0
+                4.07774067254648,47.3822142259364,0
+                4.11026,47.38254,0
+                4.14665,47.50699,0
+                4.20021,47.58764,0
+                4.27368,47.58393,0
+                4.3444,47.56818,0
+                4.49409,47.60431,0
+                4.50027,47.59505,0
+                4.56001,47.56216,0
+                4.59365,47.5464,0
+                4.73373,47.5107,0
+                4.8484,47.57096,0
+                4.92668,47.61819,0
+                5.02487,47.69682,0
+                5.03311,47.70098,0
+                5.03173,47.7093,0
+                5.01663,47.70837,0
+                4.99671,47.69451,0
+                4.97886,47.68573,0
+                4.96444,47.69358,0
+                4.95483,47.70421,0
+                4.96376,47.72546,0
+                4.97062,47.73378,0
+                4.96032,47.76056,0
+                4.95002,47.76563,0
+                4.93698,47.76333,0
+                4.92668,47.76009,0
+                4.92187,47.76609,0
+                4.92118,47.77486,0
+                4.92874,47.78132,0
+                4.94865,47.78548,0
+                4.96994,47.79562,0
+                4.98573,47.80208,0
+                4.99122,47.81038,0
+                4.99534,47.82283,0
+                4.96994,47.8339,0
+                4.95895,47.84265,0
+                4.96307,47.85141,0
+                4.95277,47.86661,0
+                4.94247,47.86615,0
+                4.92874,47.87536,0
+                4.92668,47.8901,0
+                4.915,47.89793,0
+                4.90882,47.9122,0
+                4.89921,47.92324,0
+                4.88548,47.92186,0
+                4.87243,47.92232,0
+                4.86763,47.91174,0
+                4.85939,47.90667,0
+                4.8587,47.89655,0
+                4.84771,47.90115,0
+                4.83261,47.90759,0
+                4.83467,47.9168,0
+                4.84565,47.926,0
+                4.85664,47.93428,0
+                4.86419,47.94302,0
+                4.85595,47.95314,0
+                4.84428,47.96234,0
+                4.82025,47.96234,0
+                4.80651,47.96188,0
+                4.79072,47.96418,0
+                4.7866,47.97383,0
+                4.79621,47.98532,0
+                4.80857,47.99084,0
+                4.79209,47.99773,0
+                4.7866,48.00692,0
+                4.76394,48.00692,0
+                4.74609,48.00554,0
+                4.72549,48.00692,0
+                4.70901,48.01565,0
+                4.7042,48.02529,0
+                4.67056,48.01702,0
+                4.65477,48.01932,0
+                4.64309,48.02621,0
+                4.62249,48.02529,0
+                4.61082,48.03034,0
+                4.58404,48.03126,0
+                4.56481,48.02162,0
+                4.54971,48.00692,0
+                4.53392,48.00738,0
+                4.53941,47.99176,0
+                4.55314,47.9867,0
+                4.56001,47.97705,0
+                4.55314,47.96923,0
+                4.53048,47.97061,0
+                4.514,47.96785,0
+                4.49546,47.97107,0
+                4.468,47.9605,0
+                4.45289,47.95958,0
+                4.44053,47.9582,0
+                4.42543,47.96923,0
+                4.38903,47.96418,0
+                4.34989,47.9582,0
+                4.33342,47.96096,0
+                4.3135,47.96418,0
+                4.3032,47.94302,0
+                4.28535,47.92784,0
+                4.26063,47.926,0
+                4.23934,47.93888,0
+                4.22149,47.95038,0
+                4.22973,47.96096,0
+                4.22493,47.97061,0
+                4.21051,47.97521,0
+                4.19334,47.96923,0
+                4.19883,47.96004,0
+                4.20845,47.94992,0
+                4.20021,47.94164,0
+                4.18647,47.94256,0
+                4.18647,47.9559,0
+                4.17137,47.95958,0
+                4.16108616502016,47.9583279294291,0
+                4.15626,47.95774,0
+                4.13772,47.93934,0
+                4.12399,47.93474,0
+                4.10202,47.92922,0
+                4.09103,47.94486,0
+                4.07867,47.94578,0
+                4.04708,47.9467,0
+                4.04434,47.92646,0
+                4.01001,47.93934,0
+                3.96469,47.93566,0
+                3.92898,47.93382,0
+                3.89602,47.92922,0
+                3.90152,47.9467,0
+                3.90976,47.97337,0
+                3.90152,48.00003,0
+                3.88229,47.99727,0
+                3.87542,47.98073,0
+                3.8507,47.9844,0
+                3.84384,48.00186,0
+                3.86718,48.01013,0
+                3.8562,48.02483,0
+                3.83148,48.04136,0
+                3.8301,48.05789,0
+                3.79852,48.08725,0
+                3.79989,48.10468,0
+                3.78479,48.11935,0
+                3.76281,48.1331,0
+                3.7532,48.12576,0
+                3.74084,48.13585,0
+                3.75595,48.15051,0
+                3.74633,48.16516,0
+                3.71887,48.17707,0
+                3.71887,48.16516,0
+                3.712,48.15142,0
+                3.67355,48.16516,0
+                3.63372,48.12393,0
+                3.62411,48.04871,0
+                3.59527,48.04136,0
+                3.61587,48.00186,0
+                3.58017,48.00462,0
+                3.56231,48.00278,0
+                3.57742,48.02667,0
+                3.5321,48.0432,0
+                3.48266,48.03952,0
+                3.39202,48.04503,0
+                3.3514,48.0672,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark>
+        <name>Siège social</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/7yQ3svbgYLuT9LV2-WUtIrnY47yF7hAtt53Cr2korQuhVzDZOVY-ToOxLDWMf4GmMPxEAo6ARa1gpelz0TGho8yJIH8QsPu6ktLIhxKEhn6l" height="200" width="auto" /><br><br>49 route d'Auxerre - 89470 Monéteau .]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/7yQ3svbgYLuT9LV2-WUtIrnY47yF7hAtt53Cr2korQuhVzDZOVY-ToOxLDWMf4GmMPxEAo6ARa1gpelz0TGho8yJIH8QsPu6ktLIhxKEhn6l</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            3.581189,47.837804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Bléneau</name>
+        <description>Rue de St Privé 89220 BLENEAU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.021584,47.669549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Champignelles</name>
+        <description>Route de Champcevrais 89350 CHAMPIGNELLES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.047161,47.773483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Charny</name>
+        <description>2 bis rue St Martin 89120 CHARNY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.096085,47.883542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Silo d' Etais La Sauvin ]]></name>
+        <description>La Gare 89480 ETAIS LA SAUVIN</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.34671,47.501547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de La Ferté Loupière</name>
+        <description>Les petits Champs 89110 lLA FERTE LOUPIERE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.236504,47.895686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Grandchamp</name>
+        <description>Le village 89350 GRANDCHAMP</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.127241,47.740968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de St Fargeau</name>
+        <description>29 avenue de la Gde Mademoiselle 89170 ST FARGEAU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.074584,47.644213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de St Sauveur en Puisaye</name>
+        <description>Route de ste Colombe MOUTIERS 89520 ST SAUVEUR EN PUISAYE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.176765,47.601765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Thury</name>
+        <description>Les Crics 89520 THURY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.295212,47.586715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siège de Toucy</name>
+        <description><![CDATA[Route d'Avallon 89130 TOUCY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.293216,47.735817,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Treigny</name>
+        <description>Les Fragnes 89520 TREIGNY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.194275,47.526243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Villeneuve-Les-Genêts</name>
+        <description>Route de Bléneau 89350 VILLENEUVE LES GENETS</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.064156,47.729625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Silo d'Auxerre]]></name>
+        <description>Rue des Mignottes 89000 AUXERRE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.587036,47.80053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Bonnard</name>
+        <description>8 Rue Sèche Bouteille 89400 BONNARD</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.525796,47.932159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de la Brosse</name>
+        <description>Route de Mailly 89660 BROSSES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.691492,47.536211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Chevannes</name>
+        <description>27 rue de Baulches 89240 CHEVANNES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.489833,47.756464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Coulanges la Vineuse</name>
+        <description>Chemin départemental 38 89580 COULANGES LA VINEUSE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.58223,47.70052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de COURGIS</name>
+        <description>Les Champs Grelins 89800 COURGIS</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.754191,47.774219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Courson-Les-Carrières</name>
+        <description>Route de Charentenay 89560 COURSON LES CARRIERES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.504639,47.626529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Cravant</name>
+        <description>Le Maunoir BAZARNES 89460 CRAVANT</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.67836,47.670705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Guerchy</name>
+        <description><![CDATA[Route d'Aillant Champloiseau 89790 GUERCHY]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.437219,47.89278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Joigny</name>
+        <description>Le Ponton 89300 JOIGNY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.401964,47.976651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Lignorelles</name>
+        <description>Route de Bleigny-Le-Carreau 89800 LIGNORELLES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.703465,47.822232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Migennes</name>
+        <description>6 rue Olivier de Serres 89400 MIGENNES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.52541,47.963376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Ouanne</name>
+        <description>Erable 89560 OUANNE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.423271,47.642839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Pourrain</name>
+        <description>Le Donjon 89240 POURRAIN</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.394936,47.791499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de St Cyr Les Colons</name>
+        <description>La Perrière 89800 ST CYR LES COLONS</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.737905,47.742585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Vassy Etaules</name>
+        <description>La Gare 89200 VASSY ETAULES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.907743,47.526214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Vermenton</name>
+        <description>Avenue de la Gare 89270 VERMENTON</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.733635,47.662613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Silo d'Ancy-Le-Franc]]></name>
+        <description>Champs de la Lame 89160 ANCY LE FRANC</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.164162,47.776512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Châtel-Gérard</name>
+        <description>LES CHAILLOTS 89310 CHATEL GERARD</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.099746,47.630896,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Chemilly/Serein</name>
+        <description>Le Montier 89800 CHEMILLY/SEREIN</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.860943,47.769748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Cruzy Le Chatel</name>
+        <description>Route de Baon 89740 CRUZY LE CHATEL</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.21227,47.855762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Silo de l'Isle-sur-Serein]]></name>
+        <description><![CDATA[Route de Civry 89440 L'ISLE SUR SEREIN]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.001749,47.592779,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Neuvy-Sautour</name>
+        <description>Rue de la Gare 89570 NEUVY SAUTOUR</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.796849,48.036917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Nitry </name>
+        <description>Route de Noyers 89310 NITRY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.851867,47.730462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Pacy s/ Armançon</name>
+        <description>Les Quarreaux 89160 PACY S/ ARMANCON</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.095218,47.776858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SIlo de Ravières</name>
+        <description><![CDATA[9 Route d'Ancy Le Franc 89390 RAVIERES]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.223551,47.736419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Tissey</name>
+        <description>La Camuse 89700 TISSEY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.902249,47.851759,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siège de Tonnerre </name>
+        <description>Quai du Canal 89700 TONNERRE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.980505,47.863493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Trichey</name>
+        <description>La Grande BoRNe 89430 TRICHEY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.139571,47.930434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Busseaut</name>
+        <description>21510 BUSSEAUT</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.648805,47.737043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siège de Chatillon S/Seine</name>
+        <description>40bis, avenue de la gare 21400 CHATILLON S/SEINE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.572265,47.868934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Coulmier-le-Sec</name>
+        <description>21400 COULMIER LE SEC</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.493065,47.74902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Silo d'Emorots]]></name>
+        <description>EMOROTS 21450 FONTAINES EN DUESMOIS</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.516582,47.644458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Laignes</name>
+        <description>Vraiville ZI 21330 LAIGNES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.362452,47.850506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Poiseul-La-Ville</name>
+        <description>Hameau Laperrière 21450 POISEUL LA VILLE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.669189,47.563786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Pothières</name>
+        <description>Le Village 21400 POTHIERES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.519072,47.922626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Prusly sur Ource</name>
+        <description>21400 PRUSLY SUR OURCE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.662838,47.870071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Slo ide Resey sur Ource</name>
+        <description>Route départementale 928 21290 RECEY SUR OURCE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.854112,47.781962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Riel-Les-Eaux </name>
+        <description>21570 RIEL LES EAUX</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.678341,47.973986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Sennevoy</name>
+        <description>Route de Nuits 21160 SENNEVOY LE BAS</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.290504,47.806698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Savoisy</name>
+        <description>21500 SAVOISY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.414444,47.73078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Vauxhaulles-sur-Aube</name>
+        <description><![CDATA[Le village 21520 Veuxhaulles-sur-Aube, Côte-d'Or, Bourgogne]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            4.801283,47.947339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Cannes-Ecluses</name>
+        <description>36 route de Cannes-Ecluses</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.98296,48.364005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Silo d'Ecuelles]]></name>
+        <description>Rue georges villette 77250 ECUELLES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.814903,48.351914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Forges</name>
+        <description>départemental 210 77130 FORGES</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.961974,48.418891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Montereau-Fault-Yonne</name>
+        <description>Route de Bray 77130 MONTEREAU</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.973347,48.382022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Montereau-Fault-Yonne</name>
+        <description><![CDATA[Quai d'Yonne, 77130 Montereau-Fault-Yonne]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.954292,48.38909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siège de Montereau-Fault-Yonne</name>
+        <description>14 Rue des Clomarts 77130 MONTEREAU-FAULT-YONNE</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.967124,48.38624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Villemaréchal</name>
+        <description>35 rue du silo 77710 VILLEMARECHAL</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.873182,48.274682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Villeneuve la Guyard</name>
+        <description>Route de Villeblevin 89340 VILLENEUVE LA GUYARD</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.08954,48.34872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Villethierry</name>
+        <description>Route de Chaumont 89140 VILLETHIERRY</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.121555,48.316623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Vinneuf</name>
+        <description>La pâture Brulée 89140 VINNEUF</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            3.133936,48.351772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Voulx Appro</name>
+        <description>31 Rue Pasteur 77940 VOULX</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.967854,48.28098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silo de Voulx céréales</name>
+        <description>Route de St Ange 77940 VOULX</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            2.958214,48.280333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

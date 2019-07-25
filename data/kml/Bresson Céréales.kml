@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Bresson Céréales</name>
+    <description>Points de collecte et Dépôts Phyto-Engrais</description>
+    <Style id="icon-117-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/117-rangerstation.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-117-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/117-rangerstation.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-117">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-117-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-117-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Calque sans titre</name>
+      <Placemark>
+        <name>SAULON LA CHAPELLE</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/WzEgwM3p3Mxfp3r2FInPNk3bDVAZ8FKMzdrCGMLFkZe2a7L_epNOA3NGKAl0CHap28Utkk0sMSga6BtahNMwnz_Z0XwBBLrhBKIaLyLr_n9E265-okM9YjLOpuLCCMK8mzgRbrOQpdUWARdwIgq85CTrdtrB9dnA" height="200" width="auto" /><br><br>Point de collecte et Dépôt phytos-engrais : <br>Tél : 03 80 79 15 15 / Fax : 03 80 79 15 20 <br>Adresse : Rue du moulin 21910 SAULON LA CHAPELLE <br>SIEGE SOCIAL]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/WzEgwM3p3Mxfp3r2FInPNk3bDVAZ8FKMzdrCGMLFkZe2a7L_epNOA3NGKAl0CHap28Utkk0sMSga6BtahNMwnz_Z0XwBBLrhBKIaLyLr_n9E265-okM9YjLOpuLCCMK8mzgRbrOQpdUWARdwIgq85CTrdtrB9dnA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.079546,47.218577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>THOREY EN PLAINE</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/yQC0VYRydkFpYITHWZNpf6lbXldJrGKKq2OGBiYiVxyRgkvMCQ7WDMr8n94CQ4vXs2TQ7Rs9IQjq8T3-9oSiNWwxRvf3ihw-9PGMPQM0DpF-xxhgmbobXhVLz4i2KtTOit5Qtg5jG8A" height="200" width="auto" /><br><br>Point de collecte : <br>Tél : 03 80 49 78 96<br>Adresse : Rue du Canal 21110 THOREY EN PLAINE]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/yQC0VYRydkFpYITHWZNpf6lbXldJrGKKq2OGBiYiVxyRgkvMCQ7WDMr8n94CQ4vXs2TQ7Rs9IQjq8T3-9oSiNWwxRvf3ihw-9PGMPQM0DpF-xxhgmbobXhVLz4i2KtTOit5Qtg5jG8A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.139188,47.215546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CESSEY SUR TILLE</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/nhXgAEPe9KC7zR5Dig1r31_tdju5LdqQwJD-t7j3HKG4V7uEzZjmu49cgWa3e7Vcvni1fJhuUT1lLrT9MzuvvtvPg6ygXWJmYKu0o_5xAhf_elMzu7kQF3OjbJjhApqxukocHzAO82nKRD_izy6vW16oMG_mhQ" height="200" width="auto" /><br><br>Point de collecte et Dépôt phytos-engrais :<br>Tél : 03 80 37 76 16 / Fax : 03 80 37 77 96<br>Adresse : 42 rue Chardenois 21110 CESSEY SUR TILLE<br>Edouard FRANCE<br>Benjamin BELOT]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/nhXgAEPe9KC7zR5Dig1r31_tdju5LdqQwJD-t7j3HKG4V7uEzZjmu49cgWa3e7Vcvni1fJhuUT1lLrT9MzuvvtvPg6ygXWJmYKu0o_5xAhf_elMzu7kQF3OjbJjhApqxukocHzAO82nKRD_izy6vW16oMG_mhQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.223227,47.288341,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TANAY</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/GIu0844M-mBfJmoLI4BsxFevJIHRKM5Ky9LrRQyf7M2eLpo4ZDlQZJDHCWQcd1q4yo9XkJedTbiZGCpgJ8px-kVuCBiPcPS1pNlsbR94rSGloIHJN-2j4VrPoCHnJSpsVcHnYKzLLg" height="200" width="auto" /><br><br>Point de collecte et Dépôt phytos-engrais :<br>Tél : 03 80 36 54 35 / Fax : 03 80 36 53 52<br>Adresse : Route de Mirebeau 21310 TANAY<br>Julien ROYER]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/GIu0844M-mBfJmoLI4BsxFevJIHRKM5Ky9LrRQyf7M2eLpo4ZDlQZJDHCWQcd1q4yo9XkJedTbiZGCpgJ8px-kVuCBiPcPS1pNlsbR94rSGloIHJN-2j4VrPoCHnJSpsVcHnYKzLLg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.284553,47.407005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAINT USAGE</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/jOWourO0F8TK8bfc03mHtpuYHD7nb4_vOYZECXreaRjJFEzs57n345CqwPbno06Lo5_35RpFb5Nprwcc1xRPURgSEK_lI-nrADehF7nJFLjPR4tuJUo6RSy-b0Wuz9IPCbZy70XTsTPF9Z9Y-EpF" height="200" width="auto" /><br><br>Point de collecte et Dépôt phytos-engrais :<br>Tél : 03 80 29 15 35 / Fax : 03 80 29 15 35<br>Adresse : Quai droit du canal 21170 SAINT USAGE<br>Pascal BUGADA]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/jOWourO0F8TK8bfc03mHtpuYHD7nb4_vOYZECXreaRjJFEzs57n345CqwPbno06Lo5_35RpFb5Nprwcc1xRPURgSEK_lI-nrADehF7nJFLjPR4tuJUo6RSy-b0Wuz9IPCbZy70XTsTPF9Z9Y-EpF</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.256872,47.102572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LAYER</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/eK6Suw2sWV4plAZpa0Anyz7ynE3z83NQqAYuQmDl2gxcDOY998HPbF0J3RHjqsJjvoxxjKGOjTWyII8drjk77b6fIfPhm_8QjFUOFvrgf6CCec0DLAjFaC6CKuldBbaZYr-7rT85mw" height="200" width="auto" /><br><br>Point de collecte : <br>Tél : 03 80 39 81 82<br>Adresse : 21910 SAULON LA CHAPELLE<br>Patrice BERNARD]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/eK6Suw2sWV4plAZpa0Anyz7ynE3z83NQqAYuQmDl2gxcDOY998HPbF0J3RHjqsJjvoxxjKGOjTWyII8drjk77b6fIfPhm_8QjFUOFvrgf6CCec0DLAjFaC6CKuldBbaZYr-7rT85mw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            5.096369,47.225543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QUEMIGNY POISOT</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/sO06HNzhhAENknN3JOa_zlZoyR-0Ngsssxah_SDHwkrf08_OeV6QOIf86ftLwN_BEYxao0PMOTq2NIXD8Z2xTE2fxEw9QzDEizwLanwgAA51ONJQRQCxMcOCM2LlnHBMoEWNvjoduWZwsNAwjYI5fxBcRp7gM-MK-7nOyJiEcp_qoVqnljSsNC51tLTBda9AfVm_BkU" height="200" width="auto" /><br><br>Point de collecte : <br>Tél : 03 80 49 78 96 <br>Adresse : 3 rue corvée 21220 QUEMIGNY-POISOT]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/sO06HNzhhAENknN3JOa_zlZoyR-0Ngsssxah_SDHwkrf08_OeV6QOIf86ftLwN_BEYxao0PMOTq2NIXD8Z2xTE2fxEw9QzDEizwLanwgAA51ONJQRQCxMcOCM2LlnHBMoEWNvjoduWZwsNAwjYI5fxBcRp7gM-MK-7nOyJiEcp_qoVqnljSsNC51tLTBda9AfVm_BkU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.867383,47.231605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OYRIERES</name>
+        <description><![CDATA[Point de collecte : <br>70600 OYRIERES]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <Point>
+          <coordinates>
+            5.571399,47.539702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BEAUMONT SUR VINGEANNE </name>
+        <description><![CDATA[Point de collecte : <br>21310 BEAUMONT SUR VINGEANNE]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <Point>
+          <coordinates>
+            5.355942,47.472518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GILLY LES CITEAUX</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/VEL4D_08tjpe7yGQ6bL4Y6qevkKtU4wyJ5Ce9Sgwcc1nkyCtCJcBRHicEb5byxqp4iRgR9WdNrpEhV_RDJmrY7D7OKfAqKNsXp4oNVDgHbV0Wc9IDIYuotnK0zUKaEtbd9P3HwcWKlP0p80rfZrbPlT0itVVzCI" height="200" width="auto" /><br><br>Point de collecte<br>Tél : 03 80 62 88 49 <br>Adresse : Route de Saint Bernard 21640 GILLY LES CITEAUX]]></description>
+        <styleUrl>#icon-117</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/VEL4D_08tjpe7yGQ6bL4Y6qevkKtU4wyJ5Ce9Sgwcc1nkyCtCJcBRHicEb5byxqp4iRgR9WdNrpEhV_RDJmrY7D7OKfAqKNsXp4oNVDgHbV0Wc9IDIYuotnK0zUKaEtbd9P3HwcWKlP0p80rfZrbPlT0itVVzCI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            4.992664,47.167368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

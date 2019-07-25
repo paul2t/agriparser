@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Armbruster</name>
+    <description/>
+    <Style id="icon-123-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-123-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-123">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-123-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-123-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-169-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-169-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-169">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-169-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-169-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-169-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-169-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-169-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-169-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-169-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-61-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-61-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-61-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-61-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Calque sans titre</name>
+      <Placemark>
+        <name>Mietesheim</name>
+        <styleUrl>#icon-169-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.682083,48.867038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wilwisheim</name>
+        <description><![CDATA[11, Rue du moulin<br>67270 Wilwisheim<br><br>Téléphone : 0388022092]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.514191,48.745928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dettwiller</name>
+        <description><![CDATA[14, Rue du moulin<br>67490 Dettwiller<br><br>Téléphone : 0388914822]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.47145,48.74962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eckwersheim</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/MwTMV6QO1qLmWLPoE6w2H9_xEJ37ViBj1LLAuwJMlfXFo_JNyCmFt0xSX78UpNKEraKihEvwHig_DTy2814PUm8ouymGxMs1CjQEzo2l2chdFOGpZ7vw7sif84EHbQ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-169</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/MwTMV6QO1qLmWLPoE6w2H9_xEJ37ViBj1LLAuwJMlfXFo_JNyCmFt0xSX78UpNKEraKihEvwHig_DTy2814PUm8ouymGxMs1CjQEzo2l2chdFOGpZ7vw7sif84EHbQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.690516,48.687164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Strasbourg</name>
+        <description><![CDATA[4, Rue de la minoterie<br>67000 Strasbourg<br><br>Téléphone : 0388606085]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.79082,48.577336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Richtolsheim</name>
+        <description><![CDATA[57 route principale<br>67390 Richtolsheim<br>Téléphone : 0388852590]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.594404,48.225223,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sundhoffen</name>
+        <description><![CDATA[1 Route d'Andolsheim<br>68280 Sundhoffen<br><br>Téléphone : 0389714054]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.424011,48.04871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Niederentzen</name>
+        <description><![CDATA[Route de Meyenheim<br>68250 Niederentzen<br><br>Téléphone : 0389494346]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.364745,47.951305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grussenheim</name>
+        <description><![CDATA[1, Route de Colmar<br>68320 Grussenheim<br><br>Téléphone : 0389716733]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.485713,48.138106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fessenheim</name>
+        <description><![CDATA[rue de la chapelle<br>68740 Fessenheim<br><br>Téléphone : 0389485100]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.541884,47.907547,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Reiningue</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/MSPSInw9rQ2H1ozWVUxE9ED1BG5_y5oBEre3UNEQLRvrxaNI0acKOgEg_SVwokM1qMujrXy9mDGpTvdWmPRYO7xN5AKAXQrg_CP1FJnBTByrXbiLp4N0Tz2GCoSh3w" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-123</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/MSPSInw9rQ2H1ozWVUxE9ED1BG5_y5oBEre3UNEQLRvrxaNI0acKOgEg_SVwokM1qMujrXy9mDGpTvdWmPRYO7xN5AKAXQrg_CP1FJnBTByrXbiLp4N0Tz2GCoSh3w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.203898,47.756868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ottmarsheim</name>
+        <description><![CDATA[Rue du Jura<br>68490 Ottmarsheim<br><br>Téléphone : 0389260559]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.522255,47.782366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rantzwiller</name>
+        <description><![CDATA[Route de la Zaessingue CD 19bis<br>68510 Rantzwiller<br><br>Téléphone : 0389074109]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.370453,47.638516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Armbruster Frères SA</name>
+        <description><![CDATA[68 rue du logelbach<br>68000 Colmar]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            7.346316,48.082676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Epfig</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/_gESsSy2sC0kIOvyn63Jtk4YtsQYPCkGwaEhz0rLgMzf2pQN0iZRD2wH3CRzUcCAMKrqUu6EliN_I6-kq2rW2-lrWeEmAv1B_jYplI0l_8JPIs0HcXi74CuqWsj59t8rHeeU67VQ6bh2LTjSuUrHlNXXrTE_K6Up" height="200" width="auto" /><br><br>Z.A. rue des Alliés<br>67680 Epfig<br>Téléphone : 0388578325]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/_gESsSy2sC0kIOvyn63Jtk4YtsQYPCkGwaEhz0rLgMzf2pQN0iZRD2wH3CRzUcCAMKrqUu6EliN_I6-kq2rW2-lrWeEmAv1B_jYplI0l_8JPIs0HcXi74CuqWsj59t8rHeeU67VQ6bh2LTjSuUrHlNXXrTE_K6Up</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.462349,48.353743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Hippolyte</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/_gESsSy2sC0kIOvyn63Jtk4YtsQYPCkGwaEhz0rLgMzf2pQN0iZRD2wH3CRzUcCAMKrqUu6EliN_I6-kq2rW2-lrWeEmAv1B_jYplI0l_8JPIs0HcXi74CuqWsj59t8rHeeU67VQ6bh2LTjSuUrHlNXXrTE_K6Up" height="200" width="auto" /><br><br>rue des Noyers<br>68590 Saint-Hippolyte<br>Téléphone : 0389730465]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/_gESsSy2sC0kIOvyn63Jtk4YtsQYPCkGwaEhz0rLgMzf2pQN0iZRD2wH3CRzUcCAMKrqUu6EliN_I6-kq2rW2-lrWeEmAv1B_jYplI0l_8JPIs0HcXi74CuqWsj59t8rHeeU67VQ6bh2LTjSuUrHlNXXrTE_K6Up</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.396064,48.218802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riquewihr</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/_gESsSy2sC0kIOvyn63Jtk4YtsQYPCkGwaEhz0rLgMzf2pQN0iZRD2wH3CRzUcCAMKrqUu6EliN_I6-kq2rW2-lrWeEmAv1B_jYplI0l_8JPIs0HcXi74CuqWsj59t8rHeeU67VQ6bh2LTjSuUrHlNXXrTE_K6Up" height="200" width="auto" /><br><br>11, rue du Stade - ZA<br>68340 Riquewihr<br>Téléphone : 0389490201]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/_gESsSy2sC0kIOvyn63Jtk4YtsQYPCkGwaEhz0rLgMzf2pQN0iZRD2wH3CRzUcCAMKrqUu6EliN_I6-kq2rW2-lrWeEmAv1B_jYplI0l_8JPIs0HcXi74CuqWsj59t8rHeeU67VQ6bh2LTjSuUrHlNXXrTE_K6Up</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.309129,48.165238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hattstatt</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/_gESsSy2sC0kIOvyn63Jtk4YtsQYPCkGwaEhz0rLgMzf2pQN0iZRD2wH3CRzUcCAMKrqUu6EliN_I6-kq2rW2-lrWeEmAv1B_jYplI0l_8JPIs0HcXi74CuqWsj59t8rHeeU67VQ6bh2LTjSuUrHlNXXrTE_K6Up" height="200" width="auto" /><br><br>Rue de Wiggensbach<br>68420 Hattstatt<br><br><img src="https://lh6.googleusercontent.com/proxy/gJ8fzRiGcNolkzjf6qi9nD1_MMauz8_9CGXKh-jcq8-fHB1gCoQ_Mj-fxQ0wfXfHsSeq7tpDwzZRmkmcvjxr3nO-ZyQRYDaP4A1WjA5hZ4WweeBmb-Wx0HSRCiIJeL1Z9rvwJ11HfBrIf0tYjqNlVoAZqWw_71AyQPqP62k" height="200" width="auto" /><br><br><img src="https://lh3.googleusercontent.com/proxy/WZMnFNw5NdHyhOUuDsb0xdwlDhxoRPDnyrC3Wdsd-94vvfaeLGkYYVSINNPDR9KnYvyy2dJJ_BOxuWB5NdrIGArbieDkJ2IqOKFaDsuiELRfB97lYMk9pFU5vdgA6mecnVzuywxP" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/_gESsSy2sC0kIOvyn63Jtk4YtsQYPCkGwaEhz0rLgMzf2pQN0iZRD2wH3CRzUcCAMKrqUu6EliN_I6-kq2rW2-lrWeEmAv1B_jYplI0l_8JPIs0HcXi74CuqWsj59t8rHeeU67VQ6bh2LTjSuUrHlNXXrTE_K6Up https://lh6.googleusercontent.com/proxy/gJ8fzRiGcNolkzjf6qi9nD1_MMauz8_9CGXKh-jcq8-fHB1gCoQ_Mj-fxQ0wfXfHsSeq7tpDwzZRmkmcvjxr3nO-ZyQRYDaP4A1WjA5hZ4WweeBmb-Wx0HSRCiIJeL1Z9rvwJ11HfBrIf0tYjqNlVoAZqWw_71AyQPqP62k https://lh3.googleusercontent.com/proxy/WZMnFNw5NdHyhOUuDsb0xdwlDhxoRPDnyrC3Wdsd-94vvfaeLGkYYVSINNPDR9KnYvyy2dJJ_BOxuWB5NdrIGArbieDkJ2IqOKFaDsuiELRfB97lYMk9pFU5vdgA6mecnVzuywxP</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.29754,48.006649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ebersheim</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/QwGV0P8pniUOO0GUz7phdUQbdt3yq-LnyG765k8PAo7Qf-9w3ugcLDAkD-vEji45u_QyK-vrKX3adN9_gdVzEqpZnu7HDqF2HXdiNq9IBv_uEI7Bc1K43jbY7mgtXW2MGPQKoAU5pBs" height="200" width="auto" /><br><br>10 Quai du Moulin<br>67600 Ebersheim]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/QwGV0P8pniUOO0GUz7phdUQbdt3yq-LnyG765k8PAo7Qf-9w3ugcLDAkD-vEji45u_QyK-vrKX3adN9_gdVzEqpZnu7HDqF2HXdiNq9IBv_uEI7Bc1K43jbY7mgtXW2MGPQKoAU5pBs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            7.510659,48.30827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

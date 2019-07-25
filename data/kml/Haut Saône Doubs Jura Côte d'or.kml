@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[Haut Saône Doubs Jura Côte d'or]]></name>
+    <description/>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Calque sans titre</name>
+      <Placemark>
+        <name>Auxon-les-Vesoul
+</name>
+        <description>70000 AUXON-LES-VESOUL, lieu-dit Les Gressoux</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.15427999999997,47.619788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villers-Chemin-et-Mont-les-Étrelles
+</name>
+        <description>70700 VILLERS-CHEMIN-ET-MONT-LES-ÉTRELLES. 5, route de Mont-les-Étrelles</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.86343899999997,47.456694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buthiers
+</name>
+        <description>70190 BUTHIERS, route de la Pérouse</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            6.03420400000005,47.408267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Noidans le Ferroux
+</name>
+        <description>70130 NOIDANS LE FERROUX, ZA des Fougères</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.95487800000001,47.57002,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corcelles-Ferrieres
+</name>
+        <description>25410 CORCELLES-FERRIERES, route de Lavernay</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.800749,47.226563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emagny
+</name>
+        <description>25170 EMAGNY -- MAGASIN, 12, rue des Tilleuls</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.86713299999997,47.314343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torpes
+</name>
+        <description>25320 TORPES, hameau de la Piroulette</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.89169600000002,47.169692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Etrepigney
+</name>
+        <description>39700 ETREPIGNEY, route de Rans</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.68995799999993,47.130596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thervay
+</name>
+        <description>39290 THERVAY, rue des Ajottes</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.616938,47.2504009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Romain
+</name>
+        <description>39350 ROMAIN, chemin de l’Arne</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.72048700000005,47.21505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint Aubin
+</name>
+        <description>39410 SAINT AUBIN, route de Dole</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.329925,47.032235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Is sur tille
+</name>
+        <description><![CDATA[21120 IS-SUR-TILLE<br>27, rue de la Rochotte — tél. 03 80 95 65 65/fax. 03 80 75 47 41]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            5.11254400000007,47.521958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

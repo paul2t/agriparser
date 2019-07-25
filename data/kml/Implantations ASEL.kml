@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Implantations ASEL</name>
+    <description/>
+    <Style id="icon-1604-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1604-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1604-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1604-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1604-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Approvisionnement et collecte</name>
+      <Placemark>
+        <name>Site de Neuilly-Saint-Front</name>
+        <description><![CDATA[Appro-LISAS-Collecte<br>Z.I. du Moulin 02470 Neuilly-Saint-Front<br>Tél.: 03 23 71 37 21]]></description>
+        <styleUrl>#icon-1604-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.249958,49.186906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siège de Monceau-le-Waast</name>
+        <description><![CDATA[Appro-LISAS<br>Tél.: 03 23 23 22 11]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.71786470000006,49.6175494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Rougeries</name>
+        <description><![CDATA[Appro-Collecte<br>07 89 81 06 85]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.79579910000007,49.8018758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Soissons</name>
+        <description><![CDATA[Appro - LISAS<br>Tél. : 03 23 54 81 20]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.34095760000002,49.3717733,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Sancourt</name>
+        <description><![CDATA[Appro<br>Tél.: 06 30 67 62 58]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.03877450000005,49.7668445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Saint-Germainmont</name>
+        <description><![CDATA[Appro-Collecte<br>03 24 72 01 06]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.13420199999996,49.497829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Sommepy-Tahure</name>
+        <description><![CDATA[Appro<br>Tél.: 07 52 63 62 64]]></description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            4.55551059999993,49.2493479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de La Neuville-Bosmont</name>
+        <description>Collecte</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.840854,49.7182472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Besny-et-Loisy</name>
+        <description>Collecte</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.58396800000003,49.5984436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Jumencourt</name>
+        <description>Collecte</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.34820500000001,49.4980355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Braine</name>
+        <description>Collecte</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.52549590000001,49.35158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Site de Nanteuil-la-Fosse</name>
+        <description>Collecte</description>
+        <styleUrl>#icon-1899-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            3.4678538,49.4436396,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

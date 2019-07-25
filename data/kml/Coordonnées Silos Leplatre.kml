@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Coordonnées Silos Leplatre</name>
+    <description/>
+    <Style id="icon-1899-0097A7-normal">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0097A7-highlight">
+      <IconStyle>
+        <color>ffa79700</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0097A7">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0097A7-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0097A7-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Calque sans titre</name>
+      <Placemark>
+        <name>SILO AVERDON</name>
+        <description><![CDATA[Rue des Moissons, 41330 Averdon<br>averdon@leplatre.org<br>06 45 86 93 40]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.3005335,47.682488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO CHAMPIGNY-EN-BEAUCE</name>
+        <description><![CDATA[16 rue du Haut Buisson, 41330 Champigny-en-Beauce<br>champigny@leplatre.org<br>02 54 51 76 15]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.2500067,47.7140931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO EPIEDS-EN-BEAUCE</name>
+        <description><![CDATA[8 Rue du Moulin, 45130 Épieds-en-Beauce<br>Bascule : 02 38 74 24 75]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.6139867,47.9543005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO EPIEDS-EN-BEAUCE</name>
+        <description><![CDATA[21 Rue du Moulin, 45130 Épieds-en-Beauce<br>Bureau : 02 38 74 20 06]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.6134888,47.9545558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO HERBAULT</name>
+        <description><![CDATA[23 Rue du Bailli, 41190 Herbault<br>herbault@leplatre.org<br>07 87 79 23 05]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.1357535,47.6042945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO MER</name>
+        <description><![CDATA[Pommegorges, 41500 Mer<br>06 09 44 11 57]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.48708,47.700598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO MEUNG-SUR-LOIRE</name>
+        <description><![CDATA[Chemin de Maison Neuve à Chemin de Garance, 45130 Meung-sur-Loire<br>02 38 44 34 49<br>06 09 44 11 58]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.6953003,47.8328543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO OUZOUER-LE-MARCHE</name>
+        <description><![CDATA[26 Avenue de Bretagne, 41240 Ouzouer-le-Marché<br>ouzouer@leplatre.org<br>06 30 13 55 86]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.5162467,47.911167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO SAINT AMAND LONGPRES</name>
+        <description><![CDATA[Nouant, 41310 Saint-Amand-Longpré<br>saintamand@leplatre.org<br>07 78 21 32 64]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.036238,47.678676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SILO TALCY</name>
+        <description><![CDATA[Bourrichard 41370 Talcy<br>talcy@leplatre.org<br>06 45 85 06 82]]></description>
+        <styleUrl>#icon-1899-0097A7</styleUrl>
+        <Point>
+          <coordinates>
+            1.4409363,47.7678336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

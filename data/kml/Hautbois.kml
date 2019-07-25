@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hautbois</name>
+    <description>carte hautbois.fr</description>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Silos Hautbois</name>
+      <Placemark>
+        <name>Quelaines-Saint-Gault</name>
+        <description><![CDATA[Siège Social :<br>18 rue de Laval<br>53360 QUELAINES ST GAULT<br>Tel : 02 43 64 12 90<br>Fax : 02 43 98 59 27<br>Activité : appro, collecte <br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.80256,47.926949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cossé-le-Vivien</name>
+        <description><![CDATA[La Besnardière, route de Loiron<br>53230 COSSE LE VIVIEN<br>Tel : 02 43 98 80 53<br>Fax : 02 43 98 49 57<br>Activité : appro, collecte<br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45                  <br><br>Plate-forme logistique :<br>La Besnardière, route de Loiron<br>53230 COSSE LE VIVIEN<br>Tel : 02 43 90 43 68<br>Fax : 02 43 98 54 94<br>Activité : stockage central appro<br>Horaires d'ouverture : 8h à 12h/13h30 à 17h45]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.911007,47.953705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Selle-Craonnaise</name>
+        <description><![CDATA[Route de St Aignan sur Roë<br>53800 LA SELLE CRAONNAISE<br>Tel : 02 43 06 11 42<br>Fax : 02 43 06 23 62<br>Activité : appro, collecte <br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.049103,47.845032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Méral</name>
+        <description><![CDATA[ZA moulin à vent                                                             <br>53230 MERAL<br>Tel : 02 43 98 87 51              <br>Fax : 02 43 98 86 52                                          <br>Activité : collecte <br>Horaires d'ouverture : Périodes de collecte]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.99019,47.961021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Aignan-sur-Roë</name>
+        <description><![CDATA[ZA 21 rue Letort<br>53390 ST AIGNAN SUR ROE<br>Tel: 02 43 07 25 35<br>Fax : 02 43 06 69 71<br>	Activité : appro, collecte <br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.139944,47.836893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuillé</name>
+        <description><![CDATA[46 rue du Maine<br>53540 CUILLE<br>Tel : 02 43 06 55 33<br>Fax : 02 43 06 68 00<br>Activité : collecte <br>Horaires d'ouverture : Périodes de collecte]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.113342,47.969881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brielles</name>
+        <description><![CDATA[Le Plessis, route du Pertre<br>35370 BRIELLES<br>Tel: 02 99 96 81 03<br>Fax : 02 99 96 82 54<br>Activité : collecte <br>Horaires d'ouverture : Périodes de collecte]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.083446,48.01265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chazé-Henry</name>
+        <description><![CDATA[Le Bourg<br>49860 CHAZE-HENRY<br>Tel: 02 41 92 54 55<br>Fax : 02 41 92 38 58<br>Activité : appro, collecte<br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.107613,47.752114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longuefuye</name>
+        <description><![CDATA[La gare<br>53200 LONGUEFUYE<br>Tel : 02 43 70 92 33<br>Fax : 02 43 70 07 49<br>Activité : appro, collecte<br>Horaires d'ouverture : 8h15 à 12h]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.621339,47.872731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vitré</name>
+        <description><![CDATA[98 route de Laval<br>35500 VITRE<br>Tel: 02 99 75 01 81<br>Fax : 02 99 75 17 11<br>Activité : appro, collecte                                                 <br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.189882,48.121295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Craon</name>
+        <description><![CDATA[ZI le Pavement<br>		53400 CRAON<br>		Tel : 02 43 06 11 04<br>		Fax : 02 43 06 03 75<br>	Activité : appro, collecte et nutrition animale             <br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.94726,47.841225,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fontaine-Couverte</name>
+        <description><![CDATA[3 rue Pierre Barauderie<br>		53350 FONTAINE COUVERTE<br>		Tel : 02 43 06 50 34<br>		Fax : 02 43 06 92 28<br>	Activité : appro, collecte, LISA <br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.144263,47.907263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Argentré-du-Plessis</name>
+        <description><![CDATA[Zone artisanale<br>		35370 ARGENTRE DU PLESSIS<br>		Tel: 02 99 96 61 10<br>		Fax : 02 23 55 00 23<br>	Activité : appro, collecte                                                 <br>Horaires d'ouverture : 8h15 à 12h/13h45 à 17h45 ]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.163027,48.05775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dompierre-du-Chemin</name>
+        <description><![CDATA[42 avenue de Bretagne<br>35250 DOMPIERRE DU CHEMIN<br>Tel: 02 99 97 90 55<br>Fax : 02 99 18 81 90<br>Activité : appro, collecte<br>Horaires d'ouverture : 10h-12h]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.141757,48.2668307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Quentin-les-Anges</name>
+        <description><![CDATA[Route de Bourg Philippe<br>		53400 ST QUENTIN LES ANGES<br>		Tel : 02 43 06 00 93<br>		Fax : 02 43 06 25 72<br>	Activité : appro, collecte                                                 <br>Horaires d'ouverture : 8h15 à 12h]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.885258,47.772056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simplé</name>
+        <description><![CDATA[4 rue des Lutins<br>		53360 SIMPLE<br>		Tel: 02 43 98 53 41<br>		Activité : collecte <br>Horaires d'ouverture : Périodes de collecte]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -0.852145,47.888206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St Julien de Vouvantes</name>
+        <description><![CDATA[36 rue de Rolieu<br>44670 ST JULIEN DE VOUVANTES<br>Tel/Fax : 02 28 04 00 12<br>Activité : collecte <br>Horaires d'ouverture : Périodes de collecte]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -1.24890440000001,47.6457229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Craon - Spécialiste Nutrition Animale</name>
+    </Folder>
+  </Document>
+</kml>

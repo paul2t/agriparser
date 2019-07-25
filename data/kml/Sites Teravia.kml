@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sites Teravia</name>
+    <description/>
+    <Style id="icon-1899-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Sites Teravia</name>
+      <Placemark>
+        <name>Bellevue</name>
+        <address>Hameau de Bellevue 02500 Any Martin Rieux</address>
+        <description><![CDATA[Adresse: Hameau de Bellevue 02500 Any Martin Rieux<br>Téléphone: 03 23 58 45 30]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>Hameau de Bellevue 02500 Any Martin Rieux</value>
+          </Data>
+          <Data name="Téléphone">
+            <value>03 23 58 45 30</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Auvillers</name>
+        <address>3, place de la gare 08260 Auvillers les Forges</address>
+        <description><![CDATA[Adresse: 3, place de la gare 08260 Auvillers les Forges<br>Téléphone: 03 24 35 34 20]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>3, place de la gare 08260 Auvillers les Forges</value>
+          </Data>
+          <Data name="Téléphone">
+            <value>03 24 35 34 20</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Boulzicourt</name>
+        <address>13, rue de Gailla 08410 Boulzicourt</address>
+        <description><![CDATA[Adresse: 13, rue de Gailla 08410 Boulzicourt<br>Téléphone: 03 24 39 03 90]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>13, rue de Gailla 08410 Boulzicourt</value>
+          </Data>
+          <Data name="Téléphone">
+            <value>03 24 39 03 90</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Remilly</name>
+        <address>18, rue de Sedan 08450 Remilly Aillicourt</address>
+        <description><![CDATA[Adresse: 18, rue de Sedan 08450 Remilly Aillicourt<br>Téléphone: 03 24 26 50 32]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>18, rue de Sedan 08450 Remilly Aillicourt</value>
+          </Data>
+          <Data name="Téléphone">
+            <value>03 24 26 50 32</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Blagny</name>
+        <address>ZI de la Chieres 08110 Blagny</address>
+        <description><![CDATA[Adresse: ZI de la Chieres 08110 Blagny<br>Téléphone: 03 24 26 36 71]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value>ZI de la Chieres 08110 Blagny</value>
+          </Data>
+          <Data name="Téléphone">
+            <value>03 24 26 36 71</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Margut</name>
+        <address><![CDATA[45, route d'Orval 08370 Margut]]></address>
+        <description><![CDATA[Adresse: 45, route d'Orval 08370 Margut<br>Téléphone: 03 24 26 17 64]]></description>
+        <styleUrl>#icon-1899-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Adresse">
+            <value><![CDATA[45, route d'Orval 08370 Margut]]></value>
+          </Data>
+          <Data name="Téléphone">
+            <value>03 24 26 17 64</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
