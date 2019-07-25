@@ -1,0 +1,1675 @@
+[
+    {
+        "Tel": "03.85.48.81.36",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d1",
+        "info": "Port Fluvial Sud 71380 EPERVANS",
+        "pos": {
+            "lat": 46.75983,
+            "lng": 4.87638
+        },
+        "title": "Dépôt d'Epervans"
+    },
+    {
+        "Tel": "03.80.25.06.76",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d2",
+        "info": "ZI de Vignolles 21200 BEAUNE",
+        "pos": {
+            "lat": 47.02283,
+            "lng": 4.8635
+        },
+        "title": "Dépôt Grandes Cultures de Beaune"
+    },
+    {
+        "Tel": "03.80.25.05.27",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d3",
+        "info": "41 Route de Seurre 21200 BEAUNE",
+        "pos": {
+            "lat": 47.01936,
+            "lng": 4.85654
+        },
+        "title": "Magasin Vigne Beaune"
+    },
+    {
+        "Tel": "03.85.43.10.32",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d4",
+        "info": "Rue des Frres Lumire 71100 CHALON-SUR-SAONE",
+        "pos": {
+            "lat": 46.80235,
+            "lng": 4.87002
+        },
+        "title": "Dépôt de Chalon-sur-Sane"
+    },
+    {
+        "Tel": "03.85.92.55.10",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d5",
+        "info": "Rue des Tanneries 71460 SAINT-GENGOUX-LE-NATIONAL",
+        "pos": {
+            "lat": 46.61168,
+            "lng": 4.66262
+        },
+        "title": "Dépôt de Saint-Gengoux-le-National"
+    },
+    {
+        "Tel": "03.85.92.14.56",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d6",
+        "info": "Le Champ Fleuri - Rte de Givry 71390 BUXY",
+        "pos": {
+            "lat": 46.71315,
+            "lng": 4.6952
+        },
+        "title": "Dépôt de Buxy"
+    },
+    {
+        "Tel": "03.85.51.08.52",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d7",
+        "info": "ZI Les Joncs 71700 TOURNUS",
+        "pos": {
+            "lat": 46.55243,
+            "lng": 4.90544
+        },
+        "title": "Dépôt de Tournus"
+    },
+    {
+        "Tel": "03.85.44.58.11",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d8",
+        "info": "Zone Artisanale 71640 GIVRY",
+        "pos": {
+            "lat": 46.78205,
+            "lng": 4.74582
+        },
+        "title": "Dépôt de Givry"
+    },
+    {
+        "Tel": "03.85.45.33.65",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d9",
+        "info": "Route de Chagny 71510 SAINT-LEGER-SUR-DHEUNE",
+        "pos": {
+            "lat": 46.84668,
+            "lng": 4.63585
+        },
+        "title": "Dépôt de Saint-Lger-sur-Dheune"
+    },
+    {
+        "Tel": "03.80.26.24.20",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d10",
+        "info": "Zone Industrielle 21420 SAVIGNY les BEAUNE",
+        "pos": {
+            "lat": 47.04493,
+            "lng": 4.8439
+        },
+        "title": "Dépôt de Savigny-les-Beaune"
+    },
+    {
+        "Tel": "03.80.21.73.13",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d11",
+        "info": "Route de Beaune 21340 NOLAY",
+        "pos": {
+            "lat": 46.95233,
+            "lng": 4.63399
+        },
+        "title": "Dépôt de nolay"
+    },
+    {
+        "Tel": "03.85.87.65.85",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d12",
+        "info": "ZI Des Noirots 71150 CHAGNY",
+        "pos": {
+            "lat": 46.90898,
+            "lng": 4.76434
+        },
+        "title": "Dépôt de Chagny"
+    },
+    {
+        "Tel": "03.80.58.51.93",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d13",
+        "info": "4 RN74 21220 BROCHON",
+        "pos": {
+            "lat": 47.23923,
+            "lng": 4.96944
+        },
+        "title": "SARL PB REGNIER"
+    },
+    {
+        "Tel": "03.80.20.11.24",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d14",
+        "info": "Route d'Arnay le Duc 21360 BLIGNY/OUCHE",
+        "pos": {
+            "lat": 47.10423,
+            "lng": 4.6712
+        },
+        "title": "Dépôt de Bligny-sur-Ouche"
+    },
+    {
+        "Tel": "03.80.20.47.28",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d15",
+        "info": "Rue Mail 21250 SEURRE",
+        "pos": {
+            "lat": 46.99448,
+            "lng": 5.14906
+        },
+        "title": "Dépôt de Seurre"
+    },
+    {
+        "Tel": "03.85.47.73.28",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d16",
+        "info": "13 rte de Mervans 71620 ST MARTIN EN BRESSE",
+        "pos": {
+            "lat": 46.81551,
+            "lng": 5.06735
+        },
+        "title": "Dépôt de Saint-Martin-en-Bresse"
+    },
+    {
+        "Tel": "03.80.21.38.51",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d17",
+        "info": "Chemin Reuil - RN6 21190 CORPEAU",
+        "pos": {
+            "lat": 46.92471,
+            "lng": 4.74649
+        },
+        "title": "Dépôt de Corpeau"
+    },
+    {
+        "Tel": "03.85.91.93.13",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d18",
+        "info": "6 av Prsident Borgeot 71350 VERDUN SUR LE DOUBS",
+        "pos": {
+            "lat": 46.89075,
+            "lng": 5.02488
+        },
+        "title": "Dépôt de verdun-sur-le-Doubs"
+    },
+    {
+        "Tel": "03.85.76.23.75",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d19",
+        "info": "Bout d'Amont, Rte Louhans 71270 PIERRE DE BRESSE",
+        "pos": {
+            "lat": 46.88514,
+            "lng": 5.26114
+        },
+        "title": "Dépôt de Pierre de Bresse"
+    },
+    {
+        "Tel": "03.85.72.33.44",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d20",
+        "info": "6 rte Mouthier 71270 BELLEVESVRE",
+        "pos": {
+            "lat": 46.84183,
+            "lng": 5.3625
+        },
+        "title": "Dépôt de Bellevesvre"
+    },
+    {
+        "Tel": "03.85.32.29.76",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d21",
+        "info": "Les Bois Bernoux 71290 CUISERY",
+        "pos": {
+            "lat": 46.55806,
+            "lng": 4.98302
+        },
+        "title": "Dépôt de Cuisery"
+    },
+    {
+        "Tel": "03.85.40.31.49",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d22",
+        "info": "ZI Les Benots 71470 ROMENAY",
+        "pos": {
+            "lat": 46.50309,
+            "lng": 5.06177
+        },
+        "title": "Dépôt de Romenay"
+    },
+    {
+        "Tel": "03.85.40.20.74",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d23",
+        "info": "ZI Les Brls 71290 SIMANDRE",
+        "pos": {
+            "lat": 46.62209,
+            "lng": 4.98989
+        },
+        "title": "Dépôt de Simandre"
+    },
+    {
+        "Tel": "03.85.47.39.39",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d24",
+        "info": "ZI Les Vernes 71370 ST GERMAIN DU PLAIN",
+        "pos": {
+            "lat": 46.70632,
+            "lng": 5.00211
+        },
+        "title": "Dépôt de Saint-Germain-du-Plain"
+    },
+    {
+        "Tel": "03.85.96.47.42",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d25",
+        "info": "Le Bourg 71440 LESSARD EN BRESSE",
+        "pos": {
+            "lat": 46.74112,
+            "lng": 5.09282
+        },
+        "title": "Dépôt de Lessard-en-Bresse"
+    },
+    {
+        "Tel": "03.85.59.19.14",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d26",
+        "info": "La Gare 71250 CLUNY",
+        "pos": {
+            "lat": 46.42322,
+            "lng": 4.66752
+        },
+        "title": "Dépôt de Cluny"
+    },
+    {
+        "Tel": "03.85.75.06.43",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d27",
+        "info": "Zone Industrielle 71500 BRANGES",
+        "pos": {
+            "lat": 46.6562,
+            "lng": 5.1891
+        },
+        "title": "Dépôt de Branges"
+    },
+    {
+        "Tel": "03.85.72.93.34",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d28",
+        "info": "Le Bourg 71470 MONTPONT EN BRESSE",
+        "pos": {
+            "lat": 46.55601,
+            "lng": 5.16443
+        },
+        "title": "Dépôt de Montpont-en-Bresse"
+    },
+    {
+        "Tel": "03.85.33.26.11",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d29",
+        "info": "Rue Folie 71260 LUGNY",
+        "pos": {
+            "lat": 46.47293,
+            "lng": 4.81218
+        },
+        "title": "Dépôt de Lugny"
+    },
+    {
+        "Tel": "03.85.59.74.34",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d30",
+        "info": "ZI Les Berlires 71520 MATOUR",
+        "pos": {
+            "lat": 46.31006,
+            "lng": 4.49518
+        },
+        "title": "Dépôt de Matour"
+    },
+    {
+        "Tel": "03.85.44.82.03",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d31",
+        "info": "ZI de Lesnes 71240 SENNECEY LE GRAND",
+        "pos": {
+            "lat": 46.644,
+            "lng": 4.87614
+        },
+        "title": "Dépôt de Sennecey-Le-Grand"
+    },
+    {
+        "Tel": "03.85.72.20.12",
+        "icon": {
+            "align": "1",
+            "height": 16,
+            "url": "depot2.png",
+            "width": 16
+        },
+        "id": "d32",
+        "info": "Les Putignys 71330 SIMARD",
+        "pos": {
+            "lat": 46.72406,
+            "lng": 5.18103
+        },
+        "title": "Dépôt de Simard"
+    },
+    {
+        "Tel": "03.85.42.50.50",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s1",
+        "info": "Zone Portuaire Sud 71380 SAINT MARCEL",
+        "pos": {
+            "lat": 46.75858,
+            "lng": 4.87532
+        },
+        "title": "Silo de Saint-Marcel"
+    },
+    {
+        "Tel": "03.85.74.40.48",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s2",
+        "info": "Chantabot 71580 SAVIGNY EN REVERMONT",
+        "pos": {
+            "lat": 46.6343,
+            "lng": 5.41658
+        },
+        "title": "Silo de Savigny-en-Revermont"
+    },
+    {
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s3",
+        "info": "45 quai Jouffroy d'Abbans 71000 MACON ",
+        "pos": {
+            "lat": 46.28189,
+            "lng": 4.82212
+        },
+        "title": "Silo de Mâcon"
+    },
+    {
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s4",
+        "info": "Le Pratelin 39190 CUISIA",
+        "pos": {
+            "lat": 46.54083,
+            "lng": 5.38807
+        },
+        "title": "Point de collecte Cuisia"
+    },
+    {
+        "Tel": "03.80.25.06.77",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s5",
+        "info": "ZI de Vignolles 21200 BEAUNE",
+        "pos": {
+            "lat": 47.0228,
+            "lng": 4.86332
+        },
+        "title": "Silo de Beaune"
+    },
+    {
+        "Tel": "03.85.92.62.87",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s6",
+        "info": "La Chassagne 71460 SAINT-GENGOUX- LE- NATIONAL",
+        "pos": {
+            "lat": 46.60555,
+            "lng": 4.66991
+        },
+        "title": "Silo de Saint-Gengoux-le-National"
+    },
+    {
+        "Tel": "03.85.97.05.05",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s7",
+        "info": "Rue des Frres Lumire 71100 CHALON-SUR-SAONE",
+        "pos": {
+            "lat": 46.80253,
+            "lng": 4.86966
+        },
+        "title": "Silo de Chalon-sur-Saône"
+    },
+    {
+        "Tel": "03.85.32.19.34",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s8",
+        "info": "ZI Les Joncs 71700 TOURNUS",
+        "pos": {
+            "lat": 46.55251,
+            "lng": 4.90532
+        },
+        "title": "Silo de Tournus"
+    },
+    {
+        "Tel": "03.85.92.26.62",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s9",
+        "info": "71240 ETRIGNY",
+        "pos": {
+            "lat": 46.60347,
+            "lng": 4.80456
+        },
+        "title": "Silo d'Etrigny"
+    },
+    {
+        "Tel": "03.85.92.93.11",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s10",
+        "info": "71100 SEVREY",
+        "pos": {
+            "lat": 46.73598,
+            "lng": 4.83882
+        },
+        "title": "Silo de Sevrey"
+    },
+    {
+        "Tel": "03.85.92.08.77",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s11",
+        "info": "Les Theurots 71390 JULLY LES BUXY",
+        "pos": {
+            "lat": 46.69057,
+            "lng": 4.69735
+        },
+        "title": "Silo de Jully-les-Buxy"
+    },
+    {
+        "Tel": "03.85.91.46.76",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s12",
+        "info": "ZI La Platire 71150 FONTAINES",
+        "pos": {
+            "lat": 46.86053,
+            "lng": 4.77245
+        },
+        "title": "Silo de Fontaines"
+    },
+    {
+        "Tel": "03.85.46.50.96",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s13",
+        "info": "22 rue Ferre 71530 CRISSEY",
+        "pos": {
+            "lat": 46.81237,
+            "lng": 4.86714
+        },
+        "title": "Silo de Crissey"
+    },
+    {
+        "Tel": "03.85.44.58.11",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s14",
+        "info": "Zone Artisanale 71640 GIVRY",
+        "pos": {
+            "lat": 46.78207,
+            "lng": 4.74575
+        },
+        "title": "Silo de Givry"
+    },
+    {
+        "Tel": "03.80.21.73.13",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s15",
+        "info": "Route de Beaune 21340 NOLAY",
+        "pos": {
+            "lat": 46.95235,
+            "lng": 4.6339
+        },
+        "title": "Silo de Nolay"
+    },
+    {
+        "Tel": "03.85.45.33.65",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s16",
+        "info": "Route de Chagny 71510 SAINT-LEGER-SUR-DHEUNE",
+        "pos": {
+            "lat": 46.84664,
+            "lng": 4.6358
+        },
+        "title": "Silo de Saint-Léger-sur-Dheune"
+    },
+    {
+        "Tel": "03.80.20.11.24",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s17",
+        "info": "Route d'Arnay le Duc 21360 BLIGNY-SUR-OUCHE",
+        "pos": {
+            "lat": 47.10429,
+            "lng": 4.67127
+        },
+        "title": "Silo de Bligny-sur-Ouche"
+    },
+    {
+        "Tel": "03.80.20.47.28",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s18",
+        "info": "Rue Mail 21250 SEURRE",
+        "pos": {
+            "lat": 46.9946,
+            "lng": 5.14887
+        },
+        "title": "Silo de Seurre"
+    },
+    {
+        "Tel": "03.85.91.28.37",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s19",
+        "info": "71150 CHAUDENAY",
+        "pos": {
+            "lat": 46.91655,
+            "lng": 4.78647
+        },
+        "title": "Silo de Chaudenay"
+    },
+    {
+        "Tel": "03.80.10.09.09",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s20",
+        "info": "technoport zone portuaire chemin dpartemental 976 21250 PAGNY-LE-CHTEAU",
+        "pos": {
+            "lat": 47.04797,
+            "lng": 5.19444
+        },
+        "title": "Silo de Pagny-le-Château"
+    },
+    {
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s21",
+        "info": "Route de Bonnencontre 21250 BROIN",
+        "pos": {
+            "lat": 47.08032,
+            "lng": 5.11582
+        },
+        "title": "Silo de Broin"
+    },
+    {
+        "Tel": "03.80.77.98.00",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s22",
+        "info": "21700 SAINT-USAGE",
+        "pos": {
+            "lat": 47.11141,
+            "lng": 5.26547
+        },
+        "title": "Silo de Saint-Usage"
+    },
+    {
+        "Tel": "03.85.72.84.27",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s23",
+        "info": "6 rue Corbots 71270 LAYS-SUR-LE-DOUBS",
+        "pos": {
+            "lat": 46.91773,
+            "lng": 5.25512
+        },
+        "title": "Silo de Lays-sur-Le-Doubs"
+    },
+    {
+        "Tel": "03.80.26.63.91",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s24",
+        "info": "Route Chevigny 21200 MEURSANGES",
+        "pos": {
+            "lat": 46.98971,
+            "lng": 4.94566
+        },
+        "title": "Silo de Meursanges"
+    },
+    {
+        "Tel": "03.80.21.06.49",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s25",
+        "info": "Chemin Dpart. 973 - 21820 LABERGEMENT LES SEURRE",
+        "pos": {
+            "lat": 46.9991,
+            "lng": 5.09653
+        },
+        "title": "Silo de Labergement-Les-Seurre"
+    },
+    {
+        "Tel": "03.85.91.69.46",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s26",
+        "info": "11 route Osnay - Raconnay 71590 GERGY",
+        "pos": {
+            "lat": 46.89533,
+            "lng": 4.95013
+        },
+        "title": "Silo de Gergy"
+    },
+    {
+        "Tel": "03.85.91.93.19",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s27",
+        "info": "6 av Prsident Borgeot 71350 VERDUN SUR LE DOUBS",
+        "pos": {
+            "lat": 46.89096,
+            "lng": 5.02631
+        },
+        "title": "Silo de Verdun-sur-le-Doubs"
+    },
+    {
+        "Tel": "03.85.47.73.28",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s28",
+        "info": "13 rte de Mervans 71620 ST MARTIN EN BRESSE",
+        "pos": {
+            "lat": 46.81548,
+            "lng": 5.06705
+        },
+        "title": "Silo de Saint-Martin-en-Bresse"
+    },
+    {
+        "Tel": "03.85.72.99.68",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s29",
+        "info": "Les Courtelets 71470 MONTPONT EN BRESSE",
+        "pos": {
+            "lat": 46.55106,
+            "lng": 5.16181
+        },
+        "title": "Silo de Montpont-en-Bresse"
+    },
+    {
+        "Tel": "03.85.72.18.00",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s30",
+        "info": "Les Varennes 71500 ST USUGE",
+        "pos": {
+            "lat": 46.67268,
+            "lng": 5.2647
+        },
+        "title": "Silo de Saint-Usuge"
+    },
+    {
+        "Tel": "03.85.72.20.12",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s31",
+        "info": "Les Putignys 71330 SIMARD",
+        "pos": {
+            "lat": 46.7241,
+            "lng": 5.18114
+        },
+        "title": "Silo de Simard"
+    },
+    {
+        "Tel": "03.85.75.86.81",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s32",
+        "info": "ZI Les Sennecires 71500 BRANGES",
+        "pos": {
+            "lat": 46.65599,
+            "lng": 5.1888
+        },
+        "title": "Silo de Branges"
+    },
+    {
+        "Tel": "03.85.96.41.05",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s33",
+        "info": "Layer 71440 TRONCHY",
+        "pos": {
+            "lat": 46.73468,
+            "lng": 5.08188
+        },
+        "title": "Silo de Tronchy"
+    },
+    {
+        "Tel": "03.85.76.13.08",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s34",
+        "info": "12 rue Buxy 71310 MERVANS",
+        "pos": {
+            "lat": 46.80883,
+            "lng": 5.1681
+        },
+        "title": "Silo de Mervans"
+    },
+    {
+        "Tel": "03.85.76.23.75",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s35",
+        "info": "Bout d'Amont Route Louhans 71270 PIERRE DE BRESSE",
+        "pos": {
+            "lat": 46.88495,
+            "lng": 5.26144
+        },
+        "title": "Silo de Pierre-de-Bresse"
+    },
+    {
+        "Tel": "03.85.40.31.49",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s36",
+        "info": "ZI Les Benots 71470 ROMENAY",
+        "pos": {
+            "lat": 46.50296,
+            "lng": 5.06186
+        },
+        "title": "Silo de Romenay"
+    },
+    {
+        "Tel": "03.85.44.12.51",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s37",
+        "info": "Les Tantes 71240 MARNAY",
+        "pos": {
+            "lat": 46.70171,
+            "lng": 4.91854
+        },
+        "title": "Silo de Marnay"
+    },
+    {
+        "Tel": "03.85.47.39.39",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s38",
+        "info": "ZI Les Vernes 71370 ST GERMAIN DU PLAIN",
+        "pos": {
+            "lat": 46.70628,
+            "lng": 5.00228
+        },
+        "title": "Silo de Saint-Germain-du-Plain"
+    },
+    {
+        "Tel": "03.85.40.20.74",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s39",
+        "info": "ZI Les Brls 71290 SIMANDRE",
+        "pos": {
+            "lat": 46.62204,
+            "lng": 4.98999
+        },
+        "title": "Silo de Simandre"
+    },
+    {
+        "Tel": "03.85.96.47.42",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s40",
+        "info": "Le Bourg 71440 LESSARD EN BRESSE",
+        "pos": {
+            "lat": 46.74121,
+            "lng": 5.09316
+        },
+        "title": "Silo de Lessard"
+    },
+    {
+        "Tel": "03.85.76.53.09",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s41",
+        "info": "La Gare 71440 MONTRET",
+        "pos": {
+            "lat": 46.67651,
+            "lng": 5.11172
+        },
+        "title": "Silo de Montret"
+    },
+    {
+        "Tel": "03.85.33.91.05",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s42",
+        "info": "Champ du Bief 71260 MONTBELLET",
+        "pos": {
+            "lat": 46.4757,
+            "lng": 4.87282
+        },
+        "title": "Silo de Montbellet"
+    },
+    {
+        "Tel": "03.85.44.78.29",
+        "icon": {
+            "align": "3",
+            "height": 16,
+            "url": "silo2.png",
+            "width": 16
+        },
+        "id": "s43",
+        "info": "En Lesnes 71240 SENNECEY LE GRAND",
+        "pos": {
+            "lat": 46.6441,
+            "lng": 4.87631
+        },
+        "title": "Silo de Sennecey-Le-Grand"
+    },
+    {
+        "icon": {
+            "align": "9",
+            "height": 16,
+            "url": "plateforme2.png",
+            "width": 16
+        },
+        "id": "p1",
+        "info": "ZI de Vignolles 21200 BEAUNE",
+        "pos": {
+            "lat": 47.02281,
+            "lng": 4.86338
+        },
+        "title": "Plateforme de Beaune"
+    },
+    {
+        "icon": {
+            "align": "9",
+            "height": 16,
+            "url": "plateforme2.png",
+            "width": 16
+        },
+        "id": "p2",
+        "info": "Zone Industrielle 21420 SAVIGNY les BEAUNE",
+        "pos": {
+            "lat": 47.04485,
+            "lng": 4.84406
+        },
+        "title": "Plateforme de Savigny-les-Beaune"
+    },
+    {
+        "icon": {
+            "align": "9",
+            "height": 16,
+            "url": "plateforme2.png",
+            "width": 16
+        },
+        "id": "p3",
+        "info": "Z.I. Les Bois Bernoux 71290 CUISERY",
+        "pos": {
+            "lat": 46.558,
+            "lng": 4.98317
+        },
+        "title": "Plateforme Cuisery"
+    },
+    {
+        "icon": {
+            "align": "9",
+            "height": 16,
+            "url": "plateforme2.png",
+            "width": 16
+        },
+        "id": "p4",
+        "info": "Port Fluvial Sud 71380 EPERVANS",
+        "pos": {
+            "lat": 46.75982,
+            "lng": 4.87631
+        },
+        "title": "Plateforme Engrais"
+    },
+    {
+        "Tel": "03.85.74.96.51",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m1",
+        "info": "23 rue du Guidon 71500 LOUHANS",
+        "pos": {
+            "lat": 46.63502,
+            "lng": 5.21526
+        },
+        "title": "Gammvert Louhans"
+    },
+    {
+        "Tel": "03.85.76.84.00",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m2",
+        "info": "8 Avenue de la Gare 71270 PIERRE-DE-BRESSE",
+        "pos": {
+            "lat": 46.88187,
+            "lng": 5.26122
+        },
+        "title": "Gammvert Pierre de Bresse"
+    },
+    {
+        "Tel": "03.85.43.10.32",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m3",
+        "info": "Rue des Frres Lumire 71100 CHALON-SUR-SAONE",
+        "pos": {
+            "lat": 46.80229,
+            "lng": 4.87026
+        },
+        "title": "Horma'nat Chalon-sur-Saône"
+    },
+    {
+        "Tel": "03.80.20.47.68",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m4",
+        "info": "Rue du Fauboug St Georges 21250 Seurre",
+        "pos": {
+            "lat": 46.99367,
+            "lng": 5.14764
+        },
+        "title": "Gammvert Seurre"
+    },
+    {
+        "Tel": "03.85.96.70.16",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m5",
+        "info": "2 rue du Dr Jeannin 71380 SAINT-MARCEL",
+        "pos": {
+            "lat": 46.77871,
+            "lng": 4.89419
+        },
+        "title": "Gammvert Saint Marcel"
+    },
+    {
+        "Tel": "03.85.91.51.31",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m6",
+        "info": "Comptoir du Village Av. V.Giscard d'Estaing 71350 VERDUN SUR LE DOUBS",
+        "pos": {
+            "lat": 46.89189,
+            "lng": 5.02414
+        },
+        "title": "Gammvert Verdun-sur-le-Doubs"
+    },
+    {
+        "Tel": "03.85.51.26.22",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m7",
+        "info": "pl Gare 71700 TOURNUS",
+        "pos": {
+            "lat": 46.56814,
+            "lng": 4.90673
+        },
+        "title": "Gammvert Tournus"
+    },
+    {
+        "Tel": "03.80.21.38.51",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m8",
+        "info": "Chemin Reuil - RN6 21190 CORPEAU",
+        "pos": {
+            "lat": 46.92471,
+            "lng": 4.74658
+        },
+        "title": "Horma'nat Corpeau"
+    },
+    {
+        "Tel": "03.85.87.23.61",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m9",
+        "info": "ZI des Noirots 71150 CHAGNY",
+        "pos": {
+            "lat": 46.90898,
+            "lng": 4.76421
+        },
+        "title": "Gammvert de Chagny"
+    },
+    {
+        "Tel": "03.80.20.11.24",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m10",
+        "info": "Comptoir du Village Route d'Arnay-le-Duc 21360 BLIGNY-SUR-OUCHE",
+        "pos": {
+            "lat": 47.1042,
+            "lng": 4.6713
+        },
+        "title": "Gammvert Bligny-sur-Ouche"
+    },
+    {
+        "Tel": "03.80.21.73.13",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m11",
+        "info": "Comptoir du Village Route de Beaune 21340 NOLAY",
+        "pos": {
+            "lat": 46.95235,
+            "lng": 4.63379
+        },
+        "title": "Gammvert Nolay"
+    },
+    {
+        "Tel": "03.80.24.13.89",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m12",
+        "info": "Impasse Jean Baptiste Gambut 21200 BEAUNE",
+        "pos": {
+            "lat": 47.02236,
+            "lng": 4.86086
+        },
+        "title": "Gammvert Beaune"
+    },
+    {
+        "Tel": "03.85.44.58.11",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m13",
+        "info": "Zone Artisanale 71640 GIVRY",
+        "pos": {
+            "lat": 46.78203,
+            "lng": 4.74589
+        },
+        "title": "Gammvert Givry"
+    },
+    {
+        "Tel": "03.85.45.33.65",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m14",
+        "info": "Comptoir du village Route de Chagny 71510 SAINT-LEGER-SUR-DHEUNE",
+        "pos": {
+            "lat": 46.8466,
+            "lng": 4.63572
+        },
+        "title": "Gammvert Saint-Léger-Sur-Dheune"
+    },
+    {
+        "Tel": "03.85.92.67.46",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m15",
+        "info": "Rue des Tanneries 71460 SAINT-GENGOUX-LE-NATIONAL",
+        "pos": {
+            "lat": 46.61168,
+            "lng": 4.66285
+        },
+        "title": "Gammvert Saint-Gengoux-le-National"
+    },
+    {
+        "Tel": "03.85.33.26.11",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m16",
+        "info": "Rue Folie 71260 LUGNY",
+        "pos": {
+            "lat": 46.47297,
+            "lng": 4.81243
+        },
+        "title": "Gammvert Lugny"
+    },
+    {
+        "Tel": "03.85.40.20.74",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m17",
+        "info": "ZI Les Brls 71290 SIMANDRE",
+        "pos": {
+            "lat": 46.62199,
+            "lng": 4.99019
+        },
+        "title": "Horma'nat Simandre"
+    },
+    {
+        "Tel": "03.85.59.74.34",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m18",
+        "info": "Comptoir du Village ZI Les Berlires 71520 MATOUR",
+        "pos": {
+            "lat": 46.31014,
+            "lng": 4.49494
+        },
+        "title": "Gammvert Matour"
+    },
+    {
+        "Tel": "03.85.92.14.56",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m19",
+        "info": "Le Champ Fleuri - Rte de Givry 71390 BUXY",
+        "pos": {
+            "lat": 46.71315,
+            "lng": 4.69497
+        },
+        "title": "Gammvert Buxy"
+    },
+    {
+        "Tel": "03.85.32.29.79",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m20",
+        "info": "Z.I. Les Bois Bernoux 71290 CUISERY",
+        "pos": {
+            "lat": 46.55809,
+            "lng": 4.98332
+        },
+        "title": "Gammvert Cuisery"
+    },
+    {
+        "Tel": "03.85.72.93.34",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m21",
+        "info": "Comptoir du Village Le Bourg 71470 MONTPONT",
+        "pos": {
+            "lat": 46.55562,
+            "lng": 5.16447
+        },
+        "title": "Gammvert Montpont-en-Bresse"
+    },
+    {
+        "Tel": "03.85.40.31.49",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m22",
+        "info": "Comptoir du Village ZI Les Benots 71470 ROMENAY",
+        "pos": {
+            "lat": 46.50322,
+            "lng": 5.06156
+        },
+        "title": "Gammvert Romenay"
+    },
+    {
+        "Tel": "03.85.47.31.38",
+        "icon": {
+            "align": "7",
+            "height": 16,
+            "url": "magasin2.png",
+            "width": 16
+        },
+        "id": "m23",
+        "info": "ZI Les Vernes 71370 ST GERMAIN DU PLAIN",
+        "pos": {
+            "lat": 46.70635,
+            "lng": 5.00199
+        },
+        "title": "Gammvert Saint-Germain-du-Plain"
+    },
+    {
+        "Tel": "03.85.32.29.50",
+        "icon": {
+            "align": "5",
+            "height": 16,
+            "url": "siege2.png",
+            "width": 16
+        },
+        "id": "g1",
+        "info": "Z.I. Les Bois Bernoux 71290 CUISERY",
+        "pos": {
+            "lat": 46.55808,
+            "lng": 4.98351
+        },
+        "title": "Siège Horma'Nat"
+    },
+    {
+        "Tel": "03.85.91.93.00",
+        "icon": {
+            "align": "5",
+            "height": 16,
+            "url": "siege2.png",
+            "width": 16
+        },
+        "id": "g2",
+        "info": "6 av Prsident Borgeot 71350 VERDUN SUR LE DOUBS",
+        "pos": {
+            "lat": 46.89078,
+            "lng": 5.02622
+        },
+        "title": "Coopérative Bourgogne du Sud"
+    },
+    {
+        "Tel": "03.80.25.05.25",
+        "icon": {
+            "align": "5",
+            "height": 16,
+            "url": "siege2.png",
+            "width": 16
+        },
+        "id": "g3",
+        "info": "41 Route de Seurre 21200 BEAUNE",
+        "pos": {
+            "lat": 47.01935,
+            "lng": 4.85662
+        },
+        "title": "Siège Vigne Beaune"
+    }
+]
